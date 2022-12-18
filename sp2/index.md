@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# piRover - Course 1 - Python
+## piRover - Course 1 - Python
 
 ### [piRover01](../) - Sprint 2
 

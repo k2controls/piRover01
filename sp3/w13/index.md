@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# piRover Builds by K2 - Course 1:Python
+## piRover Builds by K2 - Course 1:Python
 
 ### [EGR111](../../) - [Sprint 1](../) - Week 13
 
