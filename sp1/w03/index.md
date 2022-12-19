@@ -9,24 +9,36 @@ W03 - During this week you verify the function of your piRover by downloading, i
 
 - **Session 1**
 
-    - Setting DNSURL
-    - Creating a Remote Connection - Results SurveyURL
-    - Configuring the Raspberry PiURL
-    - Build Validation - Part 1URL
-    - Build Validation - Part 2URL
+    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/)
+    - [Creating a Remote Connection](../../lessons/11/CreatingARemoteConnection.pdf) - Result/Survey
+    - [Configuring the Raspberry Pi](../../lessons/15/ConfiguringTheRaspberryPi.pdf)
+    - [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
+    - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
     
 - **Session 2**
     - Status? - open issues
     - Remove LibreOffice to free space?
-        - sudo apt-get remove --purge libreoffice*
-        - sudo apt-get clean
-        - sudo apt-get autoremove
-    - Linux Command - investigation
-    - Python - Investigation
-    - Introduction to Linux (optional resource)URL
-    - Python - Getting StartedURL
-    - Linux commands to update and then install Visual Studio CodePage
-    - Visual Studio Code - Getting StartedURL
+  
+```bash
+sudo apt-get remove --purge libreoffice*
+sudo apt-get clean
+sudo apt-get autoremove
+```
+
+
+    - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf)
+    - [Python - Investigation](../../lessons/17/PythonInvestigation.pdf)
+    - [Introduction to Linux0(https://training.linuxfoundation.org/training/introduction-to-linux/) (optional resource)URL
+    - [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf)
+    - Linux commands to update and then install Visual Studio Code
+
+```bash  
+sudo apt update
+sudo apt upgrade
+sudo apt install code
+```
+
+    - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf)
 
 ---
 
