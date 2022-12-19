@@ -8,17 +8,17 @@ layout: default
 W01 - This weeks is about introductions. You'll be introduced to the course, the Raspberry Pi, and the piRover. Pick up your piRover kit and you can get started on next week's build!
 
 - **Session 1**
-    - Welcome and [Course Introduction](../../lessons/001.CourseIntro.pdf){:target="_blank"}
-    - Raspberry Pi 4 Getting Started
-    - Introduction to the piRover
+    - Welcome and [Course Introduction](../../course_info/CourseIntro-NMC.pdf){:target="_blank"}
+    - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
+    - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
 
     
 - **Session 2**
     - Managing Project Files in the Cloud
-    - piRover Build Preparation
-    - Introduction to Agile/Scrum
-    - piRover Build (intro)
-    - Student Introductions
+    - [piRover Build Preparation](../../lessons/05/piRoverBuildPreparation.pdf){:target="_blank"}
+    - [Introduction to Agile/Scrum](../../lessons/06/piRoverScrumStandup.pdf){:target="_blank"}
+    - [piRover Build (intro)](../../lessons/07/piRoverBuild.pdf)
+    - [Student Introductions](../../lessons/08/StudentIntro.docx){:target="_blank"}
 
 ---
 
