@@ -11,24 +11,27 @@ In session 2, we'll introduce Project 1. This is a written report evaluating you
 - **Session 1**
     - Remote desktop
     - Browser shortcuts on the Pi - Moodle, - OneDrive or Google Drive
-    - Python investigation - continued
+    - [Python investigation](../../lessons/17/PythonInvestigation.pdf) - continued
     - Guessing Game codeURL
-        - wget -O guessing_game.py  https://k2controls.github.io/piRoverBuilds/repo/GameTest.py
 
-    - RPi.GPIO libraryURL
+```console
+        - wget -O guessing_game.py  https://k2controls.github.io/piRoverBuilds/repo/GameTest.py
+```
+
+    - [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/)
         - This resource is installed on Raspian OS by default.
         -VS Code Intellisense for GPIO
             -Remove Pylance
             -Add JEDI
-    - Blink with VS CodeURL
+    - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf)
     
 - **Session 2**
-    - Disabling Yahboom BluetoothURL
+    - Disabling Yahboom BluetoothURL[label](../../lessons/21/DisablingYahboomBluetooth.pdf)
         -beep code
         -game-buzzer-beep mash-up
-    - Project 1: Yahboom Evaluation (due Week 5)URL
-    - piRover Yahboom Evaluation - PreparationURL
-    - piRover Yahboom Evaluation - Preparation (in-class)Assignment
+    - Project 1: [Yahboom Evaluation](../../projects/P01/P01piRoverYahboomEval.pdf) (due Week 5)
+    - [piRover Yahboom Evaluation - Preparation](../../lessons/23/piRoverYahboomEvalPrep.docx)
+
 
 ---
 
@@ -39,3 +42,4 @@ In session 2, we'll introduce Project 1. This is a written report evaluating you
     - **blink.py**
 - Additional items were submitted during class session
     - piRover Yahboom Evaluation Prep
+  - 

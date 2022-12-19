@@ -8,8 +8,10 @@ layout: default
 This is the end of Sprint 1. Project 01 report is due this week. We''ll spend class time preparing to write our own code during Sprint 2 using Visual Studio Code. Other class time is allocated to completing the Project 01 report along with any technical debt from Sprint 1.
 
 - **Session 1**
-    - Project 1: Yahboom Evaluation (P01)URL
-    - User BlinkURL
+    - [Project 1: Yahboom Evaluation (P01)](../../projects/P01/P01piRoverYahboomEval.pdf)
+    - [User Blink](../../lessons/24/piRoverUserBlink.pdf)
+      - [gooddog_baddog.py](../../lessons/24/goodDog_badDog.py)
+      - [user_blink.py](../../lessons/24/user_blink.py)
 
     
 - **Session 2**

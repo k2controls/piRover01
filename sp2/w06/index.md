@@ -12,13 +12,13 @@ W06: This week starts Sprint 2 where you'll be writing your own Python code usin
         - RAM205 - Highly recommended (complete the sequence)
             - 4525  RAM205  M, W  10:15-12:15
             - 4526  RAM205  T, Th  1:00-3:00
-    - User Blink (continued from prior week)URL
-    - Traffic Light ProjectURL
+    - [User Blink](../../lessons/24/piRoverUserBlink.pdf) (continued from prior week)
+    - [Traffic Light Project](../../lessons/25/traffic_light.pdf)
         - using https://codeshare.io/
     
 - **Session 2**
-    - Traffic Light Project (continued)URL
-    - Pushbutton Input using GPIO (introduction only - W07 content)URL    
+    - [Traffic Light Project](../../lessons/25/traffic_light.pdf) (continued)
+    - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf) (introduction only - W07 content)  
 
 ---
 
