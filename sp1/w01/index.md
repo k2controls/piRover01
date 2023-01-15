@@ -11,14 +11,18 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     - Welcome and [Course Introduction](../../course_info/CourseIntro-NMC.pdf){:target="_blank"}
     - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
     - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
+    - [Student Introductions](../../lessons/08/StudentIntro.docx){:target="_blank"}
 
     
 - **Session 2**
+
+<!--
     - Managing Project Files in the Cloud
     - [piRover Build Preparation](../../lessons/05/piRoverBuildPreparation.pdf){:target="_blank"}
     - [Introduction to Agile/Scrum](../../lessons/06/piRoverScrumStandup.pdf){:target="_blank"}
     - [piRover Build (intro)](../../lessons/07/piRoverBuild.pdf)
-    - [Student Introductions](../../lessons/08/StudentIntro.docx){:target="_blank"}
+
+-->
 
 ---
 

@@ -8,13 +8,13 @@ layout: default
 W08:  You will continue to extend your understanding of GPIO interfacing specifically looking an reading sensor states using GPIO as an input.
 
 - **Session 1**
-    - Pushbutton Input using GPIO (con't)URL
-        - pushbutton_toggle.py
-        - pushbutton_cycle.py
-        - Pushbutton Activity Doc
+    - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf) (con't)
+        - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
+        - [pushbutton_cycle.py](../../lessons/26/pushbutton_toggle.py)
+        - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 
     - Line Follower PreparationURL
-        - Line Follower PreparationAssignment
+        - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx)
 
     
 - **Session 2**
