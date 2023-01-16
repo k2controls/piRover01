@@ -30,6 +30,6 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 
 **W01** Assignments - Zip assignment files specified in the following activities and submit to the link below.
 
-- **Activity**: Raspberry Pi 4 Getting Started
-- **Activity**: Student Interviews
+- **Activity**: [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
+- **Activity**: [Student Interviews](../../lessons/08/StudentIntro.docx){:target="_blank"}
 - Note: piRover build activities are started this week but not due until next week, but you must post build pics prior to next week class sessions. The instructor will discuss.
