@@ -26,8 +26,6 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     - [Introduction to Agile/Scrum](../../lessons/06/piRoverScrumStandup.pdf){:target="_blank"}
     - [piRover Build (intro)](../../lessons/07/piRoverBuild.pdf){:target="_blank"}
 
-
-
 ---
 
 ### Assignments
