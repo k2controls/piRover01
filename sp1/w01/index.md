@@ -16,13 +16,17 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     
 - **Session 2**
 
-<!--
     - Managing Project Files in the Cloud
+        1. Create RAM155/Week01
+        2. Upload Getting Started activity doc
+        3. Upload Student Intro doc
+        4. Download folder as .zip
+        5. Submit .zip file to W01 link
     - [piRover Build Preparation](../../lessons/05/piRoverBuildPreparation.pdf){:target="_blank"}
     - [Introduction to Agile/Scrum](../../lessons/06/piRoverScrumStandup.pdf){:target="_blank"}
     - [piRover Build (intro)](../../lessons/07/piRoverBuild.pdf)
 
--->
+
 
 ---
 
