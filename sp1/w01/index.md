@@ -24,7 +24,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
         5. Submit .zip file to W01 link
     - [piRover Build Preparation](../../lessons/05/piRoverBuildPreparation.pdf){:target="_blank"}
     - [Introduction to Agile/Scrum](../../lessons/06/piRoverScrumStandup.pdf){:target="_blank"}
-    - [piRover Build (intro)](../../lessons/07/piRoverBuild.pdf)
+    - [piRover Build (intro)](../../lessons/07/piRoverBuild.pdf){:target="_blank"}
 
 
 
