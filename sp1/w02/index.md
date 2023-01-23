@@ -12,12 +12,11 @@ W02 - This is a build and configure week. By the end of the week you will have t
     - [Sample Scrum Submit](../../lessons/06/SampleScrumSubmit.pdf){:target="_blank"}
       - See Moodle assignment link
       - Due by end of the day
-    - [piRover Build (intro)](../../lessons/07/piRoverBuild.pdf){:target="_blank"}
-    - [piRover Build](../../lessons/07/piRoverBuild.pdf)
-    - [piRover Wiring](../../lessons/09/piRoverWiring.pdf)
+    - [piRover Build](../../lessons/07/piRoverBuild.pdf){:target="_blank"}
+    - [piRover Wiring](../../lessons/09/piRoverWiring.pdf){:target="_blank"}
     - Yahboom G1 Tank power distribution 
-    - [Battery Charging](../../lessons/10/BatteryCharging.pdf)
-    - Demo: [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf)
+    - [Battery Charging](../../lessons/10/BatteryCharging.pdf){:target="_blank"}
+    - Demo: [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
     - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
       - Test and Deploy assignment doc due at end of the week
 
@@ -25,7 +24,7 @@ W02 - This is a build and configure week. By the end of the week you will have t
   
 <!--
     - Test and Deploy - review
-    - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf)
+    - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
     - [Build Validation - Part 1 (W03)](../../lessons/13/BuildValidationPart1.docx)
     - [Build Validation - Part 2 (W03)](../../lessons/13/BuildValidationPart2.docx)
 -->
