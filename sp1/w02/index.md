@@ -36,4 +36,3 @@ W02 - This is a build and configure week. By the end of the week you will have t
   - Scrum reviews 1 and 2. See links in Moodle.
   - Zip the following and post to W02 link.
     - **Test and Deploy**
-    - **Build Validation - Part 1**
