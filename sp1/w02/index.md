@@ -21,13 +21,15 @@ W02 - This is a build and configure week. By the end of the week you will have t
       - Test and Deploy assignment doc due at end of the week
 
 - **Session 2**
-  
-<!--
-    - Test and Deploy - review
+    - Scrum update #2. Complete update in Moodle today. Enter DONE if completed at update #1.
     - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
     - [Build Validation - Part 1 (W03)](../../lessons/13/BuildValidationPart1.docx)
     - [Build Validation - Part 2 (W03)](../../lessons/13/BuildValidationPart2.docx)
--->
+    - No class next Monday. KEK is at a conference.
+      - Complete build validations 1 and 2. Be sure to provide supporing detail.
+      - Verify that you can connect remotely. See class notes and lesson document.
+      - Troubleshoot any issues and email kek with updates.
+      - Everyone must be connected to the rover's remote desktop using VNC by Week 03 Session 2.
 
 ---
 
