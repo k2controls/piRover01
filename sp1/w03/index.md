@@ -8,14 +8,18 @@ layout: default
 W03 - During this week you verify the function of your piRover by downloading, installing, and running Yahboom Robot software on your mobile device. You'll also get your first introduction to Linux and Python.
 
 - **Session 1**
-
-    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/)
-    - [Creating a Remote Connection](../../lessons/11/CreatingARemoteConnection.pdf) - Result/Survey
-    - [Configuring the Raspberry Pi](../../lessons/15/ConfiguringTheRaspberryPi.pdf)
+    - ** No Class Session ** 
+      - kek at a conference
+      - Complete build validations 1 and 2. Review "Creating a Remote Connect" and verify you can connect remotely and do have Internet access on your piRover.
     - [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
     - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
+    - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+        - The following resource is provided if there are issues with DNS settings
+        - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/)
     
 - **Session 2**
+    
+<!--    
     - Status? - open issues
     - Remove LibreOffice to free space?
   
@@ -39,6 +43,7 @@ sudo apt install code
 ```
 
     - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf)
+-->
 
 ---
 
