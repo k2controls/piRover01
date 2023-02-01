@@ -24,9 +24,14 @@ W03 - During this week you verify the function of your piRover by downloading, i
     
 - **Session 2**
     
-<!--    
-    - Status? - open issues
-    - Remove LibreOffice to free space?
+    - Status? 
+      - open issues?
+      - plans to resolve?
+      - Impact on Validation assignment - none
+    - Free up space on SD cards
+      - Open Downloads - delete openCV
+      - Empty Trash
+      - Remove LibreOfficepace
   
 ```bash
 sudo apt-get remove --purge libreoffice*
@@ -48,7 +53,6 @@ sudo apt install code
 ```
 
     - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf)
--->
 
 ---
 
