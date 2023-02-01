@@ -24,35 +24,39 @@ W03 - During this week you verify the function of your piRover by downloading, i
     
 - **Session 2**
     
-    - Status? 
-      - open issues?
-      - plans to resolve?
-      - Impact on Validation assignment - none
-    - Free up space on SD cards
-      - Open Downloads - delete openCV
-      - Empty Trash
-      - Remove LibreOfficepace
+  - Status? 
+    - open issues?
+    - plans to resolve?
+    - Impact on Validation assignment - none
+    - Connecting via phone Hotspot
+      - ![hotspot connect](./hotspot_connect.jpg)
+  - Free up space on SD cards
+    - Open Downloads - delete openCV
+    - Empty Trash
+    - Remove LibreOfficepace
   
 ```bash
 sudo apt-get remove --purge libreoffice*
 sudo apt-get clean
 sudo apt-get autoremove
+
 ```
 
 
-    - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf)
-    - [Python - Investigation](../../lessons/17/PythonInvestigation.pdf)
-    - [Introduction to Linux0(https://training.linuxfoundation.org/training/introduction-to-linux/) (optional resource)URL
-    - [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf)
-    - Linux commands to update and then install Visual Studio Code
+  - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf)
+  - [Python - Investigation](../../lessons/17/PythonInvestigation.pdf)
+  - [Introduction to Linux0(https://training.linuxfoundation.org/training/introduction-to-linux/) (optional resource)URL
+  - [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf)
+  - Linux commands to update and then install Visual Studio Code
 
 ```bash  
 sudo apt update
 sudo apt upgrade
 sudo apt install code
+
 ```
 
-    - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf)
+  - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf)
 
 ---
 
