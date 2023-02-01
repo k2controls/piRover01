@@ -45,7 +45,7 @@ sudo apt-get autoremove
 
   - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf)
   - [Python - Investigation](../../lessons/17/PythonInvestigation.pdf)
-  - [Introduction to Linux0(https://training.linuxfoundation.org/training/introduction-to-linux/) (optional resource)URL
+  - [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/) (optional resource)URL
   - [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf)
   - Linux commands to update and then install Visual Studio Code
 
