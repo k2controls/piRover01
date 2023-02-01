@@ -20,7 +20,7 @@ W03 - During this week you verify the function of your piRover by downloading, i
       - **Video:** [Build Validation - Camera    ](https://youtu.be/4QIFle79sMI){:target="_blank"} 
     - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
         - The following resource is provided if there are issues with DNS settings
-        - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/)
+        - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"}
     
 - **Session 2**
     
@@ -43,10 +43,10 @@ sudo apt-get autoremove
 ```
 
 
-  - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf)
-  - [Python - Investigation](../../lessons/17/PythonInvestigation.pdf)
-  - [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/) (optional resource)URL
-  - [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf)
+  - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf){:target="_blank"}
+  - [Python - Investigation](../../lessons/17/PythonInvestigation.pdf){:target="_blank"}
+  - [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/){:target="_blank"} (optional resource)
+  - [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf){:target="_blank"}
   - Linux commands to update and then install Visual Studio Code
 
 ```bash  
