@@ -38,6 +38,7 @@ sudo apt install code
 - Python in VS Code - first look
   - ColorLED.py
   - Guessing Game
+  - blink.py
 
 ```bash 
 wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
@@ -64,7 +65,6 @@ wget https://k2controls.github.io/piRover01/lessons/19/blink.py
 
 ### Assignments
 - **W04** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **VS_code.jpg** (screen capture of VS Code on the Pi with Guessing Game code)
     - **guessing_game.py**
     - **blink.py**
   
