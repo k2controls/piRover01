@@ -29,11 +29,11 @@ sudo apt install code
 - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf){:target="_blank"}
   - Add Python extension
 
-- [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/)
-    - This resource is installed on Raspian OS by default.
-    -VS Code Intellisense for GPIO
-        -Remove Pylance
-        -Add JEDI
+- [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
+  - This resource is installed on Raspian OS by default.
+  -VS Code Intellisense for GPIO
+    -Remove Pylance
+    -Add JEDI
 
 - Python in VS Code - first look
   - ColorLED.py
