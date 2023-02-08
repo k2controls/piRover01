@@ -38,12 +38,10 @@ sudo apt install code
 - Python in VS Code - first look
   - ColorLED.py
   - Guessing Game
-  - blink.py
 
 ```bash 
 wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
 
-wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 ```
  
 **Session 2**
@@ -53,6 +51,10 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - [Blinkwith VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
   - beep code
   - game-buzzer-beep mash-up
+
+```bash 
+wget https://k2controls.github.io/piRover01/lessons/22/blink.py
+```
 
 - Saving piRover code to your cloud storage
  
