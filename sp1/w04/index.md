@@ -43,22 +43,21 @@ sudo apt install code
 ```bash 
 wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
 
-wget https://k2controls.github.io/piRover01/lessons/19/blink.py
+wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 ```
-
-- [Disabling Yahboom Bluetooth](../../lessons/21/DisablingYahboomBluetooth.pdf){:target="_blank"}
-
  
 **Session 2**
   
+- Disabling Yahboom BluetoothURL[label](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+- [Blinkwith VS Codel](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
+    -beep code
+    -game-buzzer-beep mash-up
+- Saving piRover code to your cloud storage
+- 
+- Project 1: [Yahboom Evaluation](../../projects/P01/P01piRoverYahboomEval.pdf) (due Week 5)
+
 <!--
-
-    - Disabling Yahboom BluetoothURL[label](../../lessons/21/DisablingYahboomBluetooth.pdf)
-        -beep code
-        -game-buzzer-beep mash-up
-    - Project 1: [Yahboom Evaluation](../../projects/P01/P01piRoverYahboomEval.pdf) (due Week 5)
-    - [piRover Yahboom Evaluation - Preparation](../../lessons/23/piRoverYahboomEvalPrep.docx)
-
+- [piRover Yahboom Evaluation - Preparation](../../lessons/23/piRoverYahboomEvalPrep.docx)
 -->
 
 ---
@@ -67,8 +66,6 @@ wget https://k2controls.github.io/piRover01/lessons/19/blink.py
 - **W04** Assignments - Zip assignment files specified in the following activities and submit to the link below
     - **guessing_game.py**
     - **blink.py**
-  
-<!--
+    - **beep.py**
 - Additional items were submitted during class session
     - piRover Yahboom Evaluation Prep
---> 
