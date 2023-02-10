@@ -60,10 +60,6 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
  
 - Project 1: [Yahboom Evaluation](../../projects/P01/P01piRoverYahboomEval.pdf) (due Week 5)
 
-<!--
-- [piRover Yahboom Evaluation - Preparation](../../lessons/23/piRoverYahboomEvalPrep.docx)
--->
-
 ---
 
 ### Assignments

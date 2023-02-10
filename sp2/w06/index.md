@@ -8,6 +8,13 @@ layout: default
 W06: This week starts Sprint 2 where you'll be writing your own Python code using Visual Studio Code to control the GPIO ports on the Raspberry Pi. You'll expand your coding abilities by adding variables and decisions to your solutions.
 
 - **Session 1**
+
+    - [User Blink](../../lessons/24/piRoverUserBlink.pdf)
+      - [gooddog_baddog.py](../../lessons/24/goodDog_badDog.py)
+      - [user_blink.py](../../lessons/24/user_blink.py)
+
+
+
     - Spring Semester - Registration Opens Oct 19!
         - RAM205 - Highly recommended (complete the sequence)
             - 4525  RAM205  M, W  10:15-12:15
