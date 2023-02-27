@@ -9,10 +9,10 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
 **Session 1**
 - [Traffic Light Project](../../lessons/25/traffic_light.pdf) (review from last week, refactor solution)
 - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf)
-- Smart Traffic Light - class coding
+- Smart Traffic Light - demo/class coding optional
 - Infrared input - demo
 
-   ` 
+
 **Session 2**
 - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf) (continued)
   - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
