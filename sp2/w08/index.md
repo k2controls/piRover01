@@ -5,15 +5,13 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 2](../) - Week 08
 
-W08:  You will continue to extend your understanding of GPIO interfacing specifically looking an reading sensor states using GPIO as an input.
+W08:  You will continue to extend your understanding of GPIO interfacing specifically looking at reading sensor states using GPIO as an input.
 
 - **Session 1**
-    - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf) (con't)
-        - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
-        - [pushbutton_cycle.py](../../lessons/26/pushbutton_toggle.py)
-        - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
+    - Motor Control - an introductin
+    - Line Follower Preparation
 
-    - Line Follower PreparationURL
+<!--
         - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx)
 
     
@@ -31,10 +29,11 @@ W08:  You will continue to extend your understanding of GPIO interfacing specifi
 
     - Motor Control - An IntroductionURL
 
+-->
+
 ---
 
 ### Assignments
 - **W08** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **PushButtonActivity.docx** (or .pdf)
     - **line_follower.py**
 - Note: Line Follower Preparation activity submitted in class
