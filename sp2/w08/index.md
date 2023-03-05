@@ -8,14 +8,16 @@ layout: default
 W08:  You will continue to extend your understanding of GPIO interfacing specifically looking at reading sensor states using GPIO as an input.
 
 - **Session 1**
-    - Motor Control - an introductin
     - Line Follower Preparation
-
-<!--
-        - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx)
+      - This is an NMC Gen Ed Critial Thinking activity
+      - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
+      - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
+    - Line Follower Preparation - Class Review
 
     
 - **Session 2**
+  
+<!--
     - Work with your partner in a breakout room to create the following on Codeshare.io
         - **line_follower.py**: 
         - Create a line_follower.py solution that...
@@ -36,4 +38,4 @@ W08:  You will continue to extend your understanding of GPIO interfacing specifi
 ### Assignments
 - **W08** Assignments - Zip assignment files specified in the following activities and submit to the link below
     - **line_follower.py**
-- Note: Line Follower Preparation activity submitted in class
+- Note: Line Follower Preparation activity is submitted in class using the link provided.
