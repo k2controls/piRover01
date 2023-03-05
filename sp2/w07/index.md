@@ -20,6 +20,8 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
   - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 - IR Example (jumper required)
 - Smart traffic light
+- Motor controller introduction
+- Functions - an introduction
   
 ---
 
