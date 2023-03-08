@@ -30,6 +30,8 @@ W08:  You will continue to extend your understanding of GPIO interfacing specifi
     - Continue to create your solution by adding selection structures (if/elif/else) that print a message indicating the corrective action that the piRover should take to "find" the line. See the table created during the prep activity.  
   - At the end of the class session, download your team's code from CodeShare and create your line_follower.py file on the piRover. Test and revise as required. Submit your line_follower.py as part of this week's assignment.
 
+<!-- this normally hidden -->
+[Line Follower Input](../../lessons/28/LineFollowerInput.pdf)
 
 ---
 
