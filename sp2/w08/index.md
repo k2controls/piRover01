@@ -31,7 +31,8 @@ W08:  You will continue to extend your understanding of GPIO interfacing specifi
   - At the end of the class session, download your team's code from CodeShare and create your line_follower.py file on the piRover. Test and revise as required. Submit your line_follower.py as part of this week's assignment.
 
 <!-- this normally hidden -->
-[Line Follower Input](../../lessons/28/LineFollowerInput.pdf)
+[Line Follower Input](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
+<!-- this normally hidden -->
 
 ---
 
