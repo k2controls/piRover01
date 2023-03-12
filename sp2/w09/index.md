@@ -16,13 +16,16 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
 - tionURL
   - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
   - [motor_control_intro.py]](../../lessons/29/motor_control_intro.py){:target='_blank'}
+  
 ```console
 wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
+
 ```
     
 **Session 2**
  
  <!--
+
     - Review: motor_control_intro.py
 
     - With a partner, review your code
