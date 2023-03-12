@@ -25,7 +25,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     
 **Session 2**
  
- <!--
+<!--
 
     - Review: motor_control_intro.py
 
@@ -42,6 +42,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
         - P02 project assigned
         - No class next Wednesday
       - Submit project, debt, and retrospection by end of Week 10
+
 -->
 
 ---
