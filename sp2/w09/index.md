@@ -9,9 +9,11 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
 
 **Session 1**
 - line_follower.py - review and revise
+
 <!--
 ../../lessons/28/__src/line_follower.py
 -->
+
 - [Motor Control Introduction]](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
 - tionURL
   - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
