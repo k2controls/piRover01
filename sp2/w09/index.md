@@ -25,23 +25,14 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     
 **Session 2**
  
-<!--
-
-    - Review: motor_control_intro.py
-
-    - With a partner, review your code
-        - Does your code function?
-        - Were you able to add turns (both pivot and rotate)?
-        - Does your code match your partners?
-        - Report out to the class
-    - motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
-
-    - Motor Control - Lab CheckAssignment
-    - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf)
-    - Next week is end of Sprint 2. 
-        - P02 project assigned
-        - No class next Wednesday
-      - Submit project, debt, and retrospection by end of Week 10
+- Review: motor_control_intro.py
+- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
+  - Motor Control - Lab Check
+- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf)
+- Next week is end of Sprint 2. 
+    - P02 project assigned
+    - No class next Wednesday
+  - Submit project, debt, and retrospection by end of Week 10
 
 -->
 
@@ -51,5 +42,6 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 - **W09** Assignments - Zip assignment files specified in the following activities and submit to the link below
     - **MotorControllerInput.docx** (or .pdf)
     - **motor_controller_intro.py**
+    - **motor_controller_V2.py**
     - **pwm_intro.py**
 - Note: if you did not complete the in-class lab check, include a short video showing rover motion.
