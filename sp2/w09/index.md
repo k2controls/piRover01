@@ -34,8 +34,6 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     - No class next Wednesday
   - Submit project, debt, and retrospection by end of Week 10
 
--->
-
 ---
 
 ### Assignments
