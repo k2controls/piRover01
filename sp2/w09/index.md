@@ -28,7 +28,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 - Review: motor_control_intro.py
 - motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
   - Motor Control - Lab Check
-- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf)
+- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
 - Next week is end of Sprint 2. 
     - P02 project assigned
     - No class next Wednesday
