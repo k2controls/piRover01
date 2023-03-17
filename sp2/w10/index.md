@@ -13,7 +13,7 @@ Also complete the sprint retrospective and submit any technical debt.
     - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'} - code review
         - start_drive.py (demo code - no submission required)
         - start_drive_with_speed.py (demo code - no submission required)
-    - Project 02 - See Moodle submission link for directions and requirements
+    - Project 02 - *See Moodle submission link for directions and requirements*
     
 - **Session 2**
     - No class session on Wednesday
@@ -26,7 +26,7 @@ Also complete the sprint retrospective and submit any technical debt.
 ---
 
 ### Assignments
-- **W10** Assignments - This is an assessment week. Complete Project 2 and submit using the P02 link below. Enter technical debt and retrospective using the other links below.
+- **W10** Assignments - This is an assessment week. Complete Project 2 and submit using the Moodle link provided. Enter technical debt and retrospective using the other links located at the end of the Sprint.
     - **P02**
     - **Debt02**
     - **Retro02**
