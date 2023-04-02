@@ -7,21 +7,30 @@ layout: default
 
 W11: This week's focus in Pulse Width Modulation. This type of output provides an output pulse with the ability to control the duration of the pulse. This creates an analog value that can be used to dim an LED or control motor speed. 
 
-- **Session 1**
+**Session 1**
     - [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review)
-    - Pulse Width Modulation (PWM) Introduction (review)
-    - [Motor Speed Control](../../lessons/31/Motor%20Speed%20Introduction.pdf){:target='_blank'}
-    
-- **Session 2**
-    - Motor Speed Control - continued
-    - piRover Drive - Interface Design Keyboard Interface Design
-        - Submit a Keyboard Interface document (.docx or .pdf) that specifies your vision for a keyboard interface for piRover motion
-        - Include all moves [shown here](../../lessons/32/tank_drive_images.pdf){:target='_blank'}
+    - Review - Pulse Width Modulation (PWM) Introduction 
+    - Review - Motor Speed Control - demo code from week 10
+    - Partner Activity - [Keyboard Interface Design](../../lessons/32/KeyboardInterfaceDesign.docx)
+        - Submit a Keyboard Interface document (.docx or .pdf) that specifies your vision for a keyboard interface for all piRover functions available on the smartphone Control interface.
+        - Include additional moves [shown here](../../lessons/32/tank_drive_images.pdf){:target='_blank'}
         - Include speed control
+**Session 2**
+  - Review - Drive Interface Design (.docx or .pdf)
+    - Review piRover_keyboard.py
+    - Create/connect piRover_drive_fake.py
+    - Create other fakes
+        - piRover_buzzer_fake.py
+        - piRover_LED_fake.py
+        - piRover_servo_fake.py
+    - test fake implementation
 
 ---
 
 ### Assignments
 - **W11** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **motor_control_V3.py** (with speed control)
     - **Keyboard interface document** (draft)
+    - **piRover_keyboard.py**
+    - **piRover_buzzer_fake.py**
+    - **piRover_led_fake.py**
+    - **piRover_servo_fake.py**
