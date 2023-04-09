@@ -5,42 +5,22 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 14
 
-W14: We'll continue to implement functionality of the piRover this week including reviewing the buzzer operation and creating the servo. The instructor will discuss the final project requirements including deadlines W15 and W16.
+W14: You complete part 1 of the final project this week. See the requirements document provided last week. The instructor will preview Bluetooth code during session 1. This is demo only in preparation for part 2 during W16. There is no class for session 2. It is reserved for your work time. Review your implementations for all piRover components including the LED. Verify your piRover_keyboard solution is complete and submit by the end of the week for part 1 of the final assessment.
 
-- **Session 1**
-    - Today - Buzzer review and integration of PWM
-    - Thur, 12/1 - piRover_servo.py, P03-part 1 assigned
-    - Tues, 12/6 - introduction to piRover Bluetooth - instructor demo only
-    - Thur, 12/8 - No class 
-      - Working session for P03-part 1
-      - P03-part 1 due. Use W15 link
-    - Tues, 12/13 - piRover_bt_app.py (replaces piRover_keyboard)
-    - Thur, 12/15 - piRover_bt_app.py (con't)
-      - No code submitted
-      - P03-part 2 - Video of smartphone app controlling piRover per specification
+**Session 1**
+- P03 - Q and A
+    - P03 - part 1 due this week. See document link in last week's section.
+- Introduction to piRover Bluetooth - Instructor demo. No code required.
+    - [piRover_bluetooth.py](piRover_bluetooth.py)
 
-    - piRover_buzzer.py - refactored to use PWM
-    - piRover_switch.py 
-    - test_piRover_armed.py
-
-    
-- **Session 2**
-    - P03 Remote Drive - servoURL
-    - P03-part1 - LED implementations (due next week - see schedule)URL
+**Session 2**
+- **No class session.** Working session dedicated to P03 - part 1 completion.
 
 ---
 
 ### Assignments
-- **W14** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated **P03 Requirements** form. The workingP03 directory contents are listed below.
-    - **workingP03.zip**
-        - piRover_buzzer_fake.py
-        - piRover_buzzer.py (with pwm)
-        - piRover_drive_fake.py
-        - piRover_drive.py
-        - piRover_keyboard.py
-        - piRover_LED_fake.py
-        - piRover_servo_fake.py
-        - piRover_servo.py
-        - piRover_switch.py
-        - test_piRover_armed.py
-  - **P03Requirements** (.docx or .pdf) - all checked excepted LED
+- **P03 part 1**
+  - piRover keyboard implementation including all components.
+  - all fakes included but commented out in main.
+  - See P03 - part 1 document for LED requirements.
+  - Include P03Requirements document. All should be checked.
