@@ -34,7 +34,7 @@ W13: We'll continue to implement functionality of the piRover this week includin
 ---
 
 ### Assignments
-- **W14** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated **P03 Requirements** form. The workingP03 directory contents are listed below.
+- **W13** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated **P03 Requirements** form. The workingP03 directory contents are listed below.
     - **workingP03.zip**
         - piRover_buzzer_fake.py
         - piRover_buzzer.py (with pwm)

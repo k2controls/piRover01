@@ -13,13 +13,14 @@ W12: You'll complete the main keyboard interface for a piRover Drive application
   - add piRover_servo_fake.py
   - Motor Speed Control - review from prior session
   - implement piRover Drive
-
+  - refactor LED_fake
     
 **Session 2**
 - Review piRover_keyboard requirement
-- Refactor LED_fake
 - implement buzzer
-- test all
+- refactor buzzer using PWM
+- test all fakes
+- test drive, buzzer
   
 ---
 
