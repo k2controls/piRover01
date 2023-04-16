@@ -5,7 +5,7 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 15
 
-W15: This is the final week. The instructor will review the LED implementation required in the P03 - part 1 solution. A new Bluetooth application will be created and replace the part 1 keyboard solution. Functionality of all will be tested using the smartphone interface. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
+W15: This is the final week. The instructor will review the LED implementation required in the P03 - part 1 solution that was due last week. A new Bluetooth application will be created and replace the part 1 keyboard solution. Functionality of all will be tested using the smartphone interface. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
 
 **Session 1**
 - Review of keyboard and fakes
