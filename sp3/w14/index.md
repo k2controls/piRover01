@@ -5,22 +5,40 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 14
 
-W14: You complete part 1 of the final project this week. See the requirements document provided last week. The instructor will preview Bluetooth code during session 1. This is demo only in preparation for part 2 during W16. There is no class for session 2. It is reserved for your work time. Review your implementations for all piRover components including the LED. Verify your piRover_keyboard solution is complete and submit by the end of the week for part 1 of the final assessment.
+W14: The instructor will review the P03-part1 final assignment that was due last week. The class will continue to extend the application by creating a switch module and use this to arm the piRover. Configuration changes will enable your code to run at start up. 
+
+During the second session, the instructor will introduce Bluetooth code. You will begin to implement the final piRover_phone.py application and complete this during the final week of the course.
+
+**Schedule**
+- Week 14
+  - Mon, 4/24 
+    - P03 - part 1 review
+    - Start switch for piRover arm
+    - Auto start
+  - Wed, 4/26 
+    - introduction to piRover Bluetooth
+    - piRover_phone.py
+- Week 15
+  - Mon, 5/1 
+    - piRover_phone.py (continued)
+    - P03-part 2 assigned
+  - Wed, 5/3- piRover_bt_app.py (con't)
+    - No class
+    - P03-part 2 due by Friday
+      - Video of smartphone app controlling piRover per specification
+
 
 **Session 1**
-- P03 - Q and A
-    - P03 - part 1 due this week. See document link in last week's section.
-- Introduction to piRover Bluetooth - Instructor demo. No code required.
-    - [piRover_bluetooth.py](piRover_bluetooth.py)
+- P03-part 1 - solution review
+- Start switch
+- piRover arming
+- [Enabling at Startup](EnablingRemoteDriveAtStartup.pdf){:target='_blank'}
 
 **Session 2**
-- **No class session.** Working session dedicated to P03 - part 1 completion.
+- Introduction to piRover Bluetooth - Instructor demo. No code required.
+    - [piRover_bluetooth.py](piRover_bluetooth.py)
 
 ---
 
 ### Assignments
-- **P03 part 1**
-  - piRover keyboard implementation including all components.
-  - all fakes included but commented out in main.
-  - See P03 - part 1 document for LED requirements.
-  - Include P03Requirements document. All should be checked.
+- None

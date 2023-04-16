@@ -5,27 +5,20 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 15
 
-W15: This is the final week. The instructor will review the LED implementation required in the P03 - part 1 solution that was due last week. A new Bluetooth application will be created and replace the part 1 keyboard solution. Functionality of all will be tested using the smartphone interface. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
+W15: This is the final week. Development of the Bluetooth application (piRover_phone.py) will continue. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
 
 **Session 1**
-- Review of keyboard and fakes
-- piRover_led_fake.py
-- piRover_led.py (review from P03 - part 1)
-- Add [piRover_bluetooth.py](piRover_bluetooth.py)  {:target='_blank'}
-  - wget https://k2controls.github.io/piRoverBuilds/P003/10.final_solution/piRover_bluetooth.py
-  - bt_test.py
-- piRover_phone.py (based on piRover_keyboard.py)
-    
-**Session 2**
 - piRover_phone.py
   - testing
   - extensions
   - shut down
-  - start up
   - [Enabling at Startup](EnablingRemoteDriveAtStartup.pdf){:target='_blank'}
-- **P03 part 2 due - video of your smartphone app in use**
-- **Complete retro and debt**
-- **Deadline for all - Friday at 5:00 PM**
+
+**Session 2**
+- No class
+- Complete P03-part2
+- Complete retro and debt
+- Deadline for all - Friday at 5:00 PM
 
 ---
 
