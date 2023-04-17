@@ -65,3 +65,4 @@ There is no class for session 2. It is reserved for your work time. Review your 
   - all fakes included but commented out in main.
   - See P03 - part 1 document for LED requirements.
   - Include P03Requirements document. All should be checked.
+  - Your key assignments do not need to match the instructors but be sure your help functions provides a complete list so that all can be tested.
