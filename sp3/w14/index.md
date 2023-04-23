@@ -30,6 +30,8 @@ During the second session, the instructor will introduce Bluetooth code. You wil
 
 **Session 1**
 - P03-part 1 - solution review
+  - piRover_led.py
+  - piRover_keyboard.py (final version)
 - Start switch
 - piRover arming
 - [Enabling at Startup](EnablingRemoteDriveAtStartup.pdf){:target='_blank'}
