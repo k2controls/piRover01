@@ -10,13 +10,18 @@ W15: This is the final week. Development of the Bluetooth application (piRover_p
 **Session 1**
 - piRover_phone.py
   - testing
-  - extensions
-  - shut down
-  - [Enabling at Startup](EnablingRemoteDriveAtStartup.pdf){:target='_blank'}
+  - review - [Enabling at Startup](EnablingRemoteDriveAtStartup.pdf){:target='_blank'}
+  - shut down - LED_OFF, LED_OFF
+  - analog operations
+    - servo slider -> servo position
+    - servo slider -> drive speed
+    - rgb sliders
+  - other button sequences? custom action?
+- final requirements: video, retro, debt?  
 
 **Session 2**
 - No class
-- Complete P03-part2
+- Complete P03-part2 - piRover video
 - Complete retro and debt
 - Deadline for all - Friday at 5:00 PM
 
