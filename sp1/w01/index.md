@@ -10,10 +10,10 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 - **Session 1**
     - Welcome and [Course Introduction](../../course_info/CourseIntro-NMC.pdf){:target="_blank"}
     - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
-        - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
+        - *Assigned* [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
     - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
-    - [Student Introductions](../../lessons/03/StudentIntro.docx){:target="_blank"}
-    - Introduce yourself by creating a short introduction video using your name as the file name. Include in this week's zip file. This video will not be shared.
+    - *Assigned* [Student Introductions](../../lessons/03/StudentIntro.docx){:target="_blank"}
+    - *Assigned* Introduce yourself by creating a short introduction video using your name as the file name. Include in this week's zip file. This video will not be shared.
 
     
 - **Session 2**
