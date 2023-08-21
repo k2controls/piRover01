@@ -1,60 +1,59 @@
 ---
 layout: default
 ---
-# piRover Builds by K2 - Course 1:Python
+## piRover Builds by K2 - Course 1:Python
 
 ### [piRover 01](../) - Course Information
 
 - Schedule
     - Sprint 1
-        - Week 1
-            - Session 1 
-
-            - Session 2 
-        - Week 2
+        - Week 1    Aug 28
             - Session 1 
             - Session 2 
-        - Week 3
+        - Week 2    Sept 4
             - Session 1 
             - Session 2 
-        - Week 4
+        - Week 3    Sept 11
+            - Session 1 
+            - Session 2 
+        - Week 4    Sept 18
             - Session 1
             - Session 2
-        - Week 5
-            - Session 1
-            - Session 2 
+        - Week 5    Sept 25
+            - Session 1     Sprint 1 Project
+            - Session 2     No Class
     - Sprint 2
-        - Week 6
+        - Week 6    Oct 2
             - Session 1 
             - Session 2 
-        - Week 7
-              - Session 1 
-            - Session 2 
-        - Week 8
+        - Week 7    Oct 9
             - Session 1 
             - Session 2 
-        - Week 9
+        - Week 8    Oct 16
             - Session 1 
             - Session 2 
-        - Week 10
+        - Week 9    Oct 23
             - Session 1 
-            - Session 2    
+            - Session 2 
+        - Week 10   Oct 30
+            - Session 1     Sprint 2 Project
+            - Session 2     No class    
     - Sprint 3
-        - Week 11
+        - Week 11   Nov 6
             - Session 1 
             - Session 2 
-        - WeeK 12
+        - WeeK 12   Nov 13
             - Session 1 
             - Session 2 
-        - Week 13
+        - Week 13   Nov 20
             - Session 1 
             - Session 2 
-        - Week 14
+        - Week 14   Nov 27
             - Session 1 
             - Session 2 
-        - Week 15
+        - Week 15   Dec 4
             - Session 1 
             - Session 2   
-        - Week 16
-            - Session 1 
-            - Session 2
+        - Week 16   Dec 11
+            - Session 1     Sprint 3 Project
+            - Session 2     No class
