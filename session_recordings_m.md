@@ -2,7 +2,7 @@
 ## Section 2048 
 ### Session Recordings
 
-- [8/28/2023]()
+- [8/28/2023](https://nmc.zoom.us/rec/share/Padw_AGU3F8_gUfoNIUEsAmP6BoaN8i5n6dMu1JHtphtjymto65qU-jezHzrUf9i.dbrviq6JuQd-liPy?startTime=1693242525000)
 - [8/30/2023]()
 - [9/4/2023]()
 - [9/6/2023]()
