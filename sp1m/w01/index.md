@@ -21,7 +21,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 - Zoom account? Where you able to join as a Zoom user?
 - Zoom video recording?  Local or cloud storage?
 - My test
-    - [Cloud](https://nmc.zoom.us/rec/share/I4ShWrBzOjkhI3jkezkxjaTdRP2mMCBPTZGiXYNcgK2VGnnm2mOap-ZEjQpyJW2l.R6VNTtZ8UBXHd9UD?startTime=1693398903000)
+    - [Cloud](https://nmc.zoom.us/rec/share/I4ShWrBzOjkhI3jkezkxjaTdRP2mMCBPTZGiXYNcgK2VGnnm2mOap-ZEjQpyJW2l.R6VNTtZ8UBXHd9UD)
     - [local](video2282558214.mp4)
 - Managing Project Files in the Cloud
     1. Create RAM155/Week01
