@@ -11,7 +11,9 @@ W02 - This is a build and configure week. By the end of the week you will have t
 - *** No class - Labor Day ***
 
 **Session 2**
-- Build status 
+- Week 01 submitted? Issues?
+  - What cool Pi projects did you find?
+- Build status? 
 - Midpoint scrum video due. Be sure to review and answer the three scrum questions.
 - Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
 - [piRover Build](../../lessons/07/piRoverBuild.pdf){:target="_blank"}
@@ -25,5 +27,7 @@ W02 - This is a build and configure week. By the end of the week you will have t
 ### Assignments
 - **W02** Assignments 
   - Zip the following and post to W02 link.
-    - **Scrum videos** - midpoint and final. Add video files to W02 zip or provide links.
+    - **Scrum videos** - midpoint and final. Add video files to W02 zip or provide links in the text area in Moodle.
+    <!--
     - **Test and Deploy**
+    -->
