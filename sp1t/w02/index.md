@@ -45,6 +45,7 @@ W02 - This is a build and configure week. By the end of the week you will have t
   - Zip the following and post to W02 link.
     - **Scrum videos** - midpoint and final. Add video files to W02 zip or provide links.
     - **Activity: Build Validation - Part 1**
+    
     <!--
     - **Activity: Build Validation - Part 2**
     -->
