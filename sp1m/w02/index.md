@@ -20,7 +20,10 @@ W02 - This is a build and configure week. By the end of the week you will have t
 - [piRover Wiring](../../lessons/09/piRoverWiring.pdf){:target="_blank"}
 - Yahboom G1 Tank power distribution 
 - [Battery Charging](../../lessons/10/BatteryCharging.pdf){:target="_blank"}
-- Demo: [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+- Demos: 
+  - Power up
+  - Phone app
+  - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
 
 ---
 
