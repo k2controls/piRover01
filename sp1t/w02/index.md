@@ -20,17 +20,18 @@ W02 - This is a build and configure week. By the end of the week you will have t
 - Demos: 
   - Power up
   - Phone app
-  - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
 
 **Session 2**
 
-<!--
-- Scrum update #2. 
-- Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
+- Build updates. 
+- Scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
 - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
-  - Test and Deploy assignment doc due at end of the week
 - [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
   - **Video:** [Build Validation - Overview](https://youtu.be/RanVP2aGpzg){:target="_blank"}
+- [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+
+
+<!--
 - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
   - **Video:** [Build Validation - Line Follower](https://youtu.be/k2n6r7ibBpA){:target="_blank"}
   - **Video:** [Build Validation - Servo LEDs](https://youtu.be/Qzsm5Gdbr1w){:target="_blank"}
