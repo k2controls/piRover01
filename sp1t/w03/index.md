@@ -40,7 +40,7 @@ sudo apt-get autoremove
 
 **Session 2**
     
-  <!-- 
+<!-- 
   
   - Status? 
     - open issues?
@@ -52,28 +52,30 @@ sudo apt-get autoremove
     - Open Downloads - delete openCV
     - Empty Trash
     - Remove LibreOfficepace
+-->
   
-```bash
+<!-- ```bash
 sudo apt-get remove --purge libreoffice*
 sudo apt-get clean
 sudo apt-get autoremove
 
-```
+``` -->
 
 
-  - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf){:target="_blank"}
+  <!-- - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf){:target="_blank"}
   - [Python - Investigation](../../lessons/17/PythonInvestigation.pdf){:target="_blank"}
   - [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/){:target="_blank"} (optional resource)
   - [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf){:target="_blank"}
-  - Linux commands to update and then install Visual Studio Code
+  - Linux commands to update and then install Visual Studio Code -->
 
-```bash  
+<!-- ```bash  
 sudo apt update
 sudo apt upgrade
 sudo apt install code
 
-```
+``` -->
 
+<!--
   - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf) 
   
 -->
