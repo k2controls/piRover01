@@ -40,7 +40,9 @@ sudo apt-get autoremove
 
 **Session 2**
     
-  <!-- - Status? 
+  <!-- 
+  
+  - Status? 
     - open issues?
     - plans to resolve?
     - Impact on Validation assignment - none
@@ -72,7 +74,9 @@ sudo apt install code
 
 ```
 
-  - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf) -->
+  - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf) 
+  
+-->
 
 ---
 
