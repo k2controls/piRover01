@@ -52,6 +52,7 @@ sudo apt-get autoremove
     - Open Downloads - delete openCV
     - Empty Trash
     - Remove LibreOfficepace
+    
 -->
   
 <!-- ```bash
