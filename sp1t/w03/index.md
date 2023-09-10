@@ -21,8 +21,10 @@ W03 - During this week you verify the function of your piRover by downloading, i
   - Network/Wi-Fi connection (not at NMC) - yahboomtank
   - Use localhost in browser to configure Wi-Fi client User=Admin, Password=yahboom
 0
-    <!-- - The following resource is provided if there are issues with DNS settings
-    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"} -->
+<!-- 
+- The following resource is provided if there are issues with DNS settings
+- [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"} 
+-->
 
 - Free up space on SD cards
   - Open Downloads - delete openCV
