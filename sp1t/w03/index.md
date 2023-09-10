@@ -20,7 +20,7 @@ W03 - During this week you verify the function of your piRover by downloading, i
   - Ethernet connection is peer-to-peer, so yahboomtank.local
   - Network/Wi-Fi connection (not at NMC) - yahboomtank
   - Use localhost in browser to configure Wi-Fi client User=Admin, Password=yahboom
-0
+
 <!-- 
 - The following resource is provided if there are issues with DNS settings
 - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"} 
