@@ -23,12 +23,15 @@ W03 - During this week you verify the function of your piRover by downloading, i
 - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
 
 
-    <!-- 
+    <!--
+
     if time permits
     - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf){:target="_blank"}
 
     - The following resource is provided if there are issues with DNS settings
-    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"} -->
+    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"}
+
+    -->
     
 **Session 2**
     
@@ -44,12 +47,15 @@ W03 - During this week you verify the function of your piRover by downloading, i
     - Remove LibreOfficepace 
   -->
  
-<!-- ```bash
+<!--
+
+ ```bash
 sudo apt-get remove --purge libreoffice*
 sudo apt-get clean
 sudo apt-get autoremove
 
-``` -->
+``` 
+-->
 
 <!-- 
 - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf){:target="_blank"}
@@ -67,7 +73,8 @@ sudo apt install code
 ```
 
   - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf) 
-  --> 
+
+--> 
   
 ---
 
