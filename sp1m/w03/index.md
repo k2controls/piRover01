@@ -35,17 +35,20 @@ if time permits
     
 **Session 2**
     
-  <!-- - Status? 
-    - open issues?
-    - plans to resolve?
-    - Impact on Validation assignment - none
-    - Connecting via phone Hotspot
-      - ![hotspot connect](./hotspot_connect.jpg)
-  - Free up space on SD cards
-    - Open Downloads - delete openCV
-    - Empty Trash
-    - Remove LibreOfficepace 
-  -->
+<!-- 
+
+- Status? 
+  - open issues?
+  - plans to resolve?
+  - Impact on Validation assignment - none
+  - Connecting via phone Hotspot
+    - ![hotspot connect](./hotspot_connect.jpg)
+- Free up space on SD cards
+  - Open Downloads - delete openCV
+  - Empty Trash
+  - Remove LibreOfficepace 
+
+-->
  
 
   
