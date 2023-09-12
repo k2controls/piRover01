@@ -39,6 +39,9 @@ sudo apt-get autoremove
 ```   
 
 - [Linux Command - investigation](../../lessons/16/LinuxInvestigation.pdf){:target="_blank"}
+- [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/){:target="_blank"} (optional resource)
+- [Python - Investigation](../../lessons/17/PythonInvestigation.pdf){:target="_blank"}
+
 
 **Session 2**
     
