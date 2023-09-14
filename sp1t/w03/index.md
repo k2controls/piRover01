@@ -60,7 +60,7 @@ sudo apt-get autoremove
   - [Python Fiddle](http://pythonfiddle.com/)
 
 - Visual Studio Code - installation
-  - Linux commands to update and then install Visual Studio Code -->
+  - Linux commands to update and then install Visual Studio Code
 
 ```bash  
 sudo apt update
