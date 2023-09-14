@@ -45,6 +45,30 @@ sudo apt-get autoremove
 
 **Session 2**
     
+- Status? 
+  - open issues?
+  - plans to resolve?
+  - Impact on Validation assignment - none
+  - Connecting via phone Hotspot
+    - ![hotspot connect](./hotspot_connect.jpg)
+
+- Linux - basic commands - review and practice
+
+- [Python - Investigation](../../lessons/17/PythonInvestigation.pdf){:target="_blank"}
+  - [Python3 for Robotics](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/python-robotics/){:target="_blank"} - optional, on-your-own
+  - Python.org - Documentation - Beginner's Guide
+  - [Python Fiddle](http://pythonfiddle.com/)
+
+- Visual Studio Code - installation
+  - Linux commands to update and then install Visual Studio Code -->
+
+```bash  
+sudo apt update
+sudo apt upgrade
+sudo apt install code
+
+```
+
 
 ---
 
