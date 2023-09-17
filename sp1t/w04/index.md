@@ -9,6 +9,28 @@ W04: In week 4, we start the transition from running someone else's code to writ
 In session 2, we'll introduce Project 1. This is a written report evaluating your experience with the piRover so far. You complete a team activity to prepare, but the report is not due until Week 05.
 
 **Session 1**
+
+
+- [Python - Getting Started](../../lessons/18/PythonGettingStarted.pdf){:target="_blank"}
+- Linux commands to update and then install Visual Studio Code -->
+
+<!-- ```bash  
+sudo apt update
+sudo apt upgrade
+sudo apt install code
+
+``` -->
+
+<!--
+
+  - [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf) 
+  
+-->
+
+
+
+
+
 - Build Validation review - issues?
 - Current requirements
     - VNC remote connection - either Ethernet or Wi-Fi
