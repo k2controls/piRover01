@@ -36,6 +36,9 @@ sudo apt install code
     -Remove Pylance
     -Add JEDI
 
+ - [Disabling Yahboom BluetoothURL](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+
+
 - Python in VS Code - first look
   - ColorLED.py
   - Guessing Game
@@ -46,8 +49,11 @@ wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
 ```
  
 **Session 2**
+
+<!--
   
-<!-- - [Disabling Yahboom BluetoothURL](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+ - [Disabling Yahboom BluetoothURL](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+
 
 - [Blinkwith VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
   - beep code
