@@ -18,9 +18,9 @@ W04: In week 4, we start the transition from running someone else's code to writ
 
 - [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
   - This resource is installed on Raspian OS by default.
-  -VS Code Intellisense for GPIO
-    -Remove Pylance
-    -Add JEDI
+  - VS Code Intellisense for GPIO
+    - Remove Pylance
+    - Add JEDI
 
 - Guessing Game and debugger use
 
