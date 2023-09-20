@@ -8,6 +8,9 @@ layout: default
 W04: In week 4, we start the transition from running someone else's code to writing our own. First, you'll connect remotely to the Pi and take a first look at Python on the Pi. We'll then disable the Yahboom code and start writing our own GPIO code.
 
 **Session 1**
+- Canceled due to Internet outage.
+
+**Session 2**
 
 - Build Validation review - issues? Does everything work?
 
@@ -38,9 +41,6 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Create blink_beep.py and test
 
 - Saving piRover code to your cloud storage
-
-**Session 2**
-
 
 ---
 

@@ -36,38 +36,42 @@ sudo apt install code
     -Remove Pylance
     -Add JEDI
 
- - [Disabling Yahboom BluetoothURL](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+ - [Disabling Yahboom Bluetooth](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
 
 
 - Python in VS Code - first look
   - ColorLED.py
-  - Guessing Game
+
+ 
+**Session 2**
+
+- Python in VS Code - first look/review
+  - disabling Yahboom Bluetooth (see Session 1 link)
+  - ColorLED.py
+
+- [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
+  - This resource is installed on Raspian OS by default.
+  -VS Code Intellisense for GPIO
+    -Remove Pylance
+    -Add JEDI
+
+- Guessing Game and debugger use
 
 ```bash 
 wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
 
 ```
- 
-**Session 2**
 
-<!--
-  
- - [Disabling Yahboom BluetoothURL](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
-
-
-- [Blinkwith VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
-  - beep code
-  - game-buzzer-beep mash-up
+- [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
 
 ```bash 
 wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 ```
+- Create beep.py and test
+- Create blink_beep.py and test
 
 - Saving piRover code to your cloud storage
  
-- Project 1: [Yahboom Evaluation](../../projects/P01/P01piRoverYahboomEval.pdf) (due Week 5) 
--->
-
 ---
 
 ### Assignments
