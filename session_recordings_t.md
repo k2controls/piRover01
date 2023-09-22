@@ -8,11 +8,14 @@
 - [9/7/2023](https://nmc.zoom.us/rec/share/yR-DufzevPam78W6P7Ah-Fw-jkQ8xTPHs65E9hNwsAQR7A1w0wx1oOENtCk9U5f6.Q7_oefoiohsjBN5V)
 - [9/12/2023](https://nmc.zoom.us/rec/share/onuyBkvwdvufcCEvh2aWFs2-cCL3OGpPAdpAwH1ZQwzcTl7YxTwyzvoY9dEBaMFo.vVAkchAL6N9cvY6O)
 - [9/14/2023](https://nmc.zoom.us/rec/share/2wnm8_tOzJu1tmnXQRNQ-5-gwSk1a-TSpm6P1OCc_ISclJ4OH_6eoGqQDl4UaUV-.9hLAp9-IIFZmppC4)
+- [9/19/2023]()
+- [9/21/2023](https://nmc.zoom.us/rec/share/OlXgLl1d4dw0eJIcnetmARlaqB9TlLP3N-NJ_geGC5rrRqNm315T2O9aMVxBj0Aj.c6eAyI0a1JGLpotO)
+
+
 
 <!-- 
 
-- [9/19/2023]()
-- [9/21/2023]()
+
 - [9/26/2023]()
 - [9/28/2023]()
 - [10/3/2023]()
