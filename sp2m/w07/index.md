@@ -7,6 +7,11 @@ layout: default
 W07: Your goal for this week is to extend your understanding of GPIO and decisions. You will configure the GPIO pin connected to the controller board's start switch as an input and use the button's state to determine the flow of code.
 
 **Session 1**
+-***
+- P01 Review
+- Grading
+- https://www.udemy.com/course/complete-python-bootcamp-from-zero-to-hero-in-python/
+
 - [Traffic Light Project](../../lessons/25/traffic_light.pdf) (review from last week, refactor solution)
 - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf)
 - Smart Traffic Light - demo/class coding optional
