@@ -7,7 +7,6 @@ layout: default
 W07: Your goal for this week is to extend your understanding of GPIO and decisions. You will configure the GPIO pin connected to the controller board's start switch as an input and use the button's state to determine the flow of code.
 
 **Session 1**
--***
 - P01 Review
 - Grading
 - https://www.udemy.com/course/complete-python-bootcamp-from-zero-to-hero-in-python/
@@ -25,8 +24,8 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
   - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 - IR Example (jumper required)
 - Smart traffic light
-- Motor controller introduction
-- Functions - an introduction
+<!-- - Motor controller introduction
+- Functions - an introduction -->
   
 ---
 
