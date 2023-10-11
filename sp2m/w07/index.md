@@ -9,12 +9,12 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
 **Session 1**
 - P01 Review
 - Grading
-- https://www.udemy.com/course/complete-python-bootcamp-from-zero-to-hero-in-python/
+- https://www.udemy.com/course/the-complete-python-course/?utm_source=email-sendgrid&utm_medium=970600&utm_campaign=2023-10-09&utm_term=766460&utm_content=promo&couponCode=BIRTHDAY_SALE_23
 
-- [Traffic Light Project](../../lessons/25/traffic_light.pdf) (review from last week, refactor solution)
-- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf)
+- [Traffic Light Project](../../lessons/25/traffic_light.pdf) (review from last week, refactor solution){:target='_blank'} 
+- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'} 
 - Smart Traffic Light - demo/class coding optional
-- Infrared input - demo
+
 
 
 **Session 2**
@@ -22,9 +22,9 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
   - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
   - [pushbutton_cycle.py](../../lessons/26/pushbutton_cycle.py)
   - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
-- IR Example (jumper required)
 - Smart traffic light
-
+- Infrared input - demo (jumper required)
+- Function introduction
 <!-- 
 - Motor controller introduction
 - Functions - an introduction 
