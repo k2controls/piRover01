@@ -24,12 +24,9 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
   - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 - Smart traffic light
 - Infrared input - demo (jumper required)
-- Function introduction
-
-<!-- 
 - Motor controller introduction
 - Functions - an introduction 
--->
+
   
 ---
 
@@ -40,4 +37,4 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
     - **pushbutton_toggle.py**
     - **pushbutton_cycle.py**
     - **Pushbutton Activity** (.docx or .pdf) 
-  
+    - **test_drive.py**
