@@ -25,6 +25,7 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
 - Smart traffic light
 - Infrared input - demo (jumper required)
 - Function introduction
+
 <!-- 
 - Motor controller introduction
 - Functions - an introduction 
