@@ -22,22 +22,15 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 ```
     
 **Session 2**
- 
-<!-- - Line Follower Preparation
+- NMC Critical Thinking assessment
+- In class and on your own
+- Submit to Moodle link provided
+
+<!-- - **Line Follower Preparation**
   - This is an NMC Gen Ed Critial Thinking activity
   - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
   - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
  -->
-
-
-<!-- - Review: motor_control_intro.py
-- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
-  - Motor Control - Lab Check
-- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
-- Next week is end of Sprint 2. 
-    - P02 project assigned
-    - No class next Wednesday
-  - Submit project, debt, and retrospection by end of Week 10 -->
 
 ---
 
