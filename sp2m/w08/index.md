@@ -8,6 +8,7 @@ layout: default
 W08: We introduce user defined functions this week. We'll review piRover drive concepts and create intial drive code.
 
 **Session 1**
+- User defined function - an introduction
 - [Motor Control Introduction](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
   - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
   - [motor_control_intro.py](../../lessons/29/motor_control_intro.py){:target='_blank'}

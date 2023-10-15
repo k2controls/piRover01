@@ -5,38 +5,48 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 2](../) - Week 08
 
-W08:  You will continue to extend your understanding of GPIO interfacing specifically looking at reading sensor states using GPIO as an input.
+W08: We introduce user defined functions this week. We'll review piRover drive concepts and create intial drive code.
 
 **Session 1**
-- Line Follower Preparation
+- Start switch as input - review
+- Motor controller introduction
+  - test_drive.py
+- User defined function - an introduction
+- [Motor Control Introduction](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
+  - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
+  - [motor_control_intro.py](../../lessons/29/motor_control_intro.py){:target='_blank'}
+  
+```console
+wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
+
+```
+    
+**Session 2**
+ 
+<!-- - Line Follower Preparation
   - This is an NMC Gen Ed Critial Thinking activity
   - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
   - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
-- Line Follower Preparation - Class Review
+ -->
 
-    
-**Session 2**
-- push button review
-- Condition with logic and   
-- Introduction to Codeshare.io
-- Work with your partner in a breakout room to create the following on Codeshare.io
-    - **line_follower.py**: 
-    - Create a line_follower.py solution that...
-      - configures each line follower inputs
-      - enters a loop
-      - reads each sensor
-      - displays which of the four line followers are on ("On" means the line is below and being sensed.)
-    - You'll return to the class to review and discuss.
-    - Continue to create your solution by adding selection structures (if/elif/else) that print a message indicating the corrective action that the piRover should take to "find" the line. See the table created during the prep activity.  
-  - At the end of the class session, download your team's code from CodeShare and create your line_follower.py file on the piRover. Test and revise as required. Submit your line_follower.py as part of this week's assignment.
 
-<!-- this normally hidden -->
-[Line Follower Input](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
-<!-- this normally hidden -->
+<!-- - Review: motor_control_intro.py
+- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
+  - Motor Control - Lab Check
+- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
+- Next week is end of Sprint 2. 
+    - P02 project assigned
+    - No class next Wednesday
+  - Submit project, debt, and retrospection by end of Week 10 -->
 
 ---
 
 ### Assignments
 - **W08** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **line_follower.py**
-- Note: Line Follower Preparation activity is submitted in class using the link provided.
+    - **test_drive.py**
+    - **MotorControllerInput.docx** (or .pdf)
+    - **motor_controller_intro.py**
+
+    <!-- - **Video lab check - short video showing forward, backward, and turning.** -->
+
+<!-- - Note: Line Follower Preparation critical thinking activity is submitted in class using the link provided. -->
