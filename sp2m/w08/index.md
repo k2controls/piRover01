@@ -34,7 +34,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 
 ### Assignments
 - **W08** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **MotorControllerInput.docx** (or .pdf)
+    - **MotorControllerIntro.docx** (or .pdf)
     - **motor_controller_intro.py**
     - **Video lab check - short video showing forward, backward, and turning.**
 
