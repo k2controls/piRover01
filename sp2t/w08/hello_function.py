@@ -16,10 +16,20 @@ def hello(name):
     #print("Hello {}!".format(name))
     print()
 
+def add_three(a, b, c):
+    z = a + b + c
+    return z
 
 # Here is the main code. Call some functions!
 # Be sure to use the debugger (both F10 and F11) to see this work
 welcome()
 hello("Keith")
 hello("Pete")
+m = add_three(10,20,30)
+print(m)
+x = 22
+y = 33
+u = 11
+n = add_three(u, y, x)
+print(f"n={n}")
 
