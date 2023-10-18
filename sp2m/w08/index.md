@@ -23,11 +23,10 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 - In class and on your own
 - Submit to Moodle link provided
 
-<!-- - **Line Follower Preparation**
+- **Line Follower Preparation**
   - This is an NMC Gen Ed Critial Thinking activity
   - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
   - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
- -->
 
 
 ---
@@ -38,4 +37,4 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     - **motor_controller_intro.py**
     - **Video lab check - short video showing forward, backward, and turning.**
 
-<!-- - Note: Line Follower Preparation critical thinking activity is submitted in class using the link provided. -->
+- Note: Line Follower Preparation critical thinking activity is submitted in class using the Moodle link provided.
