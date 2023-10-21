@@ -8,6 +8,21 @@ layout: default
 W09: Here you'll review line follower inputs from the prior week. piRover drive concepts will be introduced as you work toward having the line follower inputs control the drive output.
 
 **Session 1**
+
+LINE FOLLOWR
+review
+partner coding
+
+<!-- - Review: motor_control_intro.py
+- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
+  - Motor Control - Lab Check
+- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
+- Next week is end of Sprint 2. 
+    - P02 project assigned
+    - No class next Wednesday
+  - Submit project, debt, and retrospection by end of Week 10 -->
+
+
 - line_follower.py - review and revise
 
 <!--

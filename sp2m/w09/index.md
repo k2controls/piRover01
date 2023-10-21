@@ -8,38 +8,25 @@ layout: default
 W09: Here you'll review line follower inputs from the prior week. piRover drive concepts will be introduced as you work toward having the line follower inputs control the drive output.
 
 **Session 1**
-- line_follower.py - review and revise
+- [LineFollowerInput](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
 
-<!--
-../../lessons/28/__src/line_follower.py
--->
-
-- [Motor Control Introduction](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
-  - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
-  - [motor_control_intro.py](../../lessons/29/motor_control_intro.py){:target='_blank'}
-  
-```console
-wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
-
-```
-    
 **Session 2**
  
-- Review: motor_control_intro.py
+<!-- - Review: motor_control_intro.py
 - motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
-  - Motor Control - Lab Check
 - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
 - Next week is end of Sprint 2. 
     - P02 project assigned
     - No class next Wednesday
-  - Submit project, debt, and retrospection by end of Week 10
+  - Submit project, debt, and retrospection by end of Week 10 -->
 
 ---
 
 ### Assignments
 - **W09** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **MotorControllerInput.docx** (or .pdf)
+    - **line_follower.py**
     - **motor_controller_intro.py**
+    - **Video lab check - short video showing forward, backward, and turning.**
     - **motor_controller_V2.py**
-    - **pwm_intro.py**
-- Note: if you did not complete the in-class lab check, include a short video showing rover motion.
+    
+<!-- - **pwm_intro.py** -->
