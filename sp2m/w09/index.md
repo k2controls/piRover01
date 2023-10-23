@@ -25,8 +25,7 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
 ### Assignments
 - **W09** Assignments - Zip assignment files specified in the following activities and submit to the link below
     - **line_follower.py**
-    - **motor_controller_intro.py**
-    - **Video lab check - short video showing forward, backward, and turning.**
     - **motor_controller_V2.py**
+    - **Video lab check - short video showing forward, backward, and turning using V2 controller.**
     
 <!-- - **pwm_intro.py** -->
