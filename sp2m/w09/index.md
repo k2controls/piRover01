@@ -9,11 +9,12 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
 
 **Session 1**
 - [LineFollowerInput](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
+- Review: motor_control_intro.py
+- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
 
 **Session 2**
  
-<!-- - Review: motor_control_intro.py
-- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
+<!-- 
 - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
 - Next week is end of Sprint 2. 
     - P02 project assigned
