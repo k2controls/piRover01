@@ -13,13 +13,20 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
 - motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
 
 **Session 2**
- 
-<!-- 
+  - Jedi fix
+  - Install prior version of Python Extension - v2022.6.0
+  ![install screen capture]](JediFix.jpg)
+
 - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
+
+```
+wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
+```
+
 - Next week is end of Sprint 2. 
     - P02 project assigned
     - No class next Wednesday
-  - Submit project, debt, and retrospection by end of Week 10 -->
+  - Submit project, debt, and retrospection by end of Week 10 
 
 ---
 
@@ -28,5 +35,4 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
     - **line_follower.py**
     - **motor_controller_V2.py**
     - **Video lab check - short video showing forward, backward, and turning using V2 controller.**
-    
-<!-- - **pwm_intro.py** -->
+    - **pwm_intro.py**
