@@ -15,7 +15,8 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
 **Session 2**
   - Jedi fix
   - Install prior version of Python Extension - v2022.6.0
-  ![install screen capture]](JediFix.jpg)
+
+  ![install screen capture](JediFix.jpg)
 
 - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
 
