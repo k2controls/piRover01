@@ -19,7 +19,7 @@ Also complete the sprint retrospective and submit any technical debt.
     - No class session on Wednesday
     - Class session reserved for 
         - P02 User Move Project
-            - Note: P02 is due on Sunday of Spring Break. No late work is accepted.
+            - Do your own work. No late work is accepted.
         - Retrospective
         - Technical Debt
 
