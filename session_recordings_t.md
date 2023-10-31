@@ -17,9 +17,9 @@
 - [10/10/2023]()
 - [10/12/2023](https://nmc.zoom.us/rec/share/MR9G8yDReAQTQW2FiAYdjuseUhRjH770a_Qje7_IIU93ERLk95gOCbmOEGNlDI8q.plftmvP31E0bRXGY)
 - [10/17/2023](https://nmc.zoom.us/rec/share/UL_1rPml5aNfYhGhvM6C6SBLR2Q5qNyvf0ljRKGLj2dx8qLwNUIhrwir6RyBbHJa.WhERpW-q-WkR-rVC)
-- [10/19/2023](https://nmc.zoom.us/rec/share/83RNBcmvNJZ7pB0w1zZKYX5oRMBTYwheEFdy60JiEdH9-3NnvBlbDT7NCwD2D36L.u-jTtyNQqhi2nVp5)
+- [10/19/2023](https://nmc.zoom.us/rec/share/GfyfPoJL_T3WRmIAvHJuL-C6BI4PYamP_xt8pLBaFvh0A2_OjoBR6K9RdAl9BZ3U.nnlzVQfNFaxcSeUz)
 - [10/24/2023](https://nmc.zoom.us/rec/share/edFfSnu6stRLA7tlB8-gsw6jgGPBWoFoe1jMDchqJEaspPto6Wprh8WLTF2NtpGM.8D5ltGkwkeQKXoMh)
-- [10/26/2023](https://nmc.zoom.us/rec/share/xKt5IxT2tCpE_Fo6jzrB8OTAVhskYL2GTv-yqvDdmhB8JPE7mh-KLnDb6JhVkoZS.oAmhfh6Wu3b1LC-G?startTime=1698349732000)
+- [10/26/2023](https://nmc.zoom.us/rec/share/U3ENz_KTyQvvG04wl0IbkjuTeA3pv5642HXm51Awrnxoq4AhTTO_wqt4R2x1cJRw.JuPbkgUUOM38NBNb)
 
 <!-- 
 
