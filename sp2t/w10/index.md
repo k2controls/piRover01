@@ -16,7 +16,7 @@ Also complete the sprint retrospective and submit any technical debt.
     - Project 02 - *See Moodle submission link for directions and requirements*
     
 - **Session 2**
-    - No class session on Thursday
+    - **No class session on Thursday**
     - Class session reserved for 
         - P02 User Move Project
             - Do your own work. No late work is accepted.
