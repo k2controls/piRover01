@@ -25,6 +25,7 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
   - The instructor will demonstrate sample code.
   
 **Session 2**
+
 <!-- - 
   - Review - Keyboard Interface Design (.docx or .pdf)
   - Review piRover_keyboard.py
@@ -34,7 +35,8 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
       - piRover_buzzer_fake.py
       - piRover_LED_fake.py
       - piRover_servo_fake.py
-  - test fake implementation -->
+  - test fake implementation 
+-->
 
 ---
 
