@@ -20,16 +20,21 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
     - Submit a Keyboard Interface document (.docx or .pdf) that specifies your vision for a keyboard interface for all piRover functions available on the smartphone Control interface.
     - Include additional moves [shown here](../../lessons/32/tank_drive_images.pdf){:target='_blank'}
     - Include speed control - set speed?
+- With your partner, create piRover_keyboard.py as directed in the activity document using the [https://replit.com/](https://replit.com/){:target='_blank'} resource.
+  - You will need to create an account.
+  - The instructor will demonstrate sample code.
   
 **Session 2**
-- Review - Drive Interface Design (.docx or .pdf)
+<!-- - 
+  - Review - Keyboard Interface Design (.docx or .pdf)
   - Review piRover_keyboard.py
+    - extend to include speed value input.
   - Create/connect piRover_drive_fake.py
   - Create other fakes
       - piRover_buzzer_fake.py
       - piRover_LED_fake.py
       - piRover_servo_fake.py
-  - test fake implementation
+  - test fake implementation -->
 
 ---
 
