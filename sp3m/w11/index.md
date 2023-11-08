@@ -37,7 +37,6 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
     - piRover_servo_fake.py
   - test fake implementation 
 
-
 ---
 
 ### Assignments
