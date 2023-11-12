@@ -5,31 +5,37 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 16
 
-W16: This is the final week. The instructor will review the LED implementation required in the P03 - part 1 solution. A new Bluetooth application will be created and replace the part 1 keyboard solution. Functionality of all will be tested using the smartphone interface. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
+W16: This is the final week. The instructor will review the LED implementation required in the P03 - part 1 solution. The final Bluetooth solution will be created and substitue the prior keyboard solution of part 1. Functionality of all will be tested using the smartphone interface. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
 
-- **Session 1**
-    - Review of keyboard and fakes
-    - piRover_led_fake1.py
-    - piRover_led_fake2.py
-    - piRover_led.py
-    - Add piRover_bluetooth.py
-      - wget https://k2controls.github.io/piRoverBuilds/P003/10.final_solution/piRover_bluetooth.py
-    - piRover_phone.py (based on piRover_keyboard.py)
+- Week 16
+  - Session 1
+    - piRover_phone_app.py
+      - testing and extensions
+      - shut down
+      - start up
+      - Enabling at Startup
+  - Session 2
+    - No class session
+    - P03 Part 2 due
+    - Debt
+    - Retro
     
-- **Session 2**
-    - piRover_phone.py
-        - testing
-        - extensions
-        - shut down
-        - start up
-        - Enabling at Startup
-    - **P03 part 2 due - video of your smartphone app in use**
-    - **Complete retro and debt**
-    - **Deadline for all - Friday at 5:00 PM**
+**Session 1**
+- piRover_phone.py
+    - testing
+    - extensions
+    - shut down
+    - start up
+    - Enabling at Startup
+
+**Session 2**
+- **P03 part 2 due - video of your smartphone app in use**
+- **Complete retro and debt**
+- **Deadline for all - Friday at 5:00 PM**
 
 ---
 
 ### Assignments
-- **P03 - part 2**
+- **P03 - part 2 - smartphone video**
 - **Debt03**
 - **Retro03**

@@ -5,42 +5,63 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 14
 
-W14: The instructor will review the P03-part1 final assignment that was due last week. The class will continue to extend the application by creating a switch module and use this to arm the piRover. Configuration changes will enable your code to run at start up. 
-
-During the second session, the instructor will introduce Bluetooth code. You will begin to implement the final piRover_phone.py application and complete this during the final week of the course.
+W14: We'll continue to implement functionality of the piRover this week including reviewing the buzzer operation and creating the servo. The instructor will discuss the final project requirements including deadlines W15 and W16.
 
 **Schedule**
 - Week 14
-  - Mon, 4/24 
-    - P03 - part 1 review
-    - Start switch for piRover arm
-    - Auto start
-  - Wed, 4/26 
-    - introduction to piRover Bluetooth
-    - piRover_phone.py
+  - Session 1
+    - piRover_keyboard.py - review and extensions
+    - piRover_switch.py 
+    - test_piRover_armed.py
+  - Session 2
+    - piRover_servo.py
+    - P03 Part 1 due - piRover_keyboard
 - Week 15
-  - Mon, 5/1 
-    - piRover_phone.py (continued)
-    - P03-part 2 assigned
-  - Wed, 5/3- piRover_bt_app.py (con't)
-    - No class
-    - P03-part 2 due by Friday
-      - Video of smartphone app controlling piRover per specification
+  - Session 1
+    - Bluetooth module and messaging
+  - Session 2
+    - piRover_phone_app.py
+- Week 16
+  - Session 1
+    - piRover_phone_app.py
+      - testing and extensions
+      - shut down
+      - start up
+      - Enabling at Startup
+  - Session 2
+    - No class session
+    - P03 Part 2 due
+    - Debt
+    - Retro
 
+- **Session 1**
+    - piRover_buzzer.py - refactored to use PWM
+    - piRover_led.py (on your own - P03 Part 1 assessment)
+    - piRover_switch.py 
+    - test_piRover_armed.py
 
-**Session 1**
-- P03-part 1 - solution review
-  - piRover_led.py
-  - piRover_keyboard.py (final version)
-- Start switch
-- piRover arming
-- [Enabling at Startup](EnablingPythonAppAtStartup.pdf){:target='_blank'}
-
-**Session 2**
-- Introduction to piRover Bluetooth - Instructor demo. No code required.
-    - [piRover_bluetooth.py](piRover_bluetooth.py)
+    
+- **Session 2**
+    - P03 Remote Drive - servo
+    - P03-part 1
+      - working time
+      - submit functional piRover_keyboard solution
+      - Include p03 Requirements document
 
 ---
 
 ### Assignments
-- None
+- **W14** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated **P03 Requirements** form. The workingP03 directory contents are listed below.
+    - **workingP03.zip**
+        - piRover_buzzer_fake.py
+        - piRover_buzzer.py (with pwm)
+        - piRover_drive_fake.py
+        - piRover_drive.py
+        - piRover_keyboard.py
+        - piRover_led_fake.py
+        - piRover_led.py (on your own. implement based on your fake and other coding)
+        - piRover_servo_fake.py
+        - piRover_servo.py
+        - piRover_switch.py
+        - test_piRover_armed.py
+  - **P03Requirements** (.docx or .pdf) - all checked excepted LED
