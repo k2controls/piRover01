@@ -23,12 +23,10 @@
 - [10/31/2023](https://nmc.zoom.us/rec/share/5fsTAFLXmXxzF0dTzUJcVHziDQRgTF9a6nqrfQp91rafkYR453BE6i2SG9Xy4OMe.e5jV0eAyCy61_QPB)
 - [11/2/2023]()
 - [11/7/2023](https://nmc.zoom.us/rec/share/HOUVrT_u6T79Mj--fDRMkAiHXBVzdOeOy9-Ea1qNXGLbQ_5pwT8P8G4MGbdgXPxv.jsBFSiETzCv7fvBy)
+- [11/9/2023](https://nmc.zoom.us/rec/share/8WJ15wBlPPx1tSoMZLgngtGb5pYZoxfiOhKTbV-7Ww2v7tfycO5qs-kANuT3MJM.BaT0eTY5xO-bmBxL)
 
 
 <!-- 
-
-
-- [11/9/2023]()
 - [11/14/2023]()
 - [11/16/2023]()
 - [11/21/2023]()
