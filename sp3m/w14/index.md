@@ -13,8 +13,9 @@ W14: We'll continue to implement functionality of the piRover this week includin
     - piRover_keyboard.py - review and extensions
     - piRover_switch.py 
     - test_piRover_armed.py
-  - Session 2
     - piRover_servo.py
+  - Session 2
+    - piRover_led.py
     - P03 Part 1 due - piRover_keyboard
 - Week 15
   - Session 1
@@ -34,34 +35,37 @@ W14: We'll continue to implement functionality of the piRover this week includin
     - Debt
     - Retro
 
-- **Session 1**
-    - piRover_buzzer.py - refactored to use PWM
-    - piRover_led.py (on your own - P03 Part 1 assessment)
-    - piRover_switch.py 
-    - test_piRover_armed.py
+**Session 1**
+  - piRover_buzzer.py - refactored to use PWM
+  - piRover_switch.py 
+  - test_piRover_armed.py
+  - [P03.Servo.pdf](P03.Servo.pdf){:target='_blank'}
+  - piRover_servo.py
+  - piRover_keyboard testing
 
     
-- **Session 2**
-    - P03 Remote Drive - servo
-    - P03-part 1
-      - working time
-      - submit functional piRover_keyboard solution
-      - Include p03 Requirements document
+**Session 2**
+
+  <!-- - [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
+    - piRover_led.py (on your own)
+    - working time
+    - submit functional piRover_keyboard solution
+    - Include completed P03.piRoverKeyboard document -->
 
 ---
 
 ### Assignments
-- **W14** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated **P03 Requirements** form. The workingP03 directory contents are listed below.
-    - **workingP03.zip**
-        - piRover_buzzer_fake.py
-        - piRover_buzzer.py (with pwm)
-        - piRover_drive_fake.py
-        - piRover_drive.py
-        - piRover_keyboard.py
-        - piRover_led_fake.py
-        - piRover_led.py (on your own. implement based on your fake and other coding)
-        - piRover_servo_fake.py
-        - piRover_servo.py
-        - piRover_switch.py
-        - test_piRover_armed.py
-  - **P03Requirements** (.docx or .pdf) - all checked excepted LED
+- **W14** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated P03.piRoverKeyboard document.
+  - **weekP03.zip**
+    - piRover_buzzer_fake.py
+    - piRover_buzzer.py (with pwm)
+    - piRover_drive_fake.py
+    - piRover_drive.py
+    - piRover_keyboard.py
+    - piRover_led_fake.py
+    - piRover_led.py 
+    - piRover_servo_fake.py
+    - piRover_servo.py
+    - piRover_switch.py
+    - test_piRover_armed.py
+    - **P03.piRoverKeyboard.docx** (.docx or .pdf) 
