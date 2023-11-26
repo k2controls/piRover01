@@ -28,16 +28,18 @@ W15: This is the final week. Development of the Bluetooth application (piRover_p
     - Retro
 
 **Session 1**
-  <!-- - Review of keyboard and fakes
+
+<!-- - Review of keyboard and fakes
   - piRover_led_fake1.py
   - piRover_led_fake2.py
   - piRover_led.py -->
 
-  <!-- - Add piRover_bluetooth.py
+<!-- - Add piRover_bluetooth.py
     - wget https://k2controls.github.io/piRoverBuilds/P003/10.final_solution/piRover_bluetooth.py
   - piRover_phone_app.py (based on piRover_keyboard.py) -->
 
 **Session 2**
+
 <!-- - piRover_phone_app.py
   - testing
   - review - [Enabling at Startup](EnablingRemoteDriveAtStartup.pdf){:target='_blank'}
