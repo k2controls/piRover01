@@ -46,11 +46,11 @@ W14: We'll continue to implement functionality of the piRover this week includin
     
 **Session 2**
 
-  <!-- - [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
-    - piRover_led.py (on your own)
-    - working time
-    - submit functional piRover_keyboard solution
-    - Include completed P03.piRoverKeyboard document -->
+- [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
+  - piRover_led.py (on your own)
+  - working time
+  - submit functional piRover_keyboard solution
+  - Include completed P03.piRoverKeyboard document
 
 ---
 
