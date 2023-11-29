@@ -45,7 +45,9 @@ W14: We'll continue to implement functionality of the piRover this week includin
 
     
 **Session 2**
-
+- No class today. 
+  - Working session for P03 Part1. 
+  - KEK will be on Zoom at start of class for any questions.
 - [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
   - piRover_led.py (on your own)
   - working time
