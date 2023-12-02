@@ -5,7 +5,7 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 15
 
-W15: This is the final week. Development of the Bluetooth application (piRover_phone.py) will continue. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
+W15: This is the final week. Development of the Bluetooth application (piRover_phone_app.py) will continue. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
 
 **Schedule**
 - Week 15
@@ -28,15 +28,25 @@ W15: This is the final week. Development of the Bluetooth application (piRover_p
     - Retro
 
 **Session 1**
-  
+
 - Review of keyboard and fakes
   - piRover_led_fake1.py
   - piRover_led_fake2.py
   - piRover_led.py
 
 - Add [piRover_bluetooth.py](piRover_bluetooth.py)
-    - wget https://k2controls.github.io/piRover01/sp3t/w15/piRover_bluetooth.py
+  - wget https://k2controls.github.io/piRover01/sp3t/w15/piRover_bluetooth.py
+  - test_bluetooth.py
+
   - piRover_phone_app.py (based on piRover_keyboard.py)
+    - complete help()
+    - complete selection of button commands
+    - Next session
+      - Analog/slider integrations
+      - Multi button input
+      - Shut down
+      - Enabling at start up
+
 
 **Session 2**
 
