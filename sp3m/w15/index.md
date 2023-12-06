@@ -59,7 +59,7 @@ W15: This is the final week. Development of the Bluetooth application (piRover_p
     - servo slider -> servo position
     - servo slider -> drive speed
     - rgb sliders
-  - review - [Enabling at Startup](EnablingRemoteDriveAtStartup.pdf){:target='_blank'}
+  - review - [Enabling at Startup](EnablingPythonAppAtStartup.pdf){:target='_blank'}
 - final requirements: video, retro, debt?  
 
 ---

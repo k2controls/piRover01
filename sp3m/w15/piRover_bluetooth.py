@@ -86,7 +86,7 @@ def get_command() -> tuple:
         print(message)
 
         if message[0:7] == "4WD,PTZ":
-            command_id = "S_ANALOG"
+            command_id = "SERVO_ANALOG"
             command_value = int(message[7:])
         elif message[0:7] == "4WD,CLR":
             _decode_led_message(message)   
