@@ -12,7 +12,6 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
     - *Assigned* [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
-- *Assigned* [Student Introductions](../../lessons/03/StudentIntro.docx){:target="_blank"}
 - *Assigned* Introduce yourself by creating a short introduction video using your name as the file name. Include in this week's zip file. This video will not be shared.
 ![RAM kit](20240115_092159.jpg)
  ![Alt text](20240115_092213.jpg)
@@ -56,6 +55,5 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 **W01** Assignments - Zip assignment files specified in the following activities and submit to the link below.
 
 - [**Raspberry Pi 4 Getting Started**](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
-- [**Student Introductions**](../../lessons/03/StudentIntro.docx){:target="_blank"}
 - **Your introduction video** (link or file)
 - *Note*: piRover build activities are started this week but not due until next week. Be sure to create your first video when the first half of your build is completed. Both video 1 and video 2 are submitted in week 2.
