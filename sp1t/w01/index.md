@@ -18,7 +18,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     
 **Session 2**
 
-- Zoom account? Where you able to join as a Zoom user?
+<!-- - Zoom account? Where you able to join as a Zoom user?
 - Zoom video recording?  Local or cloud storage?
 - My test
     - [Cloud](https://nmc.zoom.us/rec/share/I4ShWrBzOjkhI3jkezkxjaTdRP2mMCBPTZGiXYNcgK2VGnnm2mOap-ZEjQpyJW2l.R6VNTtZ8UBXHd9UD)
@@ -45,7 +45,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
             - Show the rover
             - How long did it take to build
             - What were major obstacles or what was difficult
-            - What would you do differently next time
+            - What would you do differently next time -->
 
 
 ---
