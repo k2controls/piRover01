@@ -14,8 +14,9 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
 - *Assigned* [Student Introductions](../../lessons/03/StudentIntro.docx){:target="_blank"}
 - *Assigned* Introduce yourself by creating a short introduction video using your name as the file name. Include in this week's zip file. This video will not be shared.
-
-    
+![RAM kit](20240115_092159.jpg)
+ ![Alt text](20240115_092213.jpg)
+ ![Alt text](20240115_092307.jpg)   
 **Session 2**
 
 <!-- - Zoom account? Where you able to join as a Zoom user?
