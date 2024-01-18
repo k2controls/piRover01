@@ -18,11 +18,12 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
  ![Alt text](20240115_092307.jpg)   
 **Session 2**
 
-<!-- - Zoom account? Where you able to join as a Zoom user?
+- Zoom account? Where you able to join as a Zoom user?
 - Zoom video recording?  Local or cloud storage?
 - My test
-    - [Cloud](https://nmc.zoom.us/rec/share/I4ShWrBzOjkhI3jkezkxjaTdRP2mMCBPTZGiXYNcgK2VGnnm2mOap-ZEjQpyJW2l.R6VNTtZ8UBXHd9UD)
-    - [local](video2282558214.mp4)
+  - [Cloud](https://nmc.zoom.us/rec/share/ - [local](video1437989670.mp4)
+  - [Cloud](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
+
 - Managing Project Files in the Cloud
     1. Create RAM155/Week01
     2. Upload Getting Started activity doc
@@ -45,7 +46,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
             - Show the rover
             - How long did it take to build
             - What were major obstacles or what was difficult
-            - What would you do differently next time -->
+            - What would you do differently next time
 
 
 ---
