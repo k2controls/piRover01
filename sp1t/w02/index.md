@@ -10,9 +10,10 @@ W02 - This is a build and configure week. By the end of the week you will have t
 **Session 1**
 - Week 01 submitted? Issues?
   - What cool Pi projects did you find?
+  - Where you able to create a Zoom video? Did you share your screen? Cloud or local?
 - Build status? 
-- Midpoint scrum video due. Be sure to review and answer the three scrum questions.
-- Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
+- Midpoint scrum video due. Be sure to review and answer the three scrum questions. See Week 1 for prompts.
+- Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned? See Week 1 for prompts.
 - [piRover Build](../../lessons/07/piRoverBuild.pdf){:target="_blank"}
 - [piRover Wiring](../../lessons/09/piRoverWiring.pdf){:target="_blank"}
 - Yahboom G1 Tank power distribution 
@@ -20,15 +21,16 @@ W02 - This is a build and configure week. By the end of the week you will have t
 - Demos: 
   - Power up
   - Phone app
+- [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
 
 **Session 2**
 
-- Build updates. 
+<!-- - Build updates. 
 - Scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
 - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
-- [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
+
   - **Video:** [Build Validation - Overview](https://youtu.be/RanVP2aGpzg){:target="_blank"}
-- [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+- [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"} -->
 
 
 <!--
