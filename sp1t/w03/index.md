@@ -8,7 +8,16 @@ layout: default
 W03 - During this week you verify the function of your piRover by downloading, installing, and running Yahboom Robot software on your mobile device. You'll also get your first introduction to Linux and Python.
 
 **Session 1**
-- Complete build validations 1 and 2. Review "Creating a Remote Connect" and verify you can connect remotely and do have Internet access on your piRover.
+
+- No Class Session - KEK at a conference
+- Own your own  
+  - **Activity: Build Validation - Part 2**
+  - Review today's video and practice connecting remotely to your Pi Desktop.
+   
+
+**Session 2**
+
+<!-- - Complete build validations 1 and 2. Review "Creating a Remote Connect" and verify you can connect remotely and do have Internet access on your piRover.
 - [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
   - **Video:** [Build Validation - Overview](https://youtu.be/RanVP2aGpzg){:target="_blank"}
 - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
@@ -67,12 +76,11 @@ sudo apt update
 sudo apt upgrade
 sudo apt install code
 
-```
+``` -->
 
 
 ---
 
 ### Assignments
 - **W03** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **Activity: Build Validation - Part 1**
     - **Activity: Build Validation - Part 2**
