@@ -5,7 +5,7 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 1](../) - Week 03
 
-W03 - During this week you verify the function of your piRover by downloading, installing, and running Yahboom Robot software on your mobile device. You'll also get your first introduction to Linux and Python.
+W03 - During this week you continue to verify the function of your piRover by running the Yahboom Robot software on your mobile device. You'll also confirm that you can connect to the device remotely and that it is connected to the Internet.
 
 **Session 1**
 
