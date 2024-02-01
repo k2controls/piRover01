@@ -27,13 +27,13 @@ W03 - During this week you verify the function of your piRover by downloading, i
   - **Video:** [Build Validation - Camera    ](https://youtu.be/4QIFle79sMI){:target="_blank"} 
 
 - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
-  1. Connect to your remote desktop
+  - Connect to your remote desktop
     - Option 1: Ethernet - connection is peer-to-peer
       - yahboomtank.local is the VNC server name
     - Option 2: Network/Wi-Fi connection (not at NMC) 
       - Raspberry Pi and your workstation share the same network
       - yahboomtank is the VNC server name
-  2. Use localhost (or 192.168.50.1) in Pi's browser to configure Wi-Fi client 
+  - Use localhost (or 192.168.50.1) in Pi's browser to configure Wi-Fi client 
     - User=Admin, Password=yahboom
     - Enter the pass code for your Wi-Fi access point (AP)
     - Hover or Wi-Fi icon in menu bar
