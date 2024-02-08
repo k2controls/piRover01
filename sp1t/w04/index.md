@@ -72,7 +72,7 @@ wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
 
 **Session 2**
 
-<!-- - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
+- [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
 
 ```bash 
 wget https://k2controls.github.io/piRover01/lessons/22/blink.py
@@ -80,7 +80,7 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Create beep.py and test
 - Create blink_beep.py and test
 
-- Saving piRover code to your cloud storage -->
+- Saving piRover code to your cloud storage
 
 
 ---
