@@ -13,12 +13,15 @@ W06: This week starts Sprint 2 where you'll be writing your own Python code usin
     - More if/elif/else examples
     - [user_blink.py](../../lessons/24/user_blink.py){:target='_blank'} 
 
+```console 
+wget https://k2controls.github.io/piRover01/lessons/24/user_blink.py
+```
 
 **Session 2**
 
-- User blink review
+<!-- - User blink review
 - [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}  
-- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)
+- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)   -->
 
 ---
 
