@@ -13,14 +13,14 @@ sit = False
 stay = False
 
 if sit == False:
-    print("Bad dod!")
+    print("Bad dog!")
 if sit == True:
     print("Good dog")
 if stay == True:
     print("Very good dog!")
 
 # if not sit:
-#     print("Bad dod!")
+#     print("Bad dog!")
 # if sit:
 #     print("Good dog")
 # if sit and stay:
