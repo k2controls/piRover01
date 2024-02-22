@@ -19,9 +19,17 @@ wget https://k2controls.github.io/piRover01/lessons/24/user_blink.py
 
 **Session 2**
 
-<!-- - User blink review
-- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}  
-- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)   -->
+- User blink review
+    - prompt user for color - red, green, blue
+    - prompt user for speed - fast, slow
+    - single while loop with variables to control pin and delay
+- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}
+
+```console
+wget https://k2controls.github.io/piRover01/lessons/25/traffic_light.py
+```
+
+<!-- - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)   -->
 
 ---
 
