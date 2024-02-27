@@ -17,7 +17,8 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
 - Smart traffic light
 
 **Session 2**
-- Start switch as input - review
+
+<!-- - Start switch as input - review
 - Motor controller introduction
   - test_drive.py
 - User defined function - an introduction
@@ -28,7 +29,7 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
 ```console
 wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 
-```
+``` -->
 
 ---
 
