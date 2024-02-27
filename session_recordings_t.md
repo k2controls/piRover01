@@ -17,11 +17,6 @@
 - [02/27/2023](https://nmc.zoom.us/rec/share/bXCRDgakVech0I9j7SFlT2_gJe1wTZezLNZR4hvhz4pBVlP4ZsC4Sl5Gbgv4d5n-.sWS6XbzJ7IpQQhbW)
 
 <!-- 
-
-
-
-
-
 - [03/01/2023]()
 - [03/06/2023]()
 - [03/08/2023]()
