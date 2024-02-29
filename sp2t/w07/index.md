@@ -44,6 +44,6 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     - **pushbutton_toggle.py**
     - **pushbutton_cycle.py**
     - **Pushbutton Activity** (.docx or .pdf)
-    - **test_drive.py**
+   
 
   
