@@ -5,20 +5,22 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 2](../) - Week 09
 
-W09: Here you'll review line follower inputs from the prior week. piRover drive concepts will be introduced as you work toward having the line follower inputs control the drive output.
+W09: piRover drive concepts will be reviewed and revised.
 
 **Session 1**
+- Motor Controller - review
+  - Use of stop()
+  - Use of sec parameter?
+- Refactor to motor_controller_V2.py
+- **Video lab check** required - short video showing forward, backward, and turning using V2 controller.** 
 
-- [LineFollowerInput](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
-- Review: motor_control_intro.py
-- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
 
 **Session 2**
- 
- - Jedi fix
-   - Install prior version of Python Extension - v2022.6.0
 
-  ![install screen capture](JediFix.jpg)
+<!-- - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'} - code review
+        - start_drive.py (demo code - no submission required)
+        - start_drive_with_speed.py (demo code - no submission required)
+
 
 - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
 
@@ -27,15 +29,19 @@ wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
 ```
 
 - Next week is end of Sprint 2. 
-    - P02 project assigned
-    - No class next Wednesday
-  - Submit project, debt, and retrospection by end of Week 10 
+    - Session 1
+      - NMC Gen Ed assessment - in class
+      - P02 project assigned
+    - No class next Thursday
+  - Submit project, debt, and retrospection. See Moodle for due dates. -->
 
 ---
 
 ### Assignments
 - **W09** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **line_follower.py**
     - **motor_controller_V2.py**
     - **Video lab check - short video showing forward, backward, and turning using V2 controller.**
     - **pwm_intro.py** 
+    <!-- - **Video lab check - short video showing forward, backward, and turning.** -->
+
+<!-- - Note: Line Follower Preparation critical thinking activity is submitted in class using the link provided. -->
