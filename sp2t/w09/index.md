@@ -8,6 +8,13 @@ layout: default
 W09: piRover drive concepts will be reviewed and revised.
 
 **Session 1**
+- schedule
+  - today: Motor Controller including V2
+  - Thursday: PWM introduction
+  - Tuesday: In class assessment, P02 assigned
+  - Thursday: No class. P02, debt, retro
+  - Spring Break
+
 - Motor Controller - review
   - Use of stop()
   - Use of sec parameter?
