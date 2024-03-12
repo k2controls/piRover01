@@ -21,11 +21,13 @@ W09: piRover drive concepts will be reviewed and revised.
 - Refactor to motor_controller_V2.py
 - **Video lab check** required - short video showing forward, backward, and turning using V2 controller.** 
 
+- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'} 
+
 
 **Session 2**
 
-<!-- - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'} - code review
-        - start_drive.py (demo code - no submission required)
+
+<!-- - start_drive.py (demo code - no submission required)
         - start_drive_with_speed.py (demo code - no submission required)
 
 
