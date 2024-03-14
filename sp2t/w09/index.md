@@ -27,22 +27,22 @@ W09: piRover drive concepts will be reviewed and revised.
 **Session 2**
 
 
-<!-- - start_drive.py (demo code - no submission required)
-        - start_drive_with_speed.py (demo code - no submission required)
-
-
 - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
 
 ```
 wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
 ```
 
+- start_drive.py (demo code - no submission required)
+        - start_drive_with_speed.py (demo code - no submission required)
+
+
 - Next week is end of Sprint 2. 
     - Session 1
       - NMC Gen Ed assessment - in class
       - P02 project assigned
     - No class next Thursday
-  - Submit project, debt, and retrospection. See Moodle for due dates. -->
+  - Submit project, debt, and retrospection. See Moodle for due dates.
 
 ---
 
@@ -51,6 +51,4 @@ wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
     - **motor_controller_V2.py**
     - **Video lab check - short video showing forward, backward, and turning using V2 controller.**
     - **pwm_intro.py** 
-    <!-- - **Video lab check - short video showing forward, backward, and turning.** -->
 
-<!-- - Note: Line Follower Preparation critical thinking activity is submitted in class using the link provided. -->
