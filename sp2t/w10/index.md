@@ -5,23 +5,34 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 2](../) - Week 10
 
-This is the end of Sprint 2. You'll review motor control from last week and use this code along with prior control code to create your Project 02 solution. *Note:* PWM introduction is included this week but there is no requirement for PWM use in P02. PWM is a sprint 3 topic.
+This is the end of Sprint 2 and an assessment week.
+1. You will complete an in-class NMC Critical Thinking assessment during session 1.
+2. The P02 project link is also provided in session 1. You'll review motor control from prior weeks and use this code along with  control code to create your Project 02 solution. *Note:* PWM introduction was included last week but there is no requirement for PWM use in P02. PWM is a sprint 3 topic.
+3. Also complete the sprint retrospective and submit any technical debt. 
 
-Also complete the sprint retrospective and submit any technical debt. 
+**Session 1**
+    - Project 02 - *See Moodle submission link for directions and requirements.* Note the due date.
 
-- **Session 1**
-    - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'} - code review
-        - start_drive.py (demo code - no submission required)
-        - start_drive_with_speed.py (demo code - no submission required)
-    - Project 02 - *See Moodle submission link for directions and requirements*
+    - NMC Critical Thinking assessment
+        - In class and on your own. **Due by the end of this class session!**
+        - Submit to Moodle link provided
+
+        - **Line Follower Preparation**
+        - This is an NMC Gen Ed Critial Thinking activity
+        - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
+        - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
+  
     
 - **Session 2**
     - **No class session on Thursday**
     - Class session reserved for 
         - P02 User Move Project
-            - Do your own work. No late work is accepted.
-        - Retrospective
-        - Technical Debt
+            - Do your own work. No late work is accepted. See Moodle for due date.
+        - Retrospective due
+        - Technical Debt due
+
+ <!-- - [LineFollowerInput](../../lessons/28/LineFollowerInput.pdf) -->
+
 
 ---
 
