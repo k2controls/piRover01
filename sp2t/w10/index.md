@@ -11,25 +11,27 @@ This is the end of Sprint 2 and an assessment week.
 3. Also complete the sprint retrospective and submit any technical debt. 
 
 **Session 1**
-    - Project 02 - *See Moodle submission link for directions and requirements.* Note the due date.
 
-    - NMC Critical Thinking assessment
-        - In class and on your own. **Due by the end of this class session!**
-        - Submit to Moodle link provided
+- Project 02 - *See Moodle submission link for directions and requirements.* Note the due date.
 
-        - **Line Follower Preparation**
-        - This is an NMC Gen Ed Critial Thinking activity
-        - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
-        - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
+- NMC Critical Thinking assessment
+    - In class and on your own. **Due by the end of this class session!**
+    - Submit to Moodle link provided
+
+    - **Line Follower Preparation**
+    - This is an NMC Gen Ed Critial Thinking activity
+    - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
+    - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
   
     
-- **Session 2**
-    - **No class session on Thursday**
-    - Class session reserved for 
-        - P02 User Move Project
-            - Do your own work. No late work is accepted. See Moodle for due date.
-        - Retrospective due
-        - Technical Debt due
+**Session 2**
+
+- **No class session on Thursday**
+- Class session reserved for 
+    - P02 User Move Project
+        - Do your own work. No late work is accepted. See Moodle for due date.
+    - Retrospective due
+    - Technical Debt due
 
  <!-- - [LineFollowerInput](../../lessons/28/LineFollowerInput.pdf) -->
 
