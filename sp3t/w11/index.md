@@ -8,6 +8,7 @@ layout: default
 W11: This week's focus in Pulse Width Modulation. This type of output provides an output pulse with the ability to control the duration of the pulse. This creates an analog value that can be used to dim an LED or control motor speed. 
 
 **Session 1**
+- NMC Gen Ed Critical Thinking - review
 - Sprint 2 assesments - reviewed on Thursday
 - Review - Pulse Width Modulation (PWM) Introduction 
 - Review - Motor Speed Control - demo code from week 09
