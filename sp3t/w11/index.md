@@ -8,9 +8,9 @@ layout: default
 W11: This week's focus in Pulse Width Modulation. This type of output provides an output pulse with the ability to control the duration of the pulse. This creates an analog value that can be used to dim an LED or control motor speed. 
 
 **Session 1**
-- [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review)
+- Sprint 2 assesments - reviewed on Thursday
 - Review - Pulse Width Modulation (PWM) Introduction 
-- Review - Motor Speed Control - demo code from week 10
+- Review - Motor Speed Control - demo code from week 09
 - Sprint 3 Plan
   - Step 1 Keyboard interface
   - Step 2 Fake modules and wiring
@@ -26,6 +26,9 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
   
 **Session 2**
 
+<!-- - NMC Gen Ed Critical Thinking - review
+  -[LineFollowerInput](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
+- [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review)
 - Review - Keyboard Interface Design (.docx or .pdf)
 - Open the piRover solution on your Pi and create the final weekP03 directory. This folder will contain project code for the remainder of the semester.
 - Copy your piRover_keyboard.py code from the last session into your piRover solution. Revise and extend based on the class discussion.
@@ -35,7 +38,7 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
     - piRover_buzzer_fake.py
     - piRover_LED_fake.py
     - piRover_servo_fake.py
-  - test fake implementation 
+  - test fake implementation  -->
 
 ---
 
