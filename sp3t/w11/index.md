@@ -27,19 +27,17 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
   
 **Session 2**
 
-<!-- - NMC Gen Ed Critical Thinking - review
-  -[LineFollowerInput](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
-- [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review)
 - Review - Keyboard Interface Design (.docx or .pdf)
 - Open the piRover solution on your Pi and create the final weekP03 directory. This folder will contain project code for the remainder of the semester.
 - Copy your piRover_keyboard.py code from the last session into your piRover solution. Revise and extend based on the class discussion.
-  - extend to include speed value input.
+ - extend to include speed value input.
 - Create/connect piRover_drive_fake.py
+
 - Create other fakes
     - piRover_buzzer_fake.py
     - piRover_LED_fake.py
     - piRover_servo_fake.py
-  - test fake implementation  -->
+- test fake implementation
 
 ---
 
