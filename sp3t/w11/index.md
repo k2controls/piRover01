@@ -46,6 +46,6 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
     - **Keyboard interface document**
     - **piRover_keyboard.py**
     - **piRover_drive_fake.py**
-    - ~~**piRover_buzzer_fake.py**~~
+    - **piRover_buzzer_fake.py**
     - ~~**piRover_led_fake.py**~~
     - ~~**piRover_servo_fake.py**~~
