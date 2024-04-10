@@ -32,7 +32,7 @@
 
 
 
-- [04/09/2023](https://nmc.zoom.us/rec/share/GyOmauRDClxap4b3FMeddJMvXC0u-9umpmbUDBqVqTLSFwU4Ajb-aeeDwVbNBoDi.e2Ctj6s2uETmYqIX )
+
 - [04/11/2023]()
 - [04/16/2023]()
 - [04/18/2023]()
