@@ -16,9 +16,10 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
   - Session 2
     - piRover_buzzer
     - buzzer test with toggle
- - Week 13
+- Week 13
   - Session 1
     - Servo implementation
+    - Switch implementation and testing
   - Session 2
     - **P03 Part 1 due** - piRover_keyboard with Rover functions
 - Week 14
@@ -71,5 +72,4 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
     - **piRover_drive.py**
     - **piRover_led_fake.py** (must include red, green, and blue support)
     - **piRover_servo_fake.py**
-    - **piRover_servo.py**
-    - **piRover_switch.py**
+    - ~~**piRover_servo.py**~~
