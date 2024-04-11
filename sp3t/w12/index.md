@@ -53,9 +53,10 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
 
 - GPIO implementations
   - Review/test drive module
-  - Review/test buzzer
-  - Review/Test red led
-    - students extend to include green and blue
+    - add left, right speed and test
+  - Build buzzer and test
+    - beep - use pwm for continuous beeping
+    - add buzzer_beeps(beep_count):
   - Servo
   - Switch
   
