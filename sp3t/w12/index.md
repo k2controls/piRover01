@@ -51,8 +51,13 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
     
 **Session 2**
 
-<!-- - GPIO implementations
-  - Servo -->
+- GPIO implementations
+  - Review/test drive module
+  - Review/test buzzer
+  - Review/Test red led
+    - students extend to include green and blue
+  - Servo
+  - Switch
   
 ---
 
@@ -66,3 +71,4 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
     - **piRover_led_fake.py** (must include red, green, and blue support)
     - **piRover_servo_fake.py**
     - **piRover_servo.py**
+    - **piRover_switch.py**
