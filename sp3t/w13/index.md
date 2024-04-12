@@ -10,51 +10,58 @@ W13: This is a short week due to the Thanksgiving break. You'll review your fake
 **Schedule**
 - Week 13
   - Session 1
-    - piRover_buzzer
-    - buzzer test with toggle
-    - piRover_switch.py 
-    - test_piRover_armed.py
+    - Servo implementation
+    - Switch implementation and testing
   - Session 2
-    - No class - Holiday break
+    - **P03 Part 1 due** - piRover_keyboard with Rover functions
 - Week 14
   - Session 1
-    - piRover_servo.py
-    - piRover_keyboard.py - review and extensions
+    - Bluetooth module, messaging, and integration
   - Session 2
-    - P03 Part 1 due - piRover_keyboard
+    - Analog inputs and operations
+    - P03 piRover_phone_app.py assigned
 - Week 15
   - Session 1
-    - Bluetooth module and messaging
-  - Session 2
-    - piRover_phone_app.py
-- Week 16
-  - Session 1
-    - piRover_phone_app.py
-      - testing and extensions
-      - shut down
-      - start up
-      - Enabling at Startup
+    - No class session - P03 Part 2 working session
   - Session 2
     - No class session
-    - P03 Part 2 due
+    - **P03 Part 2 due**
     - Debt
     - Retro
 
-- **Session 1**
-    - P03 Part 1 - Fakes 
-      - Review all including piRover_led_fake.py
-    - GPIO implmentations
-      - piRover_buzzer.py
-      - piRover_switch.py
-      - test_rover_armed.py
+**Session 1**
+  - piRover_buzzer.py - refactored to use PWM
+  - piRover_switch.py 
+  - test_piRover_armed.py
+  - [P03.Servo.pdf](P03.Servo.pdf){:target='_blank'}
+  - piRover_servo.py
+  - piRover_keyboard testing
+
     
-- **Session 2**
-    - *** Thanksgiving - No Class ***
+**Session 2**
+- No class today. 
+  - Working session for P03 Part1. 
+  - KEK will be on Zoom at start of class for any questions.
+- [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
+  - piRover_led.py (on your own)
+  - working time
+  - submit functional piRover_keyboard solution
+  - Include completed P03.piRoverKeyboard document
 
 ---
 
 ### Assignments
-- **W13** Assignments 
-  - None, but...
-    - be sure to all fakes are up to date.
-    - test_rover_armed.py functions as demonstrated
+- **W13** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated P03.piRoverKeyboard document.
+  - **weekP03.zip**
+    - piRover_buzzer_fake.py
+    - piRover_buzzer.py (with pwm)
+    - piRover_drive_fake.py
+    - piRover_drive.py
+    - piRover_keyboard.py
+    - piRover_led_fake.py
+    - piRover_led.py 
+    - piRover_servo_fake.py
+    - piRover_servo.py
+    - piRover_switch.py
+    - test_piRover_armed.py
+    - **P03.piRoverKeyboard.docx** (.docx or .pdf) 
