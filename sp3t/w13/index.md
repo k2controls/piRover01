@@ -44,14 +44,13 @@ W13: This is a short week due to the Thanksgiving break. You'll review your fake
   - KEK will be on Zoom at start of class for any questions.
 - [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
   - piRover_led.py (on your own)
-  - working time
-  - submit functional piRover_keyboard solution
+  - Submit functional piRover_keyboard solution
   - Include completed P03.piRoverKeyboard document
 
 ---
 
 ### Assignments
-- **W13** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated P03.piRoverKeyboard document.
+- **W13** Assignments - Zip your weekP03 folder and submit. Be sure to add your updated P03.piRoverKeyboard document.
   - **weekP03.zip**
     - piRover_buzzer_fake.py
     - piRover_buzzer.py (with pwm)
