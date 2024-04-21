@@ -1,61 +1,27 @@
-W15: This is the final week. Development of the Bluetooth application (piRover_phone_app.py) will continue. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt.
+---
+layout: default
+---
+## piRover Builds by K2 - Course 1:Python
 
-**Schedule**
-- Week 15
-  - Session 1
-    - Bluetooth module and messaging
-  - Session 2
-    - piRover_phone_app.py
-    - analog messaging
-- Week 16
-  - Session 1
-    - piRover_phone_app.py
-      - testing and extensions
-      - shut down
-      - start up
-      - Enabling at Startup
-  - Session 2
-    - No class session
-    - P03 Part 2 due
-    - Debt
-    - Retro
+### [piRover01](../../) - [Sprint 3](../) - Week 16
 
+W15: This is the final week.
+
+<!-- The instructor will review the LED implementation required in the P03 - part 1 solution. The final Bluetooth solution will be created and substitue the prior keyboard solution of part 1. Functionality of all will be tested using the smartphone interface. A video of your functional system is required as a P03 - part 2 submission. Complete the retrospective and any debt. -->
+
+    
 **Session 1**
-
-- Review of keyboard and fakes
-  - piRover_led_fake1.py
-  - piRover_led_fake2.py
-  - piRover_led.py
-
-- Add [piRover_bluetooth.py](piRover_bluetooth.py)
-  - wget https://k2controls.github.io/piRover01/sp3t/w15/piRover_bluetooth.py
-  - test_bluetooth.py
-
-  - piRover_phone_app.py (based on piRover_keyboard.py)
-    - complete help()
-    - complete selection of button commands
-    - Next session
-      - Analog/slider integrations
-      - Multi button input
-      - Shut down
-      - Enabling at start up
-
+- **No Class**
+- Working session - P03 part 1 final project and video
 
 **Session 2**
-
-- piRover_phone_app.py
-  - testing
-  - arming
-  - shut down - LED_ON, LED_OFF
-  - other multi-command options?
-  - analog operations
-    - servo slider -> servo position
-    - servo slider -> drive speed
-    - rgb sliders
-  - review - [Enabling at Startup](EnablingPythonAppAtStartup.pdf){:target='_blank'}
-- final requirements: video, retro, debt?  
+- **P03 part 2 due - video of your smartphone app in use**
+- Complete retro and debt
+- Deadline for all - End of day 11:55 pm
 
 ---
 
 ### Assignments
-- None - Final P03 Part 2 in progress 
+- **P03 - part 2 - smartphone video**
+- **Debt03**
+- **Retro03**

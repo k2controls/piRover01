@@ -1,73 +1,58 @@
----
-layout: default
----
-## piRover Builds by K2 - Course 1:Python
-
-### [piRover01](../../) - [Sprint 3](../) - Week 14
-
-W14: We'll continue to implement functionality of the piRover this week including reviewing the buzzer operation and creating the servo. The instructor will discuss the final project requirements including deadlines W15 and W16.
+W14: We'll review P03 Part 1 including the LED implementation. The development of the Bluetooth application (piRover_phone_app.py) will kickoff in session 2. A video of your functional system along with your coding is required as a P03 - part 2 submission which is due the final week.
 
 **Schedule**
 - Week 14
   - Session 1
-    - piRover_keyboard.py - review and extensions
-    - piRover_switch.py 
-    - test_piRover_armed.py
-    - piRover_servo.py
+    - P02 Review 
+    - Bluetooth module, messaging, and integration
   - Session 2
-    - piRover_led.py
-    - P03 Part 1 due - piRover_keyboard
+    - Analog inputs and operations
+    - P03 piRover_phone_app.py assigned
 - Week 15
   - Session 1
-    - Bluetooth module and messaging
-  - Session 2
-    - piRover_phone_app.py
-- Week 16
-  - Session 1
-    - piRover_phone_app.py
-      - testing and extensions
-      - shut down
-      - start up
-      - Enabling at Startup
+    - No class session - P03 Part 2 working session
   - Session 2
     - No class session
-    - P03 Part 2 due
+    - **P03 Part 2 due**
     - Debt
     - Retro
 
 **Session 1**
-  - piRover_buzzer.py - refactored to use PWM
-  - piRover_switch.py 
-  - test_piRover_armed.py
-  - [P03.Servo.pdf](P03.Servo.pdf){:target='_blank'}
-  - piRover_servo.py
-  - piRover_keyboard testing
 
-    
+- Review of keyboard and fakes
+  - piRover_led_fake1.py
+  - piRover_led_fake2.py
+  - piRover_led.py
+
+- Add [piRover_bluetooth.py](piRover_bluetooth.py)
+  - wget https://k2controls.github.io/piRover01/sp3t/w14/piRover_bluetooth.py
+  - test_bluetooth.py
+
+  - piRover_phone_app.py (based on piRover_keyboard.py)
+    - complete help()
+    - complete selection of button commands
+    - Next session
+      - Analog/slider integrations
+      - Multi button input
+      - Shut down
+      - Enabling at start up
+
+
 **Session 2**
-- No class today. 
-  - Working session for P03 Part1. 
-  - KEK will be on Zoom at start of class for any questions.
-- [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
-  - piRover_led.py (on your own)
-  - working time
-  - submit functional piRover_keyboard solution
-  - Include completed P03.piRoverKeyboard document
+
+- piRover_phone_app.py
+  - testing
+  - arming
+  - shut down - LED_ON, LED_OFF
+  - other multi-command options?
+  - analog operations
+    - servo slider -> servo position
+    - servo slider -> drive speed
+    - rgb sliders
+  - review - [Enabling at Startup](EnablingPythonAppAtStartup.pdf){:target='_blank'}
+- final requirements: video, retro, debt?  
 
 ---
 
 ### Assignments
-- **W14** Assignments - Zip your workingP03 folder and submit. Be sure to add your updated P03.piRoverKeyboard document.
-  - **weekP03.zip**
-    - piRover_buzzer_fake.py
-    - piRover_buzzer.py (with pwm)
-    - piRover_drive_fake.py
-    - piRover_drive.py
-    - piRover_keyboard.py
-    - piRover_led_fake.py
-    - piRover_led.py 
-    - piRover_servo_fake.py
-    - piRover_servo.py
-    - piRover_switch.py
-    - test_piRover_armed.py
-    - **P03.piRoverKeyboard.docx** (.docx or .pdf) 
+- None - Final P03 Part 2 in progress 
