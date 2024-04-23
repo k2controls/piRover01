@@ -1,4 +1,4 @@
-W14: We'll review P03 Part 1 including the LED implementation. The development of the Bluetooth application (piRover_phone_app.py) will kickoff in session 2. A video of your functional system along with your coding is required as a P03 - part 2 submission which is due the final week.
+W14: We'll review P03 Part 1 including the LED implementation. The development of the Bluetooth application (piRover_phone.py) will kickoff in session 2. A video of your functional system along with your coding is required as a P03 - part 2 submission which is due the final week.
 
 **Schedule**
 - Week 14
