@@ -7,7 +7,7 @@ W14: We'll review P03 Part 1 including the LED implementation. The development o
     - Bluetooth module, messaging, and integration
   - Session 2
     - Analog inputs and operations
-    - P03 piRover_phone_app.py assigned
+    - P03 piRover_phone.py assigned
 - Week 15
   - Session 1
     - No class session - P03 Part 2 working session
