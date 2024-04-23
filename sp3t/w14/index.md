@@ -3,7 +3,7 @@ W14: We'll review P03 Part 1 including the LED implementation. The development o
 **Schedule**
 - Week 14
   - Session 1
-    - P02 Review 
+    - P03 Part 1 Review 
     - Bluetooth module, messaging, and integration
   - Session 2
     - Analog inputs and operations
@@ -20,15 +20,16 @@ W14: We'll review P03 Part 1 including the LED implementation. The development o
 **Session 1**
 
 - Review of keyboard and fakes
-  - piRover_led_fake1.py
-  - piRover_led_fake2.py
+  - piRover_led_fake.py
   - piRover_led.py
+    - on, off, toggle
+    - dim using PWM
 
 - Add [piRover_bluetooth.py](piRover_bluetooth.py)
   - wget https://k2controls.github.io/piRover01/sp3t/w14/piRover_bluetooth.py
   - test_bluetooth.py
 
-  - piRover_phone_app.py (based on piRover_keyboard.py)
+  - piRover_phone.py (based on piRover_keyboard.py)
     - complete help()
     - complete selection of button commands
     - Next session
@@ -40,7 +41,8 @@ W14: We'll review P03 Part 1 including the LED implementation. The development o
 
 **Session 2**
 
-- piRover_phone_app.py
+<!-- 
+- piRover_phone.py
   - testing
   - arming
   - shut down - LED_ON, LED_OFF
@@ -50,7 +52,7 @@ W14: We'll review P03 Part 1 including the LED implementation. The development o
     - servo slider -> drive speed
     - rgb sliders
   - review - [Enabling at Startup](EnablingPythonAppAtStartup.pdf){:target='_blank'}
-- final requirements: video, retro, debt?  
+- final requirements: video, retro, debt?   -->
 
 ---
 
