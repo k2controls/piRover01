@@ -41,7 +41,7 @@ W14: We'll review P03 Part 1 including the LED implementation. The development o
 
 **Session 2**
 
-<!-- 
+
 - piRover_phone.py
   - testing
   - arming
@@ -52,7 +52,7 @@ W14: We'll review P03 Part 1 including the LED implementation. The development o
     - servo slider -> drive speed
     - rgb sliders
   - review - [Enabling at Startup](EnablingPythonAppAtStartup.pdf){:target='_blank'}
-- final requirements: video, retro, debt?   -->
+- final requirements: video, retro, debt?  
 
 ---
 
