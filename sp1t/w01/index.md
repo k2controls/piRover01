@@ -13,9 +13,12 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     - *Assigned* [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
 - *Assigned* Learning to use Zoom video. Introduce yourself by creating a short introduction video using your name as the file name. Include in this week's zip file. This video will not be shared.
+- Pick up your RAM kit!
+- Take a look around the makerspace!
 ![RAM kit](20240115_092159.jpg)
 ![Alt text](20240115_092213.jpg)
-![Alt text](20240115_092307.jpg)   
+
+
 **Session 2**
 
 <!-- - Zoom account? Where you able to join as a Zoom user?
