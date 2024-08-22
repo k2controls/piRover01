@@ -12,13 +12,13 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
     - *Assigned* [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
-- *Assigned* Introduce yourself by creating a short introduction video using your name as the file name. Include in this week's zip file. This video will not be shared.
+- *Assigned* Learning to use Zoom video. Introduce yourself by creating a short introduction video using your name as the file name. Include in this week's zip file. This video will not be shared.
 ![RAM kit](20240115_092159.jpg)
- ![Alt text](20240115_092213.jpg)
- ![Alt text](20240115_092307.jpg)   
+![Alt text](20240115_092213.jpg)
+![Alt text](20240115_092307.jpg)   
 **Session 2**
 
-- Zoom account? Where you able to join as a Zoom user?
+<!-- - Zoom account? Where you able to join as a Zoom user?
 - Zoom video recording?  Local or cloud storage?
 - My test
   - [Cloud](https://nmc.zoom.us/rec/share/ - [local](video1437989670.mp4)
@@ -46,7 +46,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
             - Show the rover
             - How long did it take to build
             - What were major obstacles or what was difficult
-            - What would you do differently next time
+            - What would you do differently next time -->
 
 
 ---
