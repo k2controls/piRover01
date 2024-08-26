@@ -9,6 +9,8 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 
 **Session 1**
 - Welcome and [Course Introduction](../../course_info/CourseIntro-NMC.pdf){:target="_blank"}
+    - Ethernet connection is required for week 2
+    - Do you need to purchase an Ethernet adapter?
 - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
     - *Assigned* [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
