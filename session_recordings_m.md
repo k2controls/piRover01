@@ -2,9 +2,11 @@
 ## RAM155 Section 2048 
 ### Session Recordings
 
-<!--
 
-- [8/26/2024]()
+
+- [8/26/2024](https://nmc.zoom.us/rec/share/3Yc6mvVDpyaJ8ulBuEBFR76BfmqH6wj4vT5h9CkpgBXI5J62wrZ1iy2T-Ah22lqf.cOFmNDNOcPDyrFbW)
+
+<!--
 - [8/28/2024]()
 - [9/2/2024]()
 - [9/4/2024]()
