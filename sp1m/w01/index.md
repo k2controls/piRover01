@@ -34,21 +34,37 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 
 **Session 2**
 
-<!-- - Zoom account? Where you able to join as a Zoom user?
-- Zoom video recording?  Local or cloud storage?
-- My test
-  - [Cloud](https://nmc.zoom.us/rec/share/ - [local](video1437989670.mp4)
-  - [Cloud](https://nmc.zoom.us/rec/share/dPG2JdQd1PrKjTGkg-CoMR6vTOTE8pll0Ovui1PilPI1PEPPXT08OIP0UZnl0SPL.hMTnhak94264Cuo4)
+- Zoom account? 
+    - Were you able to join as a Zoom user?
+    - Can you create a Zoom video recording?
+        - Local Storge
+        - Cloud Storage
+    - Troubleshooting
+        - Create a screen capture of your Zoom window showing controls.
+        - Paste the image into an email to me (kkelly@nmc.edu)
+        - Provide the following information
+            - What type of machine are you on?
+                - NMC computer
+                - my laptop (PC)
+                - my laptop (Mac)
+                - other?
+            - Is the Zoom app install?
+            - Did you log into Zoom with your mail.nmc.edu account name?
+            - Anything else that you've have tried?
 
-- Managing Project Files in the Cloud
+- Managing Project Files in the Cloud (Demo on submitting)
     1. Create RAM155/Week01
-    2. Upload Getting Started activity doc
-    3. Upload Student Intro doc
+    2. Upload Raspberry Pi worksheet
     4. Add .mp4 file if you recorded the video locally (cloud preferred)
     4. Download folder as .zip
     5. Submit .zip file to W01 link
-    6. Add link to video if you recorded to the cloud (preferred)
+    6. Did you record to the cloud?
+        1. Week01.zip has only one file - the Pi worksheet
+        2. Add zip to W01 link
+        3. Copy link to cloud video in text area.
 
+- [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
+        
 - Build process
     - [piRover Build Preparation](../../lessons/05/piRoverBuildPreparation.pdf){:target="_blank"}
     - [Introduction to Agile/Scrum](../../lessons/06/piRoverScrumStandup.pdf){:target="_blank"}
@@ -62,7 +78,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
             - Show the rover
             - How long did it take to build
             - What were major obstacles or what was difficult
-            - What would you do differently next time -->
+            - What would you do differently next time
 
 
 ---
