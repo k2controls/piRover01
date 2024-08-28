@@ -2,9 +2,11 @@
 ## RAM155 Section 2049 
 ### Session Recordings
 
+- [8/27/2024](https://nmc.zoom.us/rec/share/NMBvFebEi2hxoZ6MKCuf2FFREavD35AGRgGFw8dKMGtA-Xcn2orSg765fqhc3iy1.Hh4LArwdmdK_BpBj)
+
 <!--
 
-- [8/27/2024]()
+
 - [8/29/2024]()
 - [9/3/2024]()
 - [9/5/2024]()
