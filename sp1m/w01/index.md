@@ -64,6 +64,8 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
         3. Copy link to cloud video in text area.
 
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
+    - [RAM155 student kit Bill of Materials (BOM)](../../RAM155_kit_BOM.pdf)
+        
         
 - Build process
     - [piRover Build Preparation](../../lessons/05/piRoverBuildPreparation.pdf){:target="_blank"}
