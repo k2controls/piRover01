@@ -10,7 +10,8 @@ W02 - This is a build and configure week. By the end of the week you will have t
 **Session 1**
 - Week 01 submitted? Issues?
   - What cool Pi projects did you find?
-  - Where you able to create a Zoom video? Did you share your screen? Cloud or local?
+  - Were you able to create a Zoom video? Did you share your screen? Cloud or local?
+  - W01 assignment link is reactivated
 - Build status? 
 - Midpoint scrum video due. Be sure to review and answer the three scrum questions. See Week 1 for prompts.
 - Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned? See Week 1 for prompts.
@@ -18,14 +19,16 @@ W02 - This is a build and configure week. By the end of the week you will have t
 - [piRover Wiring](../../lessons/09/piRoverWiring.pdf){:target="_blank"}
 - Yahboom G1 Tank power distribution 
 - [Battery Charging](../../lessons/10/BatteryCharging.pdf){:target="_blank"}
-- Demos: 
+- Demos:
+  - The instructor will preview the following. Your piRover should be built and have a fully charged battery for the next session. These demonstrations will be repeated with you following along
   - Power up
   - Phone app
-- [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
+  - A first look at [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+
 
 **Session 2**
 
-- No class next Tuesday. KEK at a conference.
+<!-- - No class next Tuesday. KEK at a conference.
 - Build updates. 
 - Scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
 - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
@@ -40,7 +43,7 @@ W02 - This is a build and configure week. By the end of the week you will have t
   - **Video:** [Build Validation - Camera    ](https://youtu.be/4QIFle79sMI){:target="_blank"} 
 - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
     - The following resource is provided if there are issues with DNS settings
-    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"}
+    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"} -->
 
 
 ---

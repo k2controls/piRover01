@@ -13,17 +13,21 @@ W02 - This is a build and configure week. By the end of the week you will have t
 **Session 2**
 - Week 01 submitted? Issues?
   - What cool Pi projects did you find?
+  - Were you able to create a Zoom video? Did you share your screen? Cloud or local?
+  - W01 assignment link is reactivated
 - Build status? 
-- Midpoint scrum video due. Be sure to review and answer the three scrum questions.
-- Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
+- Midpoint scrum video due. Be sure to review and answer the three scrum questions. See Week 1 for prompts.
+- Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned? See Week 1 for prompts.
 - [piRover Build](../../lessons/07/piRoverBuild.pdf){:target="_blank"}
 - [piRover Wiring](../../lessons/09/piRoverWiring.pdf){:target="_blank"}
 - Yahboom G1 Tank power distribution 
 - [Battery Charging](../../lessons/10/BatteryCharging.pdf){:target="_blank"}
-- Demos: 
+- Demos:
+  - The instructor will preview the following. Your piRover should be built and have a fully charged battery for the next session. These demonstrations will be repeated with you following along
   - Power up
   - Phone app
-  - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+  - A first look at [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+
 
 ---
 
