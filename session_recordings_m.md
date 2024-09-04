@@ -7,7 +7,7 @@
 - [8/26/2024](https://nmc.zoom.us/rec/share/3Yc6mvVDpyaJ8ulBuEBFR76BfmqH6wj4vT5h9CkpgBXI5J62wrZ1iy2T-Ah22lqf.cOFmNDNOcPDyrFbW)
 - [8/28/2024](https://nmc.zoom.us/rec/share/-J9CGGZr_jdCMkr_tJ3dplsuz_byYA5JAyrEZ1oWrhR1hq27o8wFg17Yot0C3gt2.Ib2l8tqSdBRUallM)
 - 9/2/2024 - None. Labor Day
-- [9/4/2024](https://nmc.zoom.us/rec/share/EqafIJW1kinppzI3Zq3TA-JWQOqtitsx4s-GUyvHs2ScY9vzlArW5PaHgGLBlZqo.Dk4rKjVoC2ItLV8f)
+- [9/4/2024](https://nmc.zoom.us/rec/share/xrgS6gt1JOkWV10hTuovSXNfameNQUYvknEMBrYJZfMjvh7sODMPAqlHIBu64SZe.AIi2KzCrWueiOXLf)
 
 <!--
 
