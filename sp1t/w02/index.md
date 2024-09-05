@@ -28,23 +28,21 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
 **Session 2**
 
-<!-- - No class next Tuesday. KEK at a conference.
 - Build updates. 
 - Scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
 - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
+  - This is an in-class activity. You do not need to submit the completed assignment document.
+
+- [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
 
   - **Video:** [Build Validation - Overview](https://youtu.be/RanVP2aGpzg){:target="_blank"}
-- [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
 
-- [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
-  - **Video:** [Build Validation - Line Follower](https://youtu.be/k2n6r7ibBpA){:target="_blank"}
-  - **Video:** [Build Validation - Servo LEDs](https://youtu.be/Qzsm5Gdbr1w){:target="_blank"}
-  - **Video:** [Build Validation - Sonar Tracking](https://youtu.be/oyVOCAg20fM){:target="_blank"}
-  - **Video:** [Build Validation - Camera    ](https://youtu.be/4QIFle79sMI){:target="_blank"} 
-- [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
-    - The following resource is provided if there are issues with DNS settings
-    - [Setting DNS](https://pimylifeup.com/raspberry-pi-dns-settings/){:target="_blank"} -->
-
+- [Connecting Remotely - second demo](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+  - This was previewed during the last session. Can you follow along to connect?
+  - We'll repeat next session with the goal of have everyone connect.
+  - If you are connecting to the NMC Wi-Fi Access Point configured for the piRover or other Pi devices. You'll need to following.
+    - SSID: **NMC-PSK**
+    - PSK/password: **Baffle-Amused-Stencil4**
 
 ---
 
@@ -54,7 +52,6 @@ W02 - This is a build and configure week. By the end of the week you will have t
     - **Scrum videos** - midpoint and final. 
       - Add video files to W02 zip or provide links.
     - **Activity: Build Validation - Part 1**
-- For next week (Tuesday on your own)  
-  - **Activity: Build Validation - Part 2**
-  - Review today's video and practice connecting remotely to your Pi Desktop.
+- For next week   
+  - Review today's video and practice connecting remotely to your Pi Desktop. Can you set the Wi-Fi access so that you are connected to the Internet?
    
