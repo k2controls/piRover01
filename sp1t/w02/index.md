@@ -29,7 +29,9 @@ W02 - This is a build and configure week. By the end of the week you will have t
 **Session 2**
 
 - Build updates. 
-- Scrum video due. Be sure to review and answer the three scrum questions. Lessons learned?
+- Scrum videoa due. Be sure to review and answer the three scrum questions. Lessons learned?
+  - [Creating an NMC Zoom recording](../../resources/CreatingAZoomRecording.pdf){:target="_blank"}
+
 - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
   - This is an in-class activity. You do not need to submit the completed assignment document.
 
