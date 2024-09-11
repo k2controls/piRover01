@@ -32,7 +32,7 @@ W03 - During this week you verify the function of your piRover by downloading, i
 
 **Session 2**
 
-<!-- - Connecting status
+- Connecting status
   - Are you able to control the piRover with your smartphone to complete Build Validation - Part 1?
   - Are you able to connect to the remote desktop using VNC?
   - Were you able to complete initial configuration including changing your password and accessing Wi-Fi
@@ -54,7 +54,8 @@ W03 - During this week you verify the function of your piRover by downloading, i
   - **Video:** [Build Validation - Camera    ](https://youtu.be/4QIFle79sMI){:target="_blank"}
   - **NOTE:** - The camera feed does not function with the K2 version of the SD card. The required piRover AP host (192.168.50.1) is no longer configured.
 
-- Python Code - first demo -->
+- Linux command line - first demo
+- Python Code - first demo
 
 ---
 
@@ -63,3 +64,4 @@ W03 - During this week you verify the function of your piRover by downloading, i
     - **Activity: Build Validation - Part 1**
     - **Activity: Build Validation - Part 2**
     - **screen capture: RemoteConnection.jpg**
+      - **Note: if you cannot connect to create the screen capture then use the text space in the assignment submission to describe your attempts including any assistance such as makerspace visits.***
