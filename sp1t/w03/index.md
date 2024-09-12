@@ -35,18 +35,19 @@ W03 - During this week you continue to verify the function of your piRover by ru
 
 **Session 2**
 
-<!-- - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+- [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
   - Connect to your remote desktop
     - Option 1: Ethernet - connection is peer-to-peer
-      - yahboomtank.local is the VNC server name
-    - Option 2: Network/Wi-Fi connection (not at NMC) 
+      - *piRover.local* is the VNC server name
+    - Option 2: Network/Wi-Fi connection 
       - Raspberry Pi and your workstation share the same network
-      - yahboomtank is the VNC server name
-  - Configure Wi-Fi client 
-    - Enter the pass code for your Wi-Fi access point (AP)
-    - Use a smartphone hotspot? 
+      - *piRover* is the VNC server name
+      - NMC network does not support
+      - But we have set up *nmc_makers* open access point in the makerspace. 
+      - Enter the pass code for your Wi-Fi access point (AP). Again, the nmc_makers AP is open. No pass code is required
+    - Use a smartphone hotspot? This may be the best option if it is available to you. Once you have connected the Pi, you can view the connection on your phone. The IP address is normally available.
     - Hover or Wi-Fi icon in menu bar - your IP address is displayed
-    - Test in a terminal window
+    - Test Internet connectivity in a terminal window
       - ping 8.8.8.8    (ctrl+C to exit)
       - ping google.com (ctrl+C to exit)
 
@@ -59,7 +60,13 @@ W03 - During this week you continue to verify the function of your piRover by ru
 
 - An introduction to the Linux command line.
  - [Introduction to Linux and Basic Linux Commands for Beginners](https://www.youtube.com/watch?v=IVquJh3DXUA&ab_channel=sakitech){:target="_blank"}  by sakitech
-  - [Linux Essentials Tutorials: A Beginner’s first 100 commands](https://factorpad.com/tech/linux-essentials/index.html) by FactorPad -->
+  - [Linux Essentials Tutorials: A Beginner’s first 100 commands](https://factorpad.com/tech/linux-essentials/index.html) by FactorPad
+
+- piRover Browser
+  - Google Drive
+  - Moodle (elearn.nmc.edu)
+
+- Python - a first look
 
 ---
 
@@ -69,3 +76,4 @@ W03 - During this week you continue to verify the function of your piRover by ru
     - **Zoom video** showing remote desktop and Internet connectivity. See above.
       - Add your mp4 file to this week's zip file
       - or paste the URL to your cloud recording in the text area
+        - **Note: if you cannot connect to create the connection video then use the text space in the assignment submission to describe your attempts including any assistance such as makerspace visits.**
