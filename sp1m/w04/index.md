@@ -54,11 +54,10 @@ W04: In week 4, we start the transition from running someone else's code to writ
   - Extract Yahboom examples to home directory (~)
   - Demo - running Python from terminal prompt
 
-  
 - A first look at Visual Studio Code
   - Copy ColorLED.py to week04 folder
   - Run. Issues?
-  - VS code investigation0
+  - VS code investigation
  
 **Session 2**
 

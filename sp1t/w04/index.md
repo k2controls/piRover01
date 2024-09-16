@@ -7,10 +7,8 @@ layout: default
 
 W04: In week 4, we start the transition from running someone else's code to writing our own. First, you'll connect remotely to the Pi and take a first look at Python on the Pi. We'll then disable the Yahboom code and start writing our own GPIO code.
 
-**Announcements**
-1. Week 05 Session 1 (next week): End of Sprint Project 1 is completed on your own. No Zoom session that day. Open the Week 05 link, complete the required coding, and submit your work by end of Session 1. The class will review and revise during Session 2.
-2. We're looking to hire new NMC Makerspace lab technicians this semester. You'll need to be enrolled at NMC at least through next school year. Email me if you are interested.
-
+<!-- **Announcements**
+1. Week 05 Session 1 (next week): End of Sprint Project 1 is completed on your own. No Zoom session that day. Open the Week 05 link, complete the required coding, and submit your work by end of Session 1. The class will review and revise during Session 2. -->
 
 **Session 1**
 
@@ -19,15 +17,13 @@ W04: In week 4, we start the transition from running someone else's code to writ
 - Remote connections - Status? 
   - Connecting via phone Hotspot
     - ![hotspot connect](./hotspot_connect.jpg)
-  
-- Next week - Week 5 end of sprint
-- Tuesday - Project 1, on your own
-  - Access remote desktop
-  - Create project 1 Python file
-  - Enter code by extending week04 code
-  - Zip and submit by class end
-- Thursday - Project 1 review and revise
-  - Resubmit Project 1 at end of week
+  - Connecting via nmc_makerspace
+
+- Remote Desktop Review
+  - piRover Browser
+    - Google Drive
+    - Moodle (elearn.nmc.edu)
+
 
 - Linux - basic commands
 
@@ -42,16 +38,22 @@ W04: In week 4, we start the transition from running someone else's code to writ
 | mv      |Rename and Replace the files|
 | rm      |Delete files|
 
-- Visual Studio Code - installation
-  - Linux commands to update and then install Visual Studio Code (Not required at this time.)
+- RAM 155 workspace on the Pi
+  - create piRover directory
+  - create week04 directory
+  
+ A first look at Python
+  - Download Yahboom Python examples - See Tools section
+  - Extract Yahboom examples to home directory (~)
+  - Demo - running Python from terminal prompt
 
-```bash  
-sudo apt update
-sudo apt upgrade
-sudo apt install code
-
-```
-
+- A first look at Visual Studio Code
+  - Copy ColorLED.py to week04 folder
+  - Run. Issues?
+  - VS code investigation  
+  
+**Session 2**
+<!-- 
 - Python in VS Code - first look/review
   - ColorLED.py
 
@@ -70,8 +72,6 @@ wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
 
 ```
 
-**Session 2**
-
 - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
 
 ```bash 
@@ -80,13 +80,14 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Create beep.py and test
 - Create blink_beep.py and test
 
-- Saving piRover code to your cloud storage
+- Saving piRover code to your cloud storage -->
 
 
 ---
 
 ### Assignments
 - **W04** Assignments - Zip assignment files specified in the following activities and submit to the link below
+  - **ColorLED.py**
   - **blink.py**
   - **beep.py**
   - **blink_beep.py**
