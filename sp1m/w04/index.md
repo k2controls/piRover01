@@ -8,44 +8,61 @@ layout: default
 W04: In week 4, we start the transition from running someone else's code to writing our own. First, you'll connect remotely to the Pi and take a first look at Python on the Pi. We'll then disable the Yahboom code and start writing our own GPIO code.
 
 **Session 1**
-- Build Validation review - issues?
-- Current requirements
-    - VNC remote connection - either Ethernet or Wi-Fi
-    - RPI configuration completed - new password, yahboomtank as hostname
-    - RPi connected to Wi-Fi (use of ping command to test)
-    - Browser shortcuts on the Pi - Moodle, - OneDrive or Google Drive
-    - Issues? - see [this document](../../lessons/15/ConfiguringTheRaspberryPi.pdf){:target="_blank"} for assistance.
-- Next Stpes
-    - Update RPi packages 
-    - Install Visual Studio Code
-    - Note: The following code takes signicant time to complete. 
 
-```bash  
-sudo apt update
-sudo apt upgrade
-sudo apt install code
+- [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+  - Connect to your remote desktop
+    - Option 1: Ethernet - connection is peer-to-peer
+      - *piRover.local* is the VNC server name
+    - Option 2: Network/Wi-Fi connection 
+      - Raspberry Pi and your workstation share the same network
+      - *piRover* is the VNC server name
+      - NMC network does not support
+      - But we have set up *nmc_makers* open access point in the makerspace. 
+      - Enter the pass code for your Wi-Fi access point (AP). Again, the nmc_makers AP is open. No pass code is required
+    - Use a smartphone hotspot? This may be the best option if it is available to you. Once you have connected the Pi, you can view the connection on your phone. The IP address is normally available.
+    - Hover or Wi-Fi icon in menu bar - your IP address is displayed
+    - Test Internet connectivity in a terminal window
+      - ping 8.8.8.8    (ctrl+C to exit)
+      - ping google.com (ctrl+C to exit)
 
-```
+  - **Use must be remotely connected this week!**
+    - Access assistance in the makerspace. See the tools section for tech schedule.
 
-- [Visual Studio Code - Getting Started](../../lessons/19/VisualStudioCodeGettingStarted.pdf){:target="_blank"}
-  - Add Python extension
+- The remote desktop
+  - Menu
+  - Browser
+  - File Explorer
+  - Terminal emulator
+  - Power issues
+  - Updates?
+  - Networking/Wi-Fi
 
-- [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
-  - This resource is installed on Raspian OS by default.
-  -VS Code Intellisense for GPIO
-    -Remove Pylance
-    -Add JEDI
+- Browser shortcuts
+  - Moodle
+  - Google Drive
 
- - [Disabling Yahboom Bluetooth](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+- An introduction to the Linux command line.
+ - [Introduction to Linux and Basic Linux Commands for Beginners](https://www.youtube.com/watch?v=IVquJh3DXUA&ab_channel=sakitech){:target="_blank"}  by sakitech
+  - [Linux Essentials Tutorials: A Beginner’s first 100 commands](https://factorpad.com/tech/linux-essentials/index.html) by FactorPad
 
+- RAM 155 workspace on the Pi
+  - create piRover directory
+  - create week04 directory
 
-- Python in VS Code - first look
-  - ColorLED.py
+- A first look at Python
+  - Download Yahboom Python examples - See Tools section
+  - Extract Yahboom examples to home directory (~)
+  - Demo - running Python from terminal prompt
 
+  
+- A first look at Visual Studio Code
+  - Copy ColorLED.py to week04 folder
+  - Run. Issues?
+  - VS code investigation0
  
 **Session 2**
 
-- Python in VS Code - first look/review
+<!-- - Python in VS Code - first look/review
   - disabling Yahboom Bluetooth (see Session 1 link)
   - ColorLED.py
 
@@ -70,12 +87,13 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Create beep.py and test
 - Create blink_beep.py and test
 
-- Saving piRover code to your cloud storage
+- Saving piRover code to your cloud storage -->
  
 ---
 
 ### Assignments
 - **W04** Assignments - Zip assignment files specified in the following activities and submit to the link below
+  - **ColorLED.py**
   - **blink.py**
   - **beep.py**
   - **blink_beep.py**
