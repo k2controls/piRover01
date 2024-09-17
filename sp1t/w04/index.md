@@ -104,5 +104,3 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
   - **blink.py**
   - **beep.py**
   - **blink_beep.py**
-  - Include a short video clip of "blink_beep.py". Show your VS Code window with code. (Zoom video with screen share is preferred.)
-  
