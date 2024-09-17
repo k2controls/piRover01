@@ -66,6 +66,7 @@ W04: In week 4, we start the transition from running someone else's code to writ
   - VS code investigation  
   
 **Session 2**
+
 <!-- 
 - Python in VS Code - first look/review
   - ColorLED.py
