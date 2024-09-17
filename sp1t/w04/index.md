@@ -13,11 +13,23 @@ W04: In week 4, we start the transition from running someone else's code to writ
 **Session 1**
 
 - Build Validation review - issues? Does everything work?
+  - Build Validation 1?
+  - Build Validation 2?
   
 - Remote connections - Status? 
-  - Connecting via phone Hotspot
+  - via Ethernet (connect to piRover.local)
+  - have your home Wi-Fi connected?
+    - no Ethernet cable required
+    - connect to piRover
+  - Smartphone Hotspot is also a good option
+    - The IP address of your piRover is visible
     - ![hotspot connect](./hotspot_connect.jpg)
+    - Connect via VNC using the IP address rather than piRover
   - Connecting via nmc_makerspace
+    - new nmc_makerspace Wi-Fi access point
+    - workstations can connect to nmc_makersapce
+    - connect your rover using direct connection (Monitor, Keyboard, Mouse)
+    - Or, new SD card is configured to automatically connect to nmc_makerspace AP.
 
 - Remote Desktop Review
   - piRover Browser
@@ -46,6 +58,7 @@ W04: In week 4, we start the transition from running someone else's code to writ
   - Download Yahboom Python examples - See Tools section
   - Extract Yahboom examples to home directory (~)
   - Demo - running Python from terminal prompt
+  - Yahboom code is written in Python2, we're using Python3
 
 - A first look at Visual Studio Code
   - Copy ColorLED.py to week04 folder
