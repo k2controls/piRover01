@@ -21,7 +21,7 @@ W04: In week 4, we start the transition from running someone else's code to writ
 **Session 1**
 
 - Build Validation review - issues? Does everything work?
-  - Build Validation 1?
+  - [Build Validation 1](../../lessons/13/BuildValidationPart1.pdf){:target='_blank'}?
   - Build Validation 2?
   
 - Remote connections - Status? 
