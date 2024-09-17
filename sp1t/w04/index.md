@@ -7,8 +7,16 @@ layout: default
 
 W04: In week 4, we start the transition from running someone else's code to writing our own. First, you'll connect remotely to the Pi and take a first look at Python on the Pi. We'll then disable the Yahboom code and start writing our own GPIO code.
 
-<!-- **Announcements**
-1. Week 05 Session 1 (next week): End of Sprint Project 1 is completed on your own. No Zoom session that day. Open the Week 05 link, complete the required coding, and submit your work by end of Session 1. The class will review and revise during Session 2. -->
+**Announcements**
+> Week 05 Session 2 (next week): End of Sprint Project 1 is completed on your own. No Zoom session that day. Open the Week 05 link, complete the required coding, and submit your work by end of Session 1. The class will review Project 1 coding the following week.
+> #### Requirements:
+> 1. Access your remote desktop.
+> 2. Open and use VS Code to write and run code.
+> 3. Refer to prior code examples. Copy code and duplicate patterns. 
+> 4. Reference documents and class notes to determine GPIO pins.
+> 5. Take a screen capture of your code window.
+> 6. Zip your code along with screen capture and submit to Moodle.
+> 7. All Sprint 1 technical debt must be submit by the end of Week 05. No late credit is available after.
 
 **Session 1**
 
