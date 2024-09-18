@@ -127,7 +127,7 @@ W04: In week 4, we start the transition from running someone else's code to writ
 
   - Single stepping using the debugger
 
-- [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
+<!-- - [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
   - This resource is installed on Raspian OS by default.
 
 - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
@@ -141,15 +141,15 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Saving piRover code to your cloud storage
   - Copy files listed in Assignments to week04 in your Google Drive.
   - Download the week04 folder to your workstation.
-  - Submit the resulting week04.zip file to the Moodle assignment link.
+  - Submit the resulting week04.zip file to the Moodle assignment link. -->
  
 ---
 
 ### Assignments
 - **W04** Assignments - Zip assignment files specified in the following activities and submit to the link below
   - **ColorLED.py**
-  - **blink.py**
-  - **beep.py**
-  - **blink_beep.py**
+  - ~~**blink.py**~~
+  - ~~**beep.py**~~
+  - ~~**blink_beep.py**~~
 
   
