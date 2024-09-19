@@ -8,7 +8,7 @@ layout: default
 W04: In week 4, we start the transition from running someone else's code to writing our own. First, you'll connect remotely to the Pi and take a first look at Python on the Pi. We'll then disable the Yahboom code and start writing our own GPIO code.
 
 **Announcements**
-> Week 05 Session 2 (next week): End of Sprint Project 1 is completed on your own. No Zoom session that day. Open the Week 05 link, complete the required coding, and submit your work by end of Session 1. The class will review Project 1 coding the following week.
+> Week 05 Session 2 ~~(next week)~~ **(MOVED TO WEEK06)**: End of Sprint Project 1 is completed on your own. No Zoom session that day. Open the Week 05 link, complete the required coding, and submit your work by end of Session 1. The class will review Project 1 coding the following week.
 > #### Requirements:
 > 1. Access your remote desktop.
 > 2. Open and use VS Code to write and run code.
@@ -75,24 +75,27 @@ W04: In week 4, we start the transition from running someone else's code to writ
   
 **Session 2**
 
-<!-- 
-- Python in VS Code - first look/review
-  - ColorLED.py
+- End of Sprint Project 1/Assessment moved to Week 06
 
-- [Disabling Yahboom Bluetooth](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+- Python coding using Visual Studio Code
+  - Open VS Code using the terminal prompt
+  
+  ```console
+  cd piRover
+  code .
+  ```
+
+  - Review of ColorLED.py (see week04 assignments)
+    - VS code investigation
+    - Run code using toolbar or F5
+
+- Removing the Yahboom code conflict
+  - [Disabling Yahboom Bluetooth](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
+
+- Single stepping using the debugger
 
 - [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
   - This resource is installed on Raspian OS by default.
-  - VS Code Intellisense for GPIO
-    - Remove Pylance
-    - Add JEDI
-
-- Guessing Game and debugger use
-
-```bash 
-wget https://k2controls.github.io/piRover01/lessons/19/game_test.py
-
-```
 
 - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
 
@@ -102,7 +105,10 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Create beep.py and test
 - Create blink_beep.py and test
 
-- Saving piRover code to your cloud storage -->
+- Saving piRover code to your cloud storage
+  - Copy files listed in Assignments to week04 in your Google Drive.
+  - Download the week04 folder to your workstation.
+  - Submit the resulting week04.zip file to the Moodle assignment link.
 
 
 ---
