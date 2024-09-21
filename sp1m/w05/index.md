@@ -5,41 +5,46 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 1](../) - Week 05
 
-This is the end of Sprint 1. The Project 01 is due this week. During session 1 we'll review blink and beep code as well as review Project 01 requirements. There is no class session during Session 2. This class time is allocated to completing the Project 01 coding and related video. You also complete the Sprint 1 Retrospective, and posting any technical debt from Sprint 1. Separate assignment links are provided on the Moodle page.
+This is the end of Sprint 1. ~~The Project 01 is due this week.~~ During session 1 we'll review blink and beep code as well as review Project 01 requirements. Session 2 is for makeup and review. See notes below.
+
 
 **Session 1**
+- Create week05 folder. Copy week04 files to week05
 - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'} - Review
   - Review use of hardware manual
   - Review use of debugger and single step
-  - blink.py, beep.py, blink_beep.py - code review
-
-- **Project 1**
-  - Create a stop light simulation using the RGB LED provided in the piRover. This is a final assessment for Sprint 1. Do your own work and do not get assistance.
-    - Research typical timing for a stop light red, green, amber sequence.
-    - Research RGB colors. How do you create amber with RGB?
-    - Use Yahboom resources to determine GPIO pins associated with red, green, and blue LEDs.
-    - Create p01_traffic_light.py file in your week05 folder. Use blink and beep code from the prior week as a guide.
-    - Run your solution and test.
-    - Set a breakpoint at the start of the program and single step the execution. See prior session videos for assistance.
-    - Create a P01 video of your solution. The use of Zoom video is preferred due to screen sharing capability.
-      - Use your video camera to show the code running and stop light sequence.
-      - Set a break point and run the code again. Use screen share feature to show the code being single-stepped through the light cycle.
-      - Zip your code and submit to the P01 link. Include your video as either a file or a link. Test your video link to verify that is functions (private window).
+  - blink.py - code review
+  - beep.py - use documentation to transform blink into beep
+  - blink_beep.py - combine beeping and blinking!
+    - video demo required
+- Submitting code files using your Google Drive folder
 
     
 **Session 2**
-- **No class session**
-- Class session reserved for the following. See Moodle assignment links.
-  - P01 coding and video creation
-  - Technical Debt
-  - Retrospectives
+- Sprint 1 assessment is during class time on Monday (Week 06). The requirements are listed below.
+- If you have completed your sprint 1 work including this week's coding and are prepared for next week's assessment, then Session 2 attendance is optional.
+- All Sprint 1 technical debt must be submit by the end of this week (Week 05). No late credit is available after. See the Debt01 link.
+- If you have debt, issues, blockers, or wish to review procedures or coding then you must attend session 2.
+
+
+> #### Sprint 1 In-class Assessment Requirements:
+> 1. Access your remote desktop.
+> 2. Open and use VS Code to write and run code.
+> 3. Refer to prior code examples. Copy code and duplicate patterns. 
+> 4. Reference documents and class notes to determine GPIO pins.
+> 5. Take a screen capture of your code window.
+> 6. Zip your code along with screen capture and submit to Moodle.
+
+
 
 ---
 
 ### Assignments
-**W05** Assignments - This is an assessment week. Complete Project 1 along with retrospective and any technical debt. Refer to class notes on completing debt and retrospective. 
-- **P01**
-- **Retro01**
-- **Debt01**
+- **W04** Assignments - Zip assignment files specified in the following activities and submit to the link below
+  - **ColorLED.py**
+  - **blink.py**
+  - **beep.py**
+  - **blink_beep.py**
+  - **blink_beep video**
 
   
