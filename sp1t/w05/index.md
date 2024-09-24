@@ -22,7 +22,7 @@ This is the end of Sprint 1. ~~The Project 01 is due this week.~~ During session
 
     
 **Session 2**
-- Sprint 1 assessment is during class time on Monday (Week 06). The requirements are listed below.
+- Sprint 1 assessment is during class time on Tuesday (Week 06). The requirements are listed below.
 - If you have completed your sprint 1 work including this week's coding and are prepared for next week's assessment, then *Session 2 attendance is optional*.
 - I will be available on Zoom to review and provide any assistance.
 - All Sprint 1 technical debt must be submit by the end of this week (Week 05). No late credit is available after. See the Debt01 link.
