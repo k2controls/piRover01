@@ -42,7 +42,7 @@ This is the end of Sprint 1. ~~The Project 01 is due this week.~~ During session
 ---
 
 ### Assignments
-- **W04** Assignments - Zip assignment files specified in the following activities and submit to the link below
+- **W05** Assignments - Zip assignment files specified in the following activities and submit to the link below
   - **ColorLED.py**
   - **blink.py**
   - **beep.py**
