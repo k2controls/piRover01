@@ -14,7 +14,7 @@
 
 <!--
 
-- [9/26/2024]()
+- [9/26/2024](https://nmc.zoom.us/rec/share/uhYJrS-R0AuyfAIdAvMW8kb081pjXw6dxAQ9nx80ccJtVfmDmkdAhkpLBryOXSe8.nHsMFNsAW1oAN_cW)
 - [10/1/2024]()
 - [10/3/2024]()
 - [10/8/2024]()
