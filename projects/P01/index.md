@@ -33,6 +33,7 @@ Create a stop light simulation using the RGB LED provided on the piRover. This i
 5. **Develop the Solution**  
    - Use the blink and beep code from the prior week as a guide.  
    - Steps:
+
      a. Import the required libraries.  
      b. Configure the GPIO pins as needed.  
      c. Modify the while loop of earlier solutions to cycle through the stop light stages: red, amber, and green.  
@@ -52,17 +53,17 @@ Create a stop light simulation using the RGB LED provided on the piRover. This i
 
 ### Grading Rubric
 
-| **Requirement**                               | **Points Available** | **Score** |
+| **Requirement**                               | **Points** | **Score** |
 |-----------------------------------------------|----------------------|-----------|
-| **Week06 directory created in piRover workspace**  |                      |           |
-| **`p01_traffic_light.py` file created in `week06` directory**  |                      |           |
-| **Correct RGB values used to simulate red, amber, and green stop light**  |                      |           |
-| **Total stop light cycle time is approximately 30 seconds** |                      |           |
-| **Appropriate timing delays for red, amber, and green lights** |                      |           |
-| **Code follows correct format and includes all necessary imports and GPIO setup** |                      |           |
-| **While loop properly cycles through red, amber, and green light stages** |                      |           |
-| **Debug breakpoint set at the correct line in the code** |                      |           |
-| **Screenshot of the code window saved as `traffic_light_code.jpg` (or .png)** |                      |           |
-| **Code runs without errors and simulates a stop light correctly** |                      |           |
-| **Zip file submission includes both `p01_traffic_light.py` and `traffic_light_code.jpg` (or .png)** |                      |           |
-| **All work submitted on time**               |                      |           |
+| **Week06 directory created in piRover workspace**                         |  3 |  |
+| **`p01_traffic_light.py` file created in `week06` directory**             |  4 |  |
+| **Correct RGB pin numbers used for red, amber, and green stop light**     |  6 |  |
+| **Total stop light cycle time is approximately 30 seconds**               |  6 |  |
+| **Appropriate timing delays for red, amber, and green lights**            |  6 |  |
+| **Code follows correct format and includes imports and GPIO setup**       |  5 |  |
+| **While loop properly cycles through red, amber, and green light stages** |  5 |  |
+| **Debug breakpoint set at the correct line in the code**                  |  3 |  |
+| **Screenshot of code window saved as `traffic_light_code.jpg` (or .png)** |  3 |  |
+| **Code runs without errors and simulates a stop light correctly**         |  3 |  |
+| **Zip file submission includes both `p01_traffic_light.py` and `traffic_light_code.jpg` (or .png)** |  3 |  |
+| **Work submitted to Moodle P01 link as directed**                         |  3 |  |
