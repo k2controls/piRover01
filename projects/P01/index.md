@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Project 01 – Sprint 1 Final Assessment (Rev 1.0)
 
 #### Resources:
