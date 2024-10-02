@@ -12,7 +12,7 @@ layout: default
 
 ---
 
-#### Task:
+<!-- #### Task:
 Create a stop light simulation using the RGB LED provided on the piRover. This is the final assessment for Sprint 1 and is to be completed during the class session. Use all resources from Sprint 1, including notes and sample code. You must zip your files and submit them to the Moodle link by the end of the class session. **No late work will be accepted.**
 
 ---
@@ -70,4 +70,4 @@ Create a stop light simulation using the RGB LED provided on the piRover. This i
 | **Screenshot of code window saved as `traffic_light_code.jpg` (or .png)** |  3 |  |
 | **Code runs without errors and simulates a stop light correctly**         |  3 |  |
 | **Zip file submission includes both `p01_traffic_light.py` and `traffic_light_code.jpg` (or .png)** |  3 |  |
-| **Work submitted to Moodle P01 link as directed**                         |  3 |  |
+| **Work submitted to Moodle P01 link as directed**                         |  3 |  | -->
