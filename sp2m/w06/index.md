@@ -17,8 +17,7 @@ W06: This week starts Sprint 2 where you'll be writing your own Python code usin
 - P01 Sprint 1 Assessment review
 
 - [User Blink](../../lessons/24/piRoverUserBlink.pdf){:target='_blank'} 
-    - [gooddog_baddog.py](../../lessons/24/
-    goodDog_badDog.py){:target='_blank'} 
+    - [gooddog_baddog.py](../../lessons/24/goodDog_badDog.py){:target='_blank'} 
 
 ```console 
 wget https://k2controls.github.io/piRover01/lessons/24/goodDog_badDog.py
