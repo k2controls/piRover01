@@ -7,6 +7,8 @@ layout: default
 
 W07: You'll continue writing your own Python code using Visual Studio Code to control the GPIO ports on the Raspberry Pi. You'll expand your coding abilities by adding variables and decisions to your solutions.
 
+*Note: No classes next Tuesday due to NMC Professional Development*
+
 **Session 1**
 - [User Blink](../../lessons/24/piRoverUserBlink.pdf){:target='_blank'} 
     - Continued discussion from Week 06
