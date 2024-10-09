@@ -30,7 +30,11 @@ wget https://k2controls.github.io/piRover01/lessons/24/user_blink.py
     - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}
     - Introduction only - W08 content   
 
-- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'} 
+- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}
+
+```console
+wget https://k2controls.github.io/piRover01/lessons/25/traffic_light.py
+```
 
 ---
 
