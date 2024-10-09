@@ -21,12 +21,16 @@ wget https://k2controls.github.io/piRover01/lessons/24/user_blink.py
 
 **Session 2**
 
-<!-- 
-
 - User blink review
-- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W08 content)   
+    - input blink speed
+    - use of delay variable
+    - checking for invalid inputs
+
+- Introduction to GPIO as input
+    - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}
+    - Introduction only - W08 content   
+
 - [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'} 
--->
 
 ---
 
