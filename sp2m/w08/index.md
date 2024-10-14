@@ -8,9 +8,14 @@ layout: default
 W08: Your goal for this week is to extend your understanding of GPIO and decisions. You will configure the GPIO pin connected to the controller board's start switch as an input and use the button's state to determine the flow of code.
 
 **Session 1**
+
 - Code Reviews
   - User blink with delay
-  - [Traffic Light Project](../../lessons/25/traffic_light.pdf) (review from last week, refactor solution)
+  - [Traffic Light Project](../../lessons/25/traffic_light.pdf) 
+    - Copy week07 code to week08
+    - Retain earlier work - copy to traffic_light_w07.py
+    - Follow along with the instructor to refactor traffic_light.py solution
+
 - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'} 
   - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
   - [pushbutton_cycle.py](../../lessons/26/pushbutton_cycle.py)
@@ -40,7 +45,8 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 
 ### Assignments
 - **W08** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **traffic_light.py** (resubmit from W06)
+    - **traffic_light_w07.py** (resubmit from W07)
+    - **traffic_light.py** (refactored in class)
     - **pushbutton.py**
     - **pushbutton_toggle.py**
     - **pushbutton_cycle.py**
