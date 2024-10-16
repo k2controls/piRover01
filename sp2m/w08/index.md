@@ -30,7 +30,7 @@ W08: Your goal for this week is to extend your understanding of GPIO and decisio
 
 - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 
-- Smart traffic light
+- Smart traffic light - demonstration only
 
 <!--
 - User defined function - an introduction
