@@ -23,16 +23,19 @@ W08: Your goal for this week is to extend your understanding of GPIO and decisio
 
 
 **Session 2**
-- Smart traffic light
+
 - Start switch as input - continued
   - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
   - [pushbutton_cycle.py](../../lessons/26/pushbutton_cycle.py)
-  - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 
+- [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 
+- Smart traffic light
+
+<!--
 - User defined function - an introduction
 
-<!-- - [Motor Control Introduction](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
+ - [Motor Control Introduction](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
   - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
   - [motor_control_intro.py](../../lessons/29/motor_control_intro.py){:target='_blank'}
   

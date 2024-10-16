@@ -23,8 +23,10 @@ W08: Your goal for this week is to extend your understanding of GPIO and decisio
 - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'} 
   - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
   - [pushbutton_cycle.py](../../lessons/26/pushbutton_cycle.py)
-  - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
-- Smart traffic light
+  
+- [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
+
+- Smart traffic light - demonstration only
 
 <!-- 
 
