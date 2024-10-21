@@ -9,6 +9,9 @@ W08: We introduce user defined functions this week. We'll review piRover drive c
 
 **Session 1**
 - User defined function - an introduction
+  - create hello_function.py
+  - enter coding along with instructor
+  - set a breakpoint and test the use of parameters and return values.
 - [Motor Control Introduction](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
   - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
   - [motor_control_intro.py](../../lessons/29/motor_control_intro.py){:target='_blank'}
@@ -34,6 +37,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 
 ### Assignments
 - **W09** Assignments - Zip assignment files specified in the following activities and submit to the link below
+    - **hello_function.py**
     - **MotorControllerIntro.docx** (or .pdf)
     - **motor_controller_intro.py**
     - **Video lab check - short video showing forward, backward, and turning.**
