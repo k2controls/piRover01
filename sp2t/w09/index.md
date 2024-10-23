@@ -23,8 +23,6 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     
 **Session 2**
 
-**Session 2**
-
 - Motor Control Introduction - continued
   - Add GPIO coding to motor_control_intro.py
   - Test
