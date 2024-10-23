@@ -23,15 +23,24 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     
 **Session 2**
 
-<!-- - NMC Critical Thinking assessment
-- In class and on your own
-- Submit to Moodle link provided
+- Motor Control Introduction - continued
+  - Add GPIO coding to motor_control_intro.py
+  - Test
+  - Adjust logic enabling forward, backward, left turn, right turn, and stop
+  - Lab check video required this week
 
-- **Line Follower Preparation**
-  - This is an NMC Gen Ed Critial Thinking activity
-  - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
-  - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
- -->
+ 
+- NMC Critical Thinking assessment
+  - In class and on your own
+  - Submit to Moodle link provided
+
+<!-- >**Line Follower Preparation**<br>
+This is an NMC Gen Ed Critial Thinking activity<br>
+Download the following Word document from the Moodle link provided.<br>
+Fill in all table data as specified.<br>
+Submit by the in-class deadline using the link provided.<br> -->
+
+ 
 
 ---
 
