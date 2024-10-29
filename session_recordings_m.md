@@ -21,11 +21,12 @@
 - [10/14/2024](https://nmc.zoom.us/rec/share/nYXhe5eNJ2MvpvxJGB3I0MFfEFt29bQM77JnoA-5giCNqx7NDRVWcgmDZkPR6BFx.NbUhW5gP4MAi2Nia)
 - [10/16/2024](https://nmc.zoom.us/rec/share/KZOkEYJb61KwNRyGI8R9hc2gEfRlDXa5cch50vtxHmIbsHvuBfTFmCQaos0fa3Mb.oZaRnRsyZb5Q1vcW)
 - [10/21/2024](https://nmc.zoom.us/rec/share/N5gHpA8z_TVjNu-mmZeMlNP-rXHFx4-N9QPL7LEMz5KZp7kFeBN44-sPIAUWOKsC.qwMR77v3mWFc825h)
+- [10/23/2024](https://nmc.zoom.us/rec/share/i2Y31--F118fo0GMc5cYbXLcbrebPQ8o451KKzj_CCn_sBhB9Lxz9SQSREuy7YSN.KoZ3jLYZVJdVZ8jk)
+- [10/28/2024 - 1](https://nmc.zoom.us/rec/share/G4NXFDqHblXEr_XpjN9CNIRrzUOzZdc4LUb2QwAZIxIXjACyjiNdOVhXH97cJXlo.ShLxe9q5bTi3bVKf)
+- [10/28/2024 - 2](https://nmc.zoom.us/rec/share/YrxoqipAkO8BS5M7qA8IGocscoQFY0O9nUpelobA8rJn1GP49FKHfcJeShObs5_a.ycQaBAq1CK3TGP8N)
+
 
 <!--
-
-
-- [10/23/2024]()
 - [10/28/2024]()
 - [10/30/2024]()
 - [11/4/2024]()
