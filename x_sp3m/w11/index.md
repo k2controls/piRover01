@@ -7,7 +7,12 @@ layout: default
 
 W11: This week's focus in Pulse Width Modulation. This type of output provides an output pulse with the ability to control the duration of the pulse. This creates an analog value that can be used to dim an LED or control motor speed. 
 
-**Session 1**
+See old week 10
+Add scope discussion
+demo speed
+project P02 at end fo Session 1
+
+<!-- **Session 1**
 - [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review)
 - Review - Pulse Width Modulation (PWM) Introduction 
 - Review - Motor Speed Control - demo code from week 10
@@ -35,7 +40,7 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
     - piRover_buzzer_fake.py
     - piRover_LED_fake.py
     - piRover_servo_fake.py
-  - test fake implementation 
+  - test fake implementation  -->
 
 ---
 
