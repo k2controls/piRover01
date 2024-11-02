@@ -27,12 +27,12 @@ Additionally, please complete the sprint retrospective and submit any technical 
         - Do your own work. This is a final assesement.
         - No late work is accepted. Due Monday night.
     
-- **Session 2**
-    - **No class session on Thursday**
-    - Class session reserved for 
-        - P02 Project
-        - Retrospective
-        - Technical Debt
+**Session 2**
+- **No class session on Thursday**
+- Class session reserved for 
+    - P02 Project
+    - Retrospective
+    - Technical Debt
 
 ---
 
