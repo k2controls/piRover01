@@ -9,7 +9,7 @@ W12: This week's focus is Pulse Width Modulation. This type of output provides a
 
 
 **Session 1**
-- [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review)
+- [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review - *Moved to Wednesday*)
 - Review - Pulse Width Modulation (PWM) Introduction and Motor Speed Control
 - Sprint 3 Plan
   - Step 1 Keyboard interface
