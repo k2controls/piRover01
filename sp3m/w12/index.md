@@ -40,13 +40,10 @@ W12: This week's focus is Pulse Width Modulation. This type of output provides a
 
 ### Assignments
 - **W12** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **Keyboard interface document**
-    - **piRover_keyboard.py**
+    - **Keyboard interface document**- must have completed table with all rover functions identified and keystrokes assigned
+    - **piRover_keyboard.py** 
+      - must have selection structure (if/elif/else) that supports rover functions identified in interface document
+      - piRover_drive_fake is integrated with drive messages produced by fake rather than in main keyboard file
     - **piRover_drive_fake.py**
+      - includes function stubs for all drive operations including set_speed()
 
-
-    <!-- 
-    - ~~**piRover_buzzer_fake.py**~~
-    - ~~**piRover_led_fake.py**~~
-    - ~~**piRover_servo_fake.py**~~ 
-    -->
