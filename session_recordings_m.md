@@ -29,11 +29,13 @@
 - [11/4/2024](https://nmc.zoom.us/rec/share/2OF_f4PKZIIxjxAIQVKU8AyIclFXBXvUJFUS2NGdrR_veK_x-RQl0BVCjqNl8S9V.s9UBF6txOzSN-UDp)
 - [11/6/2024]()
 - [11/11/2024](https://nmc.zoom.us/rec/share/bc4B9mkcRUynh3qeG7LJjYmGpDJBCRERtH0elWhorB0Okcv9gRph2zP_qkFAXMLt.YEfK4WAKztpyT0w1)
+- [11/13/2024](https://nmc.zoom.us/rec/share/20oge_ib2znA3Mbe3HNwzaLzBq7J8K910V-2q2m2P6RsFiKN68dITflnVo0_pMvV.d6aaBoBDI5_n2bJ2)
+    - looks like I forgot to restart after break. I'll post part 2 from tomorrows class here as a substitute.
 
 
 <!--
 
-- [11/13/2024]()
+
 - [11/18/2024]()
 - [11/20/2024]()
 - [11/25/2024]()
