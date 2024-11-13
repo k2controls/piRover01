@@ -26,14 +26,15 @@ W12: This week's focus is Pulse Width Modulation. This type of output provides a
   
 **Session 2**
 
-<!-- - Review - Keyboard Interface Design (.docx or .pdf)
+- [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review)
+- Review - Keyboard Interface Design (.docx or .pdf)
 - Open the piRover solution on your Pi and create the final weekP03 directory. This folder will contain project code for the remainder of the semester.
 - Copy your piRover_keyboard.py code from the last session into your piRover solution. Revise and extend based on the class discussion.
   - extend to include speed value input.
 - Create/connect piRover_drive_fake.py
   - test fake implementation
 - Create other fakes as time permits
-    - piRover_buzzer_fake.py -->
+    - piRover_buzzer_fake.py
 
 ---
 
@@ -44,6 +45,8 @@ W12: This week's focus is Pulse Width Modulation. This type of output provides a
     - **piRover_drive_fake.py**
 
 
-    <!-- - ~~**piRover_buzzer_fake.py**~~
+    <!-- 
+    - ~~**piRover_buzzer_fake.py**~~
     - ~~**piRover_led_fake.py**~~
-    - ~~**piRover_servo_fake.py**~~ -->
+    - ~~**piRover_servo_fake.py**~~ 
+    -->
