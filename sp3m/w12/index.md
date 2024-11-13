@@ -33,8 +33,7 @@ W12: This week's focus is Pulse Width Modulation. This type of output provides a
   - extend to include speed value input.
 - Create/connect piRover_drive_fake.py
   - test fake implementation
-- Create other fakes as time permits
-    - piRover_buzzer_fake.py
+  - see assignment requirements below
 
 ---
 
