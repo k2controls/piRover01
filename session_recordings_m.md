@@ -32,11 +32,13 @@
 - [11/13/2024 part 1](https://nmc.zoom.us/rec/share/20oge_ib2znA3Mbe3HNwzaLzBq7J8K910V-2q2m2P6RsFiKN68dITflnVo0_pMvV.d6aaBoBDI5_n2bJ2)
     - looks like I forgot to restart after break. I'll post part 2 from tomorrows class here as a substitute.
     - [11/13/2024 part 2](https://nmc.zoom.us/rec/share/jSruwJ_5u-eJmnr9LNMZE41ytXCFV39b76pvFpG0oLUFsSuEcz3HsYB0hEsBurss.g_6Iy-wlTUV5icye?startTime=1731601717000)
+- [11/18/2024](https://nmc.zoom.us/rec/share/4Fk3VbrRfrOoHMKn4s7wQGvShGY9D5HByfjkF9ohyu4EcvBcO3g7r16QaFp65Ggn.2yfzzjxyUcbuYT9W)
+
 
 <!--
 
 
-- [11/18/2024]()
+
 - [11/20/2024]()
 - [11/25/2024]()
 - [11/27/2024]()
