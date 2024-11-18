@@ -5,6 +5,8 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 13
 
+[Makerspace Garage Sale](MakersGarageSaleFall2024.pdf){:target='_blank'} - this Friday and Saturday
+
 W13: You'll review and extend the main keyboard interface using fakes. You'll then create an piRoverDrive module that implements the required drive operations. Finally, you'll wire this piRoverDrive module to the keyboard drive interface.
 
 **Schedule**
