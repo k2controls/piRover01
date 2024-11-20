@@ -24,12 +24,8 @@ W13: You'll review and extend the main keyboard interface using fakes. You'll th
     - buzzer test with toggle
     - piRover_servo
   - Session 2
-    - piRover_keyboard.py - review and extensions
-    - piRover_switch.py 
-    - test_piRover_armed.py
-
-  <!-- - Session 2
-    - No class - Holiday break -->
+    - **No class** 
+    - Working session. Validate keyboard, fakes, and GPIO implementations in preparation for next week's P03 assessment.
 
 - Week 15
   - Session 1
