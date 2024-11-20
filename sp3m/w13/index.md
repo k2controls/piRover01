@@ -59,13 +59,14 @@ W13: You'll review and extend the main keyboard interface using fakes. You'll th
 **Session 2**
   - Motor Speed Control - review from prior session
   - implement piRover Drive
+  - implement piRover Buzzer if time permits
   - **Assigned**: piRover_led_fake.py including all R, G, and B functions
   
 ---
 
 ### Assignments
 - **W13** Assignments - Zip the following files created in your weekP03 working directory and submit to this week's assignment link.
-    - **piRover_keyboard.py**
+    - **piRover_keyboard.py** (Keyboard doc not required but keys assignments must be complete and match.)
     - **piRover_buzzer_fake.py**
     - **piRover_drive_fake.py**
     - **piRover_drive.py**
