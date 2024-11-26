@@ -34,7 +34,7 @@ W14: This is a short week due to the Thanksgiving break. You'll review your P03 
 - piRover_buzzer review
   - add beep(count)
 - piRover_switch
-- [piRover_servo](P03.Servo.pdf)
+- [piRover_servo](P03.Servo.pdf){:target='_blank'}
 - piRover_led
       - RGB, R, G, and B function implementations on your own
 
