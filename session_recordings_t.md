@@ -29,13 +29,11 @@
 - [11/14/2024 part 2](https://nmc.zoom.us/rec/share/jSruwJ_5u-eJmnr9LNMZE41ytXCFV39b76pvFpG0oLUFsSuEcz3HsYB0hEsBurss.g_6Iy-wlTUV5icye?startTime=1731601717000)
 - [11/19/2024](https://nmc.zoom.us/rec/share/hKf4CogaYI9wGA8-KpPl0xdKB4n9mKmkNzXY_LfhGOgOtWmvJ_nHs8fJ7_kUAoGN.oMKqZiyzrOmOadvq)
 - [11/21/2024](https://nmc.zoom.us/rec/share/tnyGgA1cGzRJN8TEYcMiIaCmoCXyFLpCLGCCgl4tfM4O0UIs_jb_iw3EEDSrx_TO.SvmsYLoXVEadiCmn)
+- [11/26/2024](https://nmc.zoom.us/rec/share/tmk-EVA-qWFdBU_xPHKKPpHF04efzr6hSs5fbDiIr0EfkHpC6gYj4zjKN-KuMNqI.leEixqOGB53TCbfb)
+
 
 <!--
 
-
-
-
-- [11/26/2024]()
 - [11/28/2024]()
 - [12/3/2024]()
 - [12/5/2024]()
