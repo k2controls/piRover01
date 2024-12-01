@@ -37,8 +37,14 @@ W15: You will complete P03 Part 1 this week providing a complete keyboard soluti
   - Include completed P03.piRoverKeyboard document. Key map must match your solution file.
 - Bluetooth introduction
   - Add [piRover_bluetooth.py](piRover_bluetooth.py)
-    - wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
-  - test_bluetooth.py (instructor demo)
+
+```console
+
+wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
+
+```
+
+- test_bluetooth.py (instructor demo)
 
     
 **Session 2**
