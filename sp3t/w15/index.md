@@ -40,7 +40,7 @@ W15: You will complete P03 Part 1 this week providing a complete keyboard soluti
 
 ```console
 
-wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
+wget https://k2controls.github.io/piRover01/sp3t/w15/piRover_bluetooth.py
 
 ```
 
