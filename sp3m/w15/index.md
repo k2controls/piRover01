@@ -11,8 +11,8 @@ W15: You will complete P03 Part 1 this week providing a complete keyboard soluti
 - Week 15
   - Session 1
     - **P03 Part 1 due** - piRover_keyboard
-    - Bluetooth introductionj
-  Session 2
+    - Bluetooth introduction
+  - Session 2
     - Bluetooth module and messaging
     - piRover_phone.py introduction
     - analog inputs
@@ -51,8 +51,11 @@ wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
   - P03 Part 1 due this week
   - P03 Part 2 due Wednesday, Dec 11
 - Bluetooth module and messaging
-  - piRover_bluetooth.py module added in session1
+  - piRover_bluetooth.py module added in session 1
   - piRover_phone.py introduction
+    - follow in class example
+    - refer to keyboard solution
+    - complete on your own.
   - analog inputs
 
 ---
