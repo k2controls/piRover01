@@ -33,6 +33,7 @@ W16: This is the final week.
     - two-button input
       - stop button required
       - shut down - LED_ON followed by LED_OFF
+- [Enabling Phone App at Startup](EnablingPhoneSolutionAtStartup.pdf){:target='_blank'}
 
 **Session 2**
 - **P03 part 2 due - video of your smartphone app in use**
