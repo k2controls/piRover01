@@ -27,8 +27,12 @@ W16: This is the final week.
     - piRover_led.py with dimming
 - Bluetooth module, messaging, and integration
 - P03 piRover_phone.py solution is due
-    - analog input
-    - start up, shut down
+    - Requirement review - see main Moodle page
+    - analog input - review
+    - start up
+    - two-button input
+      - stop button required
+      - shut down - LED_ON followed by LED_OFF
 
 **Session 2**
 - **P03 part 2 due - video of your smartphone app in use**
@@ -38,6 +42,8 @@ W16: This is the final week.
 ---
 
 ### Assignments
-- **P03 - part 2 - smartphone video** - Due Thursday by end of day
+- **P03 - part 2 - smartphone video** 
+  - Due Thursday by end of day
+  - See submission link on main Moodle page for checklist
 - **Debt03** (limited due to P03 final project)
 - **Retro03**
