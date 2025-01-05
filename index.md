@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# EGR 111 - Introduction to Computer Science (C Programming)
+# RAM155 - Microcontroller Programming
 
 ## Outline/Sprints
 

@@ -7,53 +7,50 @@ layout: default
 
 - Schedule
     - Sprint 1
-        - Week 1    Aug 26
+        - Week 1    Jan 14
             - Session 1 
             - Session 2 
-        - Week 2    Sept 3
+        - Week 2    Jan 21
             - Session 1 
             - Session 2 
-        - Week 3    Sept 9
+        - Week 3    Jan 28
             - Session 1 
             - Session 2 
-        - Week 4    Sept 16
+        - Week 4    Feb 4
             - Session 1
             - Session 2
-        - Week 5    Sept 23
+        - Week 5    Feb 11
             - Session 1     Sprint 1 Project
             - Session 2     No Class
     - Sprint 2
-        - Week 6    Sept 30
+        - Week 6    Feb 18
             - Session 1 
             - Session 2 
-        - Week 7    Oct 7
+        - Week 7    Feb 25
             - Session 1 
             - Session 2 
-        - Week 8    Oct 14
+        - Week 8    Mar 4
             - Session 1 
             - Session 2 
-        - Week 9    Oct 21
+        - Week 9    Mar 11
             - Session 1 
             - Session 2 
-        - Week 10   Oct 28
+        - Week 10   Mar 18
             - Session 1     Sprint 2 Project
             - Session 2     No class    
     - Sprint 3
-        - Week 11   Nov 4
+        - Week 11   Apr 1
             - Session 1 
             - Session 2 
-        - WeeK 12   Nov 11
+        - WeeK 12   Apr 8
             - Session 1 
             - Session 2 
-        - Week 13   Nov 18
+        - Week 13   Apr 15
             - Session 1 
             - Session 2 
-        - Week 14   Nov 25
+        - Week 14   Apr 22
             - Session 1 
             - Session 2 
-        - Week 15   Dec 2
-            - Session 1 
-            - Session 2   
-        - Week 16   Dec 9
+        - Week 15   Apr 29
             - Session 1     Sprint 3 Project
             - Session 2     No class
