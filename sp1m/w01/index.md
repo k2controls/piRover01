@@ -34,7 +34,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 
 **Session 2**
 
-- Zoom account? 
+<!-- - Zoom account? 
     - Were you able to join as a Zoom user?
     - Can you create a Zoom video recording?
         - Local Storge
@@ -80,7 +80,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
             - Show the rover
             - How long did it take to build
             - What were major obstacles or what was difficult
-            - What would you do differently next time
+            - What would you do differently next time -->
 
 
 ---
