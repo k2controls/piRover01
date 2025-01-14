@@ -13,6 +13,13 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     - Do you need to purchase an Ethernet adapter?
 - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
     - *Assigned* [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
+        - This is a Microsoft Word document
+        - Download the document and enter responses in the spaces provided
+        - If you cannot edit in Word
+            - Upload the document to your Google Drive
+            - Open and edit the document from the Google Drive page
+            - The instructor will demonstrate
+        - You must submit these assignment documents as either a Word file (.docx) or a PDF document (.pdf)
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
     - Pick up your RAM kit!
     - Take a look around the makerspace!
