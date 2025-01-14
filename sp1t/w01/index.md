@@ -28,13 +28,14 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     - End meeting
     - Check "Recording" tab and test recording link.
     - ![cloud recording link](zoom_recording_link.jpg)
-    - return to class Zoom to discuss
+    - Return to class Zoom 
+    - Paste video link into chat (if you were able to create a cloud recording)
 
 
 
 **Session 2**
 
-- Zoom account? 
+<!-- - Zoom account? 
     - Were you able to join as a Zoom user?
     - Can you create a Zoom video recording?
         - Local Storge
@@ -79,7 +80,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
             - Show the rover
             - How long did it take to build
             - What were major obstacles or what was difficult
-            - What would you do differently next time
+            - What would you do differently next time -->
 
 
 ---
