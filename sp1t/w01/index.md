@@ -47,7 +47,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
     - Can you create a Zoom video recording as a Cloud resource?
     - Create a short introduction video including name, program of studen, and something interesting about you! Submit Zoom cloud link with this week's assignment. See below.
 
-        <!-- - Local Storge
+<!-- - Local Storge
         - Create a screen capture of your Zoom window showing controls.
         - Paste the image into an email to me (kkelly@nmc.edu)
         - Provide the following information
