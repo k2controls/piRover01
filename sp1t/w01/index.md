@@ -42,12 +42,12 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 
 **Session 2**
 
-<!-- - Zoom account? 
+- Zoom account? 
     - Were you able to join as a Zoom user?
-    - Can you create a Zoom video recording?
-        - Local Storge
-        - Cloud Storage
-    - Troubleshooting
+    - Can you create a Zoom video recording as a Cloud resource?
+    - Create a short introduction video including name, program of studen, and something interesting about you! Submit Zoom cloud link with this week's assignment. See below.
+
+        <!-- - Local Storge
         - Create a screen capture of your Zoom window showing controls.
         - Paste the image into an email to me (kkelly@nmc.edu)
         - Provide the following information
@@ -58,10 +58,10 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
                 - other?
             - Is the Zoom app install?
             - Did you log into Zoom with your mail.nmc.edu account name?
-            - Anything else that you've have tried?
+            - Anything else that you've have tried? -->
 
 - Managing Project Files in the Cloud (Demo on submitting)
-    1. Create RAM155/Week01
+    1. Create RAM155/Week01 in your Google Drive
     2. Upload Raspberry Pi worksheet
     4. Add .mp4 file if you recorded the video locally (cloud preferred)
     4. Download folder as .zip
@@ -87,7 +87,7 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
             - Show the rover
             - How long did it take to build
             - What were major obstacles or what was difficult
-            - What would you do differently next time -->
+            - What would you do differently next time
 
 
 ---
@@ -97,5 +97,5 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 **W01** Assignments - Zip assignment files specified in the following activities and submit to the link below.
 
 - [**Raspberry Pi 4 Getting Started**](../../lessons/01/RaspberryPi4GettingStarted.Activity.docx){:target="_blank"}
-- **Your introduction video** (link or file)
+- **Your introduction video** (link or file, but Cloud link is preferred)
 - *Note*: piRover build activities are started this week but not due until next week. Be sure to create your first video when the first half of your build is completed. Both video 1 and video 2 are submitted in week 2.
