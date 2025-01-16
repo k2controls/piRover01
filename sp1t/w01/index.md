@@ -74,6 +74,8 @@ W01 - This weeks is about introductions. You'll be introduced to the course, the
 - [Introduction to the piRover](../../lessons/02/piRoverIntroduction.pdf){:target="_blank"}
     - [RAM155 student kit Bill of Materials (BOM)](../../RAM155_kit_BOM.pdf)
         
+- **Note - Build Session - this Saturday from 10:00 to noon in the Makerspace**         
+
 - Build process
     - [piRover Build Preparation](../../lessons/05/piRoverBuildPreparation.pdf){:target="_blank"}
     - [Introduction to Agile/Scrum](../../lessons/06/piRoverScrumStandup.pdf){:target="_blank"}
