@@ -8,6 +8,9 @@ layout: default
 W02 - This is a build and configure week. By the end of the week you will have the piRover built and be able to connect remotely. Classroom activities are limited this week to allow the additional time required to complete your build and resolve any connection issues. The piRover must be built and connected in preparation for next week activities. Be sure to create your two scrum videos (midpoint and final).
 
 **Session 1**
+
+- **Note:** No class next week Session 1 (Tuesday Jan 28). KEK is at a conference.
+
 - Week 01 submitted? Issues?
   - What cool Pi projects did you find?
   - Were you able to create a Zoom video? Did you share your screen? 
