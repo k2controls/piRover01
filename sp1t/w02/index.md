@@ -10,8 +10,9 @@ W02 - This is a build and configure week. By the end of the week you will have t
 **Session 1**
 - Week 01 submitted? Issues?
   - What cool Pi projects did you find?
-  - Were you able to create a Zoom video? Did you share your screen? Cloud or local?
-  - W01 assignment link is reactivated
+  - Were you able to create a Zoom video? Did you share your screen? 
+  - Only 7 submitted W01 work? What was the barrier?
+  
 - Build status? 
 - Midpoint scrum video due. Be sure to review and answer the three scrum questions. See Week 1 for prompts.
 - Final scrum video due. Be sure to review and answer the three scrum questions. Lessons learned? See Week 1 for prompts.
@@ -28,7 +29,7 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
 **Session 2**
 
-- Build updates. 
+<!-- - Build updates. 
 - Scrum videoa due. Be sure to review and answer the three scrum questions. Lessons learned?
   - [Creating an NMC Zoom recording](../../resources/CreatingAZoomRecording.pdf){:target="_blank"}
 
@@ -44,16 +45,17 @@ W02 - This is a build and configure week. By the end of the week you will have t
   - We'll repeat next session with the goal of have everyone connect.
   - If you are connecting to the NMC Wi-Fi Access Point configured for the piRover or other Pi devices. You'll need to following.
     - SSID: **NMC-PSK**
-    - PSK/password: **Baffle-Amused-Stencil4**
+    - PSK/password: **Baffle-Amused-Stencil4** -->
 
 ---
 
 ### Assignments
 - **W02** Assignments 
-  - Zip the following and post to W02 link.
-    - **Scrum videos** - midpoint and final. 
-      - Add video files to W02 zip or provide links.
-    - **Activity: Build Validation - Part 1**
-- For next week   
+  - Able to create cloud videos?
+    - Paste both Build/Scrum Video 1 and 2 links into the assignment text area and submit.
+  - No cloud recordings? 
+    - Create a zip file with both .mp4 files and submit to the assignment link.   
+
+- For next week...   
   - Review today's video and practice connecting remotely to your Pi Desktop. Can you set the Wi-Fi access so that you are connected to the Internet?
    
