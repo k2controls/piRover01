@@ -9,7 +9,11 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
 **Session 1**
 
-- **Note:** No class next week Session 1 (Tuesday Jan 28). KEK is at a conference.
+- **Note:** No class next week Session 1 (Tuesday Jan 28). 
+  - KEK is at a conference. 
+  - You must be able to connect to your rover by Thursday, Jan 30. Complete "I can connect!" Moodle assignment.
+  - If you have connection issues, please use next Tuesday's class time to visit the Makerspace to troubleshoot. Techs are available at 11:00.
+  - If you cannot connect, you must send a email to me so that I can track your efforts and troubleshoot.
 
 - Week 01 submitted? Issues?
   - What cool Pi projects did you find?
@@ -24,10 +28,13 @@ W02 - This is a build and configure week. By the end of the week you will have t
 - Yahboom G1 Tank power distribution 
 - [Battery Charging](../../lessons/10/BatteryCharging.pdf){:target="_blank"}
 - Demos:
-  - The instructor will preview the following. Your piRover should be built and have a fully charged battery for the next session. These demonstrations will be repeated with you following along
+  - The instructor will preview the following. Your piRover should be built and have a fully charged battery for the next session. These demonstrations will be repeated with you following along during Session 2.
   - Power up
   - Phone app
-  - A first look at [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+  - A first look at 
+    - [Creating A Remote Connection](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
+    - [Connecting to a Wi-AP](https://k2controls.github.io/RAMcommon/wifi/){:target="_blank"}
+    - These links are in the Tools section on Moodle.
 
 
 **Session 2**
@@ -61,4 +68,5 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
 - For next week...   
   - Review today's video and practice connecting remotely to your Pi Desktop. Can you set the Wi-Fi access so that you are connected to the Internet?
+  - Complete the "I can connect!" Moodle assignment before Thursday, Jan 30 class session.
    
