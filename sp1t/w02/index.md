@@ -39,8 +39,13 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
 **Session 2**
 
-<!-- - Build updates. 
-- Scrum videoa due. Be sure to review and answer the three scrum questions. Lessons learned?
+- No class session on Tuesday. 
+  - Working on Remote Connection and Wi-Fi access. Use today's recording and resources below.
+  - Everyone must be able to connect remotely by next Thursday.
+  - See Makerspace techs and send me email updates if not.
+
+- Build updates - issues? blockers? 
+- Scrum videos due. Be sure to review and answer the three scrum questions. Lessons learned?
   - [Creating an NMC Zoom recording](../../resources/CreatingAZoomRecording.pdf){:target="_blank"}
 
 - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
@@ -50,13 +55,13 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
   - **Video:** [Build Validation - Overview](https://youtu.be/RanVP2aGpzg){:target="_blank"}
 
-- [Connecting Remotely - second demo](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+- Connecting Remotely - a second look. 
   - This was previewed during the last session. Can you follow along to connect?
-  - We'll repeat next session with the goal of have everyone connect.
-  - If you are connecting to the NMC Wi-Fi Access Point configured for the piRover or other Pi devices. You'll need to following.
-    - SSID: **NMC-PSK**
-    - PSK/password: **Baffle-Amused-Stencil4** -->
-
+    - [Creating A Remote Connection](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
+    - [Connecting to a Wi-AP](https://k2controls.github.io/RAMcommon/wifi/){:target="_blank"}
+    - These links are in the Tools section on Moodle.
+  - You must be able to connect by next Thursday. Submit "I can connect!" desktop image. 
+  
 ---
 
 ### Assignments
