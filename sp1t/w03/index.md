@@ -9,21 +9,28 @@ W03 - During this week you continue to verify the function of your piRover by ru
 
 **Session 1**
 
+*NO CLASS SESSION - kek at a conference*
+
+**Session 2**
+
 - Connecting status
   - Are you able to control the piRover with your smartphone to complete Build Validation - Part 1?
   - Are you able to connect to the remote desktop using VNC?
+    - 4 of 12 submitted "I can connect!"
+
   - Were you able to complete initial configuration including changing your password and accessing Wi-Fi
     - Not a problem if you are having issues but our goal is to have everyone connected by Session 2. See assignment requirements for this week.
   
-- Review from Session 1
+- Startup, Control, Connect, and Configure
   - Startup - Smartphone app testing
   - [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
-  - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+  - [Creating A Remote Connection](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
 
 - Create a screen capture of your remote desktop connection
   - The instructor will demonstrate
   - See the Tools section on Moodle for tutorials on creating a screen capture
   - Paste the image into the Paint application or similar and name the file "RemoteConnection.jpg"
+  - Submit to "I can connect!"
 
 - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
   - **Video:** [Build Validation - Line Follower](https://youtu.be/k2n6r7ibBpA){:target="_blank"}
@@ -33,7 +40,7 @@ W03 - During this week you continue to verify the function of your piRover by ru
   - **NOTE:** - The camera feed does not function with the K2 version of the SD card. The required piRover AP host (192.168.50.1) is no longer configured.
 
 
-**Session 2**
+<!-- **Session 2**
 
 - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
   - Connect to your remote desktop
@@ -49,9 +56,9 @@ W03 - During this week you continue to verify the function of your piRover by ru
     - Hover or Wi-Fi icon in menu bar - your IP address is displayed
     - Test Internet connectivity in a terminal window
       - ping 8.8.8.8    (ctrl+C to exit)
-      - ping google.com (ctrl+C to exit)
+      - ping google.com (ctrl+C to exit) -->
 
-- **Assigned** - Create a Zoom video verifying your remote desktop and Internet connection
+<!-- - **Assigned** - Create a Zoom video verifying your remote desktop and Internet connection
   - Start Zoom in your "My Personal Meeting"
   - Record your session either locally or to the cloud
   - Share your Desktop selecting the VNC window
@@ -66,14 +73,18 @@ W03 - During this week you continue to verify the function of your piRover by ru
   - Google Drive
   - Moodle (elearn.nmc.edu)
 
-- Python - a first look
+- Python - a first look -->
 
 ---
 
 ### Assignments
 - **W03** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **Activity: Build Validation - Part 2**
-    - **Zoom video** showing remote desktop and Internet connectivity. See above.
+  - **Activity: Build Validation - Part 2**
+    - submit as either .docx or .pdf
+  - Submit "I can connect!"
+  - *IF YOU CANNOT CONNECT REMOTELY* you must work with the makerspace techs or Keith to resolve. Everyone must be connected to the piRover during Week 04 activites.
+
+    <!-- - **Zoom video** showing remote desktop and Internet connectivity. See above.
       - Add your mp4 file to this week's zip file
       - or paste the URL to your cloud recording in the text area
-        - **Note: if you cannot connect to create the connection video then use the text space in the assignment submission to describe your attempts including any assistance such as makerspace visits.**
+        - **Note: if you cannot connect to create the connection video then use the text space in the assignment submission to describe your attempts including any assistance such as makerspace visits.** -->
