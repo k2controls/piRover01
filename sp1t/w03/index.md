@@ -79,6 +79,8 @@ W03 - During this week you continue to verify the function of your piRover by ru
 
 ### Assignments
 - **W03** Assignments - Zip assignment files specified in the following activities and submit to the link below
+  - **Activity: Build Validation - Part 1**
+    - submit as either .docx or .pdf
   - **Activity: Build Validation - Part 2**
     - submit as either .docx or .pdf
   - Submit "I can connect!"
