@@ -16,7 +16,7 @@ W03 - During this week you continue to verify the function of your piRover by ru
 - Connecting status
   - Are you able to control the piRover with your smartphone to complete Build Validation - Part 1?
   - Are you able to connect to the remote desktop using VNC?
-    - 4 of 12 submitted "I can connect!"
+    - 7 of 12 submitted "I can connect!"
 
   - Were you able to complete initial configuration including changing your password and accessing Wi-Fi
     - Not a problem if you are having issues but our goal is to have everyone connected by Session 2. See assignment requirements for this week.
