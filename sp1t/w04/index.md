@@ -13,10 +13,10 @@ W04: In week 4, we start the transition from running someone else's code to writ
 
 - Build Validation review - issues? Does everything work?
   - [Build Validation 1](../../lessons/13/BuildValidationPart1.pdf){:target='_blank'}?
-  - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
+  - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.pdf){:target='_blank'}?
   
 - Remote connections 
-  - Status? 9 of 12 connected
+  - Status? 9 of 11 connected
 
 - Remote Desktop Review
   - piRover Browser
