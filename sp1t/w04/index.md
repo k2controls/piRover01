@@ -53,8 +53,6 @@ W04: In week 4, we start the transition from running someone else's code to writ
   
 **Session 2**
 
-<!-- - End of Sprint Project 1/Assessment moved to Week 06
-
 - Python coding using Visual Studio Code
   - Open VS Code using the terminal prompt
   
@@ -73,7 +71,7 @@ W04: In week 4, we start the transition from running someone else's code to writ
 - Single stepping using the debugger
 
 - [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
-  - This resource is installed on Raspian OS by default.
+  - This resource is installed on Raspberry OS by default.
 
 - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
 
@@ -86,7 +84,7 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Saving piRover code to your cloud storage
   - Copy files listed in Assignments to week04 in your Google Drive.
   - Download the week04 folder to your workstation.
-  - Submit the resulting week04.zip file to the Moodle assignment link. -->
+  - Submit the resulting week04.zip file to the Moodle assignment link.
 
 
 ---
