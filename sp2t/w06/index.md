@@ -28,8 +28,8 @@ wget https://k2controls.github.io/piRover01/lessons/24/user_blink.py
 
 
 **Session 2**
-
-- P01 Sprint 1 Assessment review
+<!-- 
+- P01 Sprint 1 Assessment review -->
 
 
 <!-- - User blink review
