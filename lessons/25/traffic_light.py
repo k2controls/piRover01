@@ -10,14 +10,16 @@
 
 #create constant to represent the green, amber,and red timings for EW
 
-#create timing variables for green, amber, and red
+# Use the timing variables below for green, amber, and red delay.
+# The value of the variable will be determined at runtime
+# once the user selects with NS or EW simulation. 
 green_delay = 0
 amber_delay = 0
 red_delay = 0 
 
 # Configure GPIO setting
 
-# Set specific pints as output
+# Set specific pins as output
 
 # Initialize all LEDs to OFF
 
@@ -26,4 +28,4 @@ red_delay = 0
 # Check user's direction input. If valid then set light timing variables
 
 # Use a while loop initially to test light cycles
-# Implement for loop as time permits
+# Implement *for* loop as time permits
