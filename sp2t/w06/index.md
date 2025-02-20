@@ -29,13 +29,13 @@ wget https://k2controls.github.io/piRover01/lessons/24/user_blink.py
 
 **Session 2**
 
-<!-- 
-- P01 Sprint 1 Assessment review -->
+- User blink review
+- Introduction to [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)  
+- Pair Coding: [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}  
 
-
-<!-- - User blink review
-- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}  
-- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)   -->
+```console 
+wget https://k2controls.github.io/piRover01/lessons/25/traffic_light.py
+```
 
 ---
 
