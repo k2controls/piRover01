@@ -30,15 +30,17 @@ W07: You'll continue writing your own Python code using Visual Studio Code to co
 
 **Session 2**
 
+- Next Tuesday - Gen Ed assessment
 
+- Introduction to GPIO as input - con't
+    - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
+    - [pushbutton_cycle.py](../../lessons/26/pushbutton_cycle.py)
 
+    - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 
-<!-- 
-- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'} 
+- Smart Traffic Light - Instructor Demo
 
-```console
-wget https://k2controls.github.io/piRover01/lessons/25/traffic_light.py
-``` -->
+- User defined function - an introduction
 
 ---
 
