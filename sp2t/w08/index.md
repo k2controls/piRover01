@@ -17,8 +17,11 @@ W08: We introduce user defined functions this week. We'll review piRover drive c
 
 >**Line Follower Preparation**<br>
 This is an NMC Gen Ed Critial Thinking activity<br>
-Download the following Word document from the Moodle link provided.<br>
-Fill in all table data as specified.<br>
+Download the following Word document.<br>
+
+[Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
+
+>Fill in all table data as specified.<br>
 Submit by the in-class deadline using the link provided.<br>
 
 
