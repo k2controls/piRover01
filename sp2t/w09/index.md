@@ -5,13 +5,15 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 2](../) - Week 09
 
-W08: We introduce user defined functions this week. We'll review piRover drive concepts and create intial drive code.
+W09: We'll review user-defined functions for prior week emphasizing the use of defining and using parameters. We'll then review piRover drive concepts and create intial drive code that includes function definitions for basic drive motions.
+
 
 **Session 1**
-- User defined function - an introduction
-  - create hello_function.py
-  - enter coding along with instructor
-  - set a breakpoint and test the use of parameters and return values.
+- User defined function - review
+  - parameters and argumente
+  - return values
+  - setting a breakpoint and testing using F10 and F11
+
 - [Motor Control Introduction](../../lessons/29/MotorControllerIntro.docx){:target='_blank'}
   - *Note:* Be sure to have a fully charged battery moving forward. We will be energizing the motors. This will draw significant charge from the battery.
   - [motor_control_intro.py](../../lessons/29/motor_control_intro.py){:target='_blank'}
@@ -23,7 +25,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     
 **Session 2**
 
-- Motor Control Introduction - continued
+<!-- - Motor Control Introduction - continued
   - Add GPIO coding to motor_control_intro.py
   - Test
   - Adjust logic enabling forward, backward, left turn, right turn, and stop
@@ -32,7 +34,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
  
 - NMC Critical Thinking assessment
   - In class and on your own
-  - Submit to Moodle link provided
+  - Submit to Moodle link provided -->
 
 <!-- >**Line Follower Preparation**<br>
 This is an NMC Gen Ed Critial Thinking activity<br>
@@ -46,7 +48,6 @@ Submit by the in-class deadline using the link provided.<br> -->
 
 ### Assignments
 - **W09** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **hello_function.py**
     - **MotorControllerIntro.docx** (or .pdf)
     - **motor_controller_intro.py**
     - **Video lab check - short video showing forward, backward, and turning.**
