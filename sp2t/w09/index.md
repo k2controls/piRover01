@@ -10,7 +10,7 @@ W09: We'll review user-defined functions for prior week emphasizing the use of d
 
 **Session 1**
 - User defined function - review
-  - parameters and argument
+  - parameters and arguments
   - return values
   - setting a breakpoint and testing using F10 and F11
 
