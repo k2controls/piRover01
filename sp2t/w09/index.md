@@ -9,6 +9,17 @@ W09: We'll review user-defined functions for prior week emphasizing the use of d
 
 
 **Session 1**
+- Sprint 2 schedule
+  - Today - Week 09 Session 1: Motor Control
+  - Thursday - Motor Controller - version 2
+  - Week 10 Session 1 
+    - Introduction to PWM
+    - Sprint 2 Project P02 assigned
+  - Week 10 Session 2 - No class
+    - Submit P02 by end of the day
+    - Debt and Retrospective
+  - Spring Break 3/22 - 3/30
+    
 - User defined function - review
   - parameters and arguments
   - return values
