@@ -43,7 +43,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 - Refactor to **motor_controller_V2.py**
   - revised design removing *sec* parameter
 
-- **Video lab check** required - short video showing forward, backward, and turning using V2 controller.**
+- **Video lab check** - short video showing forward, backward, and turning using V2 controller.
   - Use Zoom features to share VS Code window
   - Set breakpoint and run
   - Show resulting rover motion with camera
@@ -56,6 +56,7 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 - **W09** Assignments - Zip assignment files specified in the following activities and submit to the link below
     - **MotorControllerIntro.docx** (or .pdf)
     - **motor_controller_intro.py**
-    - **Video lab check - short video showing forward, backward, and turning.**
+    - **motor_controller_V2.py**
+    - **Video lab check - short video showing forward, backward, and turning using V2 code. Use Zoom screen share to show your code running.**
 
 <!-- - Note: Line Follower Preparation critical thinking activity is submitted in class using the Moodle link provided. -->
