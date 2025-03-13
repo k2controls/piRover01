@@ -15,7 +15,7 @@ W09: We'll review user-defined functions for prior week emphasizing the use of d
   - Week 10 Session 1 
     - Introduction to PWM
     - Sprint 2 Project P02 assigned
-  - Week 10 Session 2 - No class
+  - Week 10 Session 2/Thursday - *No Zoom class*
     - Submit P02 by end of the day
     - Debt and Retrospective
   - Spring Break 3/22 - 3/30
@@ -36,24 +36,19 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
     
 **Session 2**
 
-<!-- - Motor Control Introduction - continued
-  - Add GPIO coding to motor_control_intro.py
-  - Test
-  - Adjust logic enabling forward, backward, left turn, right turn, and stop
-  - Lab check video required this week
+- Motor Controller: **motor_controller_intro.py** - review
+  - Use of stop()
+  - Use of *sec* parameter?
+  - More testing
+- Refactor to **motor_controller_V2.py**
+  - revised design removing *sec* parameter
 
- 
-- NMC Critical Thinking assessment
-  - In class and on your own
-  - Submit to Moodle link provided -->
+- **Video lab check** required - short video showing forward, backward, and turning using V2 controller.**
+  - Use Zoom features to share VS Code window
+  - Set breakpoint and run
+  - Show resulting rover motion with camera
 
-<!-- >**Line Follower Preparation**<br>
-This is an NMC Gen Ed Critial Thinking activity<br>
-Download the following Word document from the Moodle link provided.<br>
-Fill in all table data as specified.<br>
-Submit by the in-class deadline using the link provided.<br> -->
 
- 
 
 ---
 
