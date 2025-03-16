@@ -8,28 +8,35 @@ layout: default
 W10: Here you'll review line follower inputs from the prior week. piRover drive concepts will be introduced as you work toward having the line follower inputs control the drive output.
 
 **Session 1**
-- [LineFollowerInput](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
-- Review: motor_control_intro.py
-- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
-- [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
+- Review: **motor_control_intro.py**
+- Review **motor_control_v2.py** 
+  - refactored removing delay parameters.
+  - use of time.sleep() in main code is required
 
-**Session 2**
 - [Pulse Width Modulation (PWM) Introduction](../../lessons/30/PulseWidthModulationIntro.pdf){:target='_blank'}
 
 ```
 wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
 ```
 
-- Next week is end of Sprint 2. 
-    - P02 project assigned
-    - No class next Thursday
+- ***P02 project assigned***
+  - No class for Session 2 - Thursday
+  - This time is allocated for P02 work
   - Submit project, debt, and retrospection by end of week. 
+
+
+**Session 2**
+  
+  - *No Zoom class session* - P02 work on your own
+  - Submit P02 project by then **end of the day (Thursday)**
+    - See P02 Moodle submission link
+  - Debt, and retrospection due by end of week (Monday of Spring Break).
+  - See submission links on Moodle 
 
 ---
 
 ### Assignments
-- **W10** Assignments - Zip assignment files specified in the following activities and submit to the link below
-    - **line_follower.py**
-    - **motor_controller_V2.py**
-    - **Video lab check - short video showing forward, backward, and turning using V2 controller. Describe difference between V1(intro) and V2.**
-    - **pwm_intro.py**
+- **W10** Assignments - This is an assessment week. Complete Project 2 and submit using the Moodle link provided. Enter technical debt and retrospective using the other links located at the end of the Sprint.
+    - **P02**  *(Due by Thursday end of the day 11:55PM)*
+    - **Debt02**
+    - **Retro02**
