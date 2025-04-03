@@ -36,20 +36,19 @@ W11: This week's focus in Pulse Width Modulation. This type of output provides a
   
 **Session 2**
 
-<!-- - Review your Keyboard Interface Design (.docx or .pdf) from Session 1.
+- Review your Keyboard Interface Design (.docx or .pdf) from Session 1.
+
+![alt text](p03_keyboard_requirements.png)
 
 - Open the piRover solution on your Pi and create the final weekP03 directory. This folder will contain project code for the remainder of the semester.
 
 - Create your piRover_keyboard.py file based on your planning document. The instructor will get you started.
-  - extend to include speed value input.
-
-
+  - extend to include all actions specified in the table above. Use key values that you specified in your Keyboard Interface Design document.
+  - Add key inputs for slider controls but don't be concerned with the additional analog slider value that will eventually be required. We'll work on this next week.
+  
 - Create/connect piRover_drive_fake.py
-- Create other fakes
-    - piRover_buzzer_fake.py
-    - piRover_LED_fake.py
-    - piRover_servo_fake.py
-  - test fake implementation  -->
+  - test fake implementation 
+  - add speed functionality as time permits.
 
 ---
 
