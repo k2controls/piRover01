@@ -52,14 +52,33 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
     
 **Session 2**
 
-<!-- - GPIO implementations
-  - Review/test drive module
-    - add left, right speed and test
-  - Build buzzer and test
+- weekP03 status
+
+| Requirement   | Status  | Comment             |
+|---------------|-------- |---------------------|
+|Planning doc   | Done    | revise?             |
+|pRover_keyboard| Done    | analog ins included |
+|buzzer_fake    | Done    | add beep N times?   |
+|drive_fake     | Done    | speed func added    |
+|led_fake       | Done    | RGB, red,green,blue |
+|servo_fake     | Done    |                     |
+|buzzer         | TODO    | implement GPIO      |
+|drive          | TODO    | implement GPIO      |
+|led            | TODO    | implement GPIO      |
+|servo          | TODO    | implement GPIO      |
+|switch         | Opt     | Optional            |
+
+
+- GPIO implementations
+  - Drive
+    - drive_init()
+    - add left, right, speed
+    - test
+  - Buzzer
+    - buzzer_init()
     - beep - use pwm for continuous beeping
     - add buzzer_beeps(beep_count):
-  - Servo
-  - Switch -->
+  - Servo as time permits
   
 ---
 
