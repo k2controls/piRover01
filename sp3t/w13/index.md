@@ -5,71 +5,82 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 3](../) - Week 13
 
-[Makerspace Garage Sale](MakersGarageSaleFall2024.pdf){:target='_blank'}  - this Friday and Saturday
-
-W13: You'll review and extend the main keyboard interface using fakes. You'll then create an piRoverDrive module that implements the required drive operations. Finally, you'll wire this piRoverDrive module to the keyboard drive interface.
+W13:  We'll continue with GPIO implmentation producing servo and switch code. The first part of P03 assessment is assigned.
 
 **Schedule**
 - Week 13
-  - Session 1 (today)
-    - Fakes and keyboard testing
-    
+  - Session 1
+    - Servo implementation
+    - Switch implementation and testing
   - Session 2
-    - Implement piRover_Drive
-    - Review all fakes. 
-    - Complete piRover_led_fake.py on your own.
+    - Arming the rover
+    - Introduction to Bluetooth messaging
+    - **P03 Part 1 due** - piRover_keyboard with Rover functions
 - Week 14
   - Session 1
-    - piRover_buzzer
-    - buzzer test with toggle
-    - piRover_servo
-
-  <!-- - Session 2
-    - piRover_keyboard.py - review and extensions
-    - piRover_switch.py 
-    - test_piRover_armed.py -->
-
+    - Bluetooth module, messaging, and integration
   - Session 2
-    - No class - Holiday break
-
+    - Analog inputs and operations
+    - P03 piRover_phone_app.py assigned
 - Week 15
   - Session 1
-    - P03 Part 1 due - piRover_keyboard
-  - Session 2
-    - Bluetooth module and messaging
-- Week 16
-  - Session 1
-    - piRover_phone_app.py
-      - analog input
-      - testing and extensions
-      - shut down
-      - start up
+    - No class session - P03 Part 2 working session
   - Session 2
     - No class session
-    - P03 Part 2 due
+    - **P03 Part 2 due**
     - Debt
     - Retro
 
-**Session 1**    
-- Review piRover_keyboard.py
-- Create and test fake implementation
-  - add piRover_buzzer_fake.py
-  - add piRover_servo_fake.py
-  - add piRover_led_fake.py
+**Session 1**
 
+- weekP03 status
+
+| Requirement   | Status  | Comment             |
+|---------------|-------- |---------------------|
+|Planning doc   | Done    | revise?             |
+|pRover_keyboard| Done    | analog ins included |
+|buzzer_fake    | Done    | add beep N times?   |
+|drive_fake     | Done    | speed func added    |
+|led_fake       | Done    | RGB, red,green,blue |
+|servo_fake     | Done    |                     |
+|buzzer         | Done    | done including PWM  |
+|drive          | Done    | done - turn, speed  |
+|led            | **TODO**    | implement GPIO      |
+|servo          | IP      | in progress      |
+|switch         | TODO    | used for 'arm'      |
+
+
+  - piRover_servo.py
+    - [P03.Servo.pdf](P03.Servo.pdf){:target='_blank'}
+  - piRover_switch.py 
+  - test_piRover_armed.py
+  - piRover_keyboard testing - all functional except LED
+  - [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
+    
 **Session 2**
-  - Motor Speed Control - review from prior session
-  - implement piRover Drive
-  - implement piRover Buzzer if time permits
-  - **Assigned**: piRover_led_fake.py including all R, G, and B functions
-  
+- No class today. 
+  - Working session for P03 Part1. 
+  - KEK will be on Zoom at start of class for any questions.
+  - piRover_led.py (on your own)
+  - Submit functional piRover_keyboard solution
+  - Include completed P03.piRoverKeyboard document. Key map (table 1) must match your solution file.
+  - Be sure to double-check your zip file to be sure all is included. See list in Assignment section below.
+
+
 ---
 
 ### Assignments
-- **W13** Assignments - Zip the following files created in your weekP03 working directory and submit to this week's assignment link.
-    - **piRover_keyboard.py** (Keyboard doc not required but keys assignments must be complete and match.)
-    - **piRover_buzzer_fake.py**
-    - **piRover_drive_fake.py**
-    - **piRover_drive.py**
-    - **piRover_led_fake.py** (must include red, green, and blue support)
-    - **piRover_servo_fake.py**
+- **W13** Assignments - Zip your weekP03 folder and submit. Be sure to add your updated P03.piRoverKeyboard document.
+  - **weekP03.zip**
+    - piRover_buzzer_fake.py
+    - piRover_buzzer.py (with pwm)
+    - piRover_drive_fake.py
+    - piRover_drive.py  (all drive and speed function)
+    - piRover_keyboard.py (with arming code)
+    - piRover_led_fake.py
+    - piRover_led.py (this implementation is on your own)
+    - piRover_servo_fake.py
+    - piRover_servo.py (left, right, center, set_position)
+    - piRover_switch.py
+    - test_piRover_armed.py (optional)
+    - **P03.piRoverKeyboard.docx** (.docx or .pdf) 
