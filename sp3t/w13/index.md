@@ -15,7 +15,7 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code. Th
     - Arming the rover
   - Session 2
     - *No class session* - P03 working session
-    - **P03 Part 1 due** - piRover_keyboard with Rover functions
+    - **P03 Part 1 due** - Due by Monday deadline - piRover_keyboard with Rover functions
 - Week 14
   - Session 1
     - Bluetooth module, messaging, and integration
