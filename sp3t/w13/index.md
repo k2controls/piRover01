@@ -53,7 +53,7 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code. Th
   - piRover_servo.py
     - [P03.Servo.pdf](P03.Servo.pdf){:target='_blank'}
   - piRover_switch.py 
-  - test_piRover_armed.py
+  - test_arm_rover.py.py
   - piRover_keyboard testing - all functional except LED
   - [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
     
@@ -73,14 +73,14 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code. Th
 - **W13** Assignments - Zip your weekP03 folder and submit. Be sure to add your updated P03.piRoverKeyboard document.
   - **weekP03.zip**
     - piRover_buzzer_fake.py
-    - piRover_buzzer.py (with pwm)
+    - piRover_buzzer.py *(with pwm)*
     - piRover_drive_fake.py
-    - piRover_drive.py  (all drive and speed function)
-    - piRover_keyboard.py (with arming code)
+    - piRover_drive.py  *(all drive and speed function)*
+    - piRover_keyboard.py *(must implement all functions in table 1)*
     - piRover_led_fake.py
-    - piRover_led.py (this implementation is on your own)
+    - piRover_led.py *(this implementation is on your own)*
     - piRover_servo_fake.py
-    - piRover_servo.py (left, right, center, set_position)
+    - piRover_servo.py *(left, right, center, set_position)*
     - piRover_switch.py
-    - test_piRover_armed.py (optional)
-    - **P03.piRoverKeyboard.docx** (.docx or .pdf) 
+    - test_arm_rover.py *(in class)*
+    - **P03.piRoverKeyboard.docx** *(.docx or .pdf)*
