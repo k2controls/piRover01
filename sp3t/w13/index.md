@@ -12,9 +12,9 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code. Th
   - Session 1
     - Servo implementation
     - Switch implementation and testing
-  - Session 2
     - Arming the rover
-    - Introduction to Bluetooth messaging
+  - Session 2
+    - *No class session* - P03 working session
     - **P03 Part 1 due** - piRover_keyboard with Rover functions
 - Week 14
   - Session 1
