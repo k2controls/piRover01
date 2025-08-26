@@ -5,8 +5,6 @@ layout: default
 
 ### [piRover01](../../) - [Sprint 1](../) - Week 01
 
-W01 - This weeks is about introductions. You'll be introduced to the course, the Raspberry Pi, and the piRover. You'll create your first video and submit either directly to Moodle or via a link (YouTube channel?). Pick up your piRover kit and you can get started on next week's build!
-
 **Session 1**
 - Welcome and [Course Introduction](../../course_info/CourseIntro-NMC.pdf){:target="_blank"}
     - Ethernet connection is required for week 2
