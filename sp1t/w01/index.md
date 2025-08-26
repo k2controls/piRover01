@@ -6,7 +6,7 @@ layout: default
 ### [piRover01](../../) - [Sprint 1](../) - Week 01
 
 **Session 1**
-- Welcome and [Course Introduction](../../course_info/CourseIntro-NMC.pdf){:target="_blank"}
+- Welcome and Course Introduction
     - Ethernet connection is required for week 2
     - Do you need to purchase an Ethernet adapter?
 - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}

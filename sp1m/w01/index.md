@@ -8,7 +8,7 @@ layout: default
 W01 - This weeks is about introductions. You'll be introduced to the course, the Raspberry Pi, and the piRover. You'll create your first video and submit either directly to Moodle or via a link (YouTube channel?). Pick up your piRover kit and you can get started on next week's build!
 
 **Session 1**
-- Welcome and [Course Introduction](../../course_info/CourseIntro-NMC.pdf){:target="_blank"}
+- Welcome and Course Introduction
     - Ethernet connection is required for week 2
     - Do you need to purchase an Ethernet adapter?
 - [Raspberry Pi 4 Getting Started](../../lessons/01/RaspberryPi4GettingStarted.pdf){:target="_blank"}
