@@ -3,11 +3,13 @@
 ### Session Recordings - Section 2049 T,Th
 
 - [08/26/2025](https://nmc.zoom.us/rec/share/toY1e8L-K9-uCiimWsmu6iUgBqr_OhA4ETADbiEqJt3r2YEWO6tMOIIeqeiJJaTp.LVNM5lGftk_yB12e)
+- [08/28/2025](https://nmc.zoom.us/rec/share/BDenv5Fj-UmtcSxYdIJPtF5X08TOU1YJ-_iOKov-RHJ7LZ9tt4cdGoJ36lm-OBtR.zQYkRJAQ7v_49nvI)
+
 
 <!--
 
 
-- [08/28/2025]()
+
 - [09/02/2025]()
 - [09/04/2025]()
 - [09/09/2025]()
