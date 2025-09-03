@@ -3,13 +3,15 @@
 ### Session Recordings - Section 2048 M,W
 - [08/25/2025]() <!--none cancelled -->
 - [08/27/2025](https://nmc.zoom.us/rec/share/Ngx1pt7DnXFYwRnXpdar2TAH6EFbsbzcclOCZOfEkW-7SPUE-K7yWeTMDXFmjgKh.1RqB_NDKcIBWY-EJ)
+- [09/01/2025]()
+- [09/03/2025](https://nmc.zoom.us/rec/share/iRBaSqC8Inasd07EB16ltrywkQ9H25luYa0f3wDcZHsuSl3-_FtniwDf9Wyk4zNi.mzwD6I7Waar1xxFv)
+
+
 
 <!--
 
-- [08/25/2025]()
-- [08/27/2025]()
-- [09/01/2025]()
-- [09/03/2025]()
+
+
 - [09/08/2025]()
 - [09/10/2025]()
 - [09/15/2025]()
