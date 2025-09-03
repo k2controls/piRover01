@@ -11,9 +11,10 @@ W02 - This is a build and configure week. By the end of the week you will have t
 - *** No class - Labor Day ***
 
 **Session 2**
-- Week 01 submitted? 
-  - W01 Zip file with Pi worksheet - issues?
-  - W01 Video - link to Zoom cloud recording - issues?
+- Week 01 submission 
+  - W01 Zip file with Pi worksheet 
+    - follow along with instructor to complete
+  - W01 Video - omitted but can you create a Zoom cloud recording?
   - What cool Pi projects did you find?
 
 - Build video due. 
