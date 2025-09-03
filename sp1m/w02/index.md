@@ -53,3 +53,4 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
 - For next week...   
   - Review session 2 video on remote connections and practice connecting remotely to your Pi Desktop. Can you set the Wi-Fi access so that you are connected to the Internet?
+  
