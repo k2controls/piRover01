@@ -38,9 +38,11 @@ W02 - This is a build and configure week. By the end of the week you will have t
 
 **Session 2**
 
-<!-- - Build updates - issues? blockers? 
-- Scrum videos due. Be sure to review and answer the three scrum questions. Lessons learned?
-  - [Creating an NMC Zoom recording](../../resources/CreatingAZoomRecording.pdf){:target="_blank"}
+- Build updates
+  - build complete?
+  - Smartphone app functional?
+  - issues? blockers? 
+- Build video due. See W02 Assignments below
 
 - [Test and Deploy (Hybrid Robotics)](../../lessons/12/TestAndDeploy.docx)
   - This is an in-class activity. You do not need to submit the completed assignment document.
@@ -54,8 +56,9 @@ W02 - This is a build and configure week. By the end of the week you will have t
     - [Creating A Remote Connection](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
     - [Connecting to a Wi-AP](https://k2controls.github.io/RAMcommon/wifi/){:target="_blank"}
     - These links are in the Tools section on Moodle.
-  - You must be able to connect by next Thursday. Submit "I can connect!" desktop image. 
-   -->
+  - You must be able to connect by next Tuesday. 
+    - Visit NMC Makerspace if you are having issues. Saturday hours are 10:30 to 3:00.
+ 
 ---
 
 ### Assignments
