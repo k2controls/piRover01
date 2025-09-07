@@ -55,7 +55,6 @@ W02 - This is a build and configure week. By the end of the week you will have t
   - This was previewed during the last session. Can you follow along to connect?
     - [Creating A Remote Connection](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
     - [Connecting to a Wi-AP](https://k2controls.github.io/RAMcommon/wifi/){:target="_blank"}
-    - These links are in the Tools section on Moodle.
   - You must be able to connect by next Tuesday. 
     - Visit NMC Makerspace if you are having issues. Saturday hours are 10:30 to 3:00.
  
