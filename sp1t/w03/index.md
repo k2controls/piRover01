@@ -31,7 +31,9 @@ W03 - During this week you continue to verify the function of your piRover by ru
   - If you are unable to connect, visit the makerspace and resolve issues prior to Session 2.
     - [Creating A Remote Connection](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
     - [Connecting to a Wi-AP](https://k2controls.github.io/RAMcommon/wifi/){:target="_blank"}
-    - Visit NMC Makerspace if you are having issues. 
+    - Visit NMC Makerspace if you are having issues.
+
+- Python programming and Visual Studio Code - a first look. 
 
 
 **Session 2**
