@@ -27,30 +27,57 @@ W03 - During this week you verify the function of your piRover by downloading, i
 
 **Session 2**
 
-<!-- - Connecting status
-  - Are you able to control the piRover with your smartphone to complete Build Validation - Part 1?
-  - Are you able to connect to the remote desktop using VNC?
-  - Were you able to complete initial configuration including changing your password and accessing Wi-Fi
-  
-- Review from Session 1
-  - Startup - Smartphone app testing
-  - [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
-  - [Connecting Remotely](../../lessons/11/CreatingARemoteConnection.pdf){:target="_blank"}
+- Build and app updates
+  - issues or blockers
 
-- Create a screen capture of your remote desktop connection
-  - The instructor will demonstrate
-  - See the Tools section on Moodle for tutorials on creating a screen capture
-  - Paste the image into the Paint application or similar and name the file "RemoteConnection.jpg"
+- [Build Validation - Part 1](../../lessons/13/BuildValidationPart1.docx)
+
+  - **Video:** [Build Validation - Overview](https://youtu.be/RanVP2aGpzg){:target="_blank"}
 
 - [Build Validation - Part 2](../../lessons/13/BuildValidationPart2.docx)
   - **Video:** [Build Validation - Line Follower](https://youtu.be/k2n6r7ibBpA){:target="_blank"}
   - **Video:** [Build Validation - Servo LEDs](https://youtu.be/Qzsm5Gdbr1w){:target="_blank"}
   - **Video:** [Build Validation - Sonar Tracking](https://youtu.be/oyVOCAg20fM){:target="_blank"}
-  - **Video:** [Build Validation - Camera    ](https://youtu.be/4QIFle79sMI){:target="_blank"}
+  - **Video:** [Build Validation - Camera](https://youtu.be/4QIFle79sMI){:target="_blank"}
   - **NOTE:** - The camera feed does not function with the K2 version of the SD card. The required piRover AP host (192.168.50.1) is no longer configured.
 
-- Linux command line - first demo
-- Python Code - first demo -->
+- Connecting Remotely - required each day!
+    - [Creating A Remote Connection](https://k2controls.github.io/RAMcommon/remote_desktop/CreatingARemoteConnection.pdf){:target="_blank"}
+    - [Connecting to a Wi-AP](https://k2controls.github.io/RAMcommon/wifi/){:target="_blank"}
+    - Visit NMC Makerspace if you are having issues.
+
+ - **You must be remotely connected this week!**
+    - Access assistance in the makerspace. See the Syllabus section for tech schedule.
+
+- The remote desktop
+  - Menu
+  - Browser
+  - File Explorer
+  - Terminal emulator
+  - Power issues
+  - Updates?
+  - Networking/Wi-Fi
+
+- Browser shortcuts
+  - Canvas
+  - Google Drive
+
+- An introduction to the Linux command line.
+ - [Introduction to Linux and Basic Linux Commands for Beginners](https://www.youtube.com/watch?v=IVquJh3DXUA&ab_channel=sakitech){:target="_blank"}  by sakitech
+  - [Linux Essentials Tutorials: A Beginner’s first 100 commands](https://factorpad.com/tech/linux-essentials/index.html) by FactorPad
+
+- RAM 155 workspace on the Pi
+  - create piRover directory
+  - create week04 directory
+
+- A first look at Python
+  - Demo - running Python from terminal prompt
+
+- A first look at Visual Studio Code
+  - Copy ColorLED.py to week04 folder
+  - Run. Issues?
+  - VS code investigation    
+    - Screen capture required this week.
 
 ---
 
