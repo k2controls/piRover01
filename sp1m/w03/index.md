@@ -68,13 +68,13 @@ W03 - During this week you verify the function of your piRover by downloading, i
 
 - RAM 155 workspace on the Pi
   - create piRover directory
-  - create week04 directory
+  - create week03 directory
 
 - A first look at Python
   - Demo - running Python from terminal prompt
 
 - A first look at Visual Studio Code
-  - Copy ColorLED.py to week04 folder
+  - Copy ColorLED.py to week03 folder
   - Run. Issues?
   - VS code investigation    
     - Screen capture required this week.
