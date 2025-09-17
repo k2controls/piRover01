@@ -47,7 +47,7 @@ W04: In week 4, we start the transition from running someone else's code to writ
   
 **Session 2**
 
-<!-- - Python coding using Visual Studio Code
+- Python coding using Visual Studio Code
   - Open VS Code using the terminal prompt
   
   ```console
@@ -55,17 +55,25 @@ W04: In week 4, we start the transition from running someone else's code to writ
   code .
   ```
 
-  - Review of ColorLED.py (see week04 assignments)
+  - Review of ColorLED.py (see session 1)
     - VS code investigation
+      - Review Activity Bar - Explorer
+      - Review Activity Bar - Run and Debug
     - Run code using toolbar or F5
+      - creating a launch.json file
 
-- Removing the Yahboom code conflict
-  - [Disabling Yahboom Bluetooth](../../lessons/21/DisablingYahboomBluetooth.pdf){:target='_blank'}
-
-- Single stepping using the debugger
+- Review: Removing the Yahboom code conflict
+  - See session 1
+  - No 4 beeps at boot or servo action
+  - ColorLED.py code runs without issues
+    - modify delays - e.g. 3 seconds
+    - set breakpoint and single-step
+    - "comment-out" code using Ctrl + /
 
 - [RPi.GPIO library](https://sourceforge.net/projects/raspberry-gpio-python/){:target='_blank'}
   - This resource is installed on Raspberry OS by default.
+
+- [Yahboom Expansion Board Manual](../../hardware_kit/expansionBoardManual.pdf){:target='_blank'}
 
 - [Blink with VS Code](../../lessons/22/piRoverBlink.pdf){:target='_blank'}
 
@@ -78,7 +86,7 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Saving piRover code to your cloud storage
   - Copy files listed in Assignments to week04 in your Google Drive.
   - Download the week04 folder to your workstation.
-  - Submit the resulting week04.zip file to the Moodle assignment link. -->
+  - Submit the resulting week04.zip file to the Moodle assignment link.
 
 
 ---
