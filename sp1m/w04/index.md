@@ -47,6 +47,13 @@ W04: In week 4, we start the transition from running someone else's code to writ
   
 **Session 2**
 
+<!-- - End of Sprint - Week 05 is next week
+  - Technical Debt
+  - Retrospection
+  - P01 assessment durring Session 2
+    - No Zoom Class Session
+    - Open P01, complete coding, create video, and post -->
+
 - Python coding using Visual Studio Code
   - Open VS Code using the terminal prompt
   

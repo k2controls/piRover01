@@ -47,7 +47,14 @@ W04: In week 4, we start the transition from running someone else's code to writ
   
 **Session 2**
 
-<!-- - Python coding using Visual Studio Code
+- End of Sprint - Week 05 is next week
+  - Technical Debt
+  - Retrospection
+  - P01 assessment durring Session 2
+    - No Zoom Class Session
+    - Open P01, complete coding, create video, and post
+
+- Python coding using Visual Studio Code
   - Open VS Code using the terminal prompt
   
   ```console
@@ -85,7 +92,7 @@ wget https://k2controls.github.io/piRover01/lessons/22/blink.py
 - Saving piRover code to your cloud storage
   - Copy files listed in Assignments to week04 in your Google Drive.
   - Download the week04 folder to your workstation.
-  - Submit the resulting week04.zip file to the Moodle assignment link. -->
+  - Submit the resulting week04.zip file to the Moodle assignment link.
 
 
 ---
