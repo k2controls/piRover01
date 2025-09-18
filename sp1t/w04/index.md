@@ -50,7 +50,7 @@ W04: In week 4, we start the transition from running someone else's code to writ
 - End of Sprint - Week 05 is next week
   - Technical Debt
   - Retrospection
-  - P01 assessment durring Session 2
+  - P01 assessment during Session 2
     - No Zoom Class Session
     - Open P01, complete coding, create video, and post
 
