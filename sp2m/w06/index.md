@@ -34,18 +34,14 @@ wget https://k2controls.github.io/piRover01/lessons/24/user_blink.py
 <!-- - Sprint 1 grade complete. See gradebook.
 - P01 Sprint 1 Assessment review -->
 
-
-<!-- - User blink review
-- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}  
-- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)   -->
-
-<!-- - User blink review
+- User blink review
+    - Adding delay variable
 - Introduction to [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}  (introduction only - W07 content)  
 - Pair Coding: [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'}  
 
 ```console 
 wget https://k2controls.github.io/piRover01/lessons/25/traffic_light.py
-``` -->
+```
 
 
 ---
