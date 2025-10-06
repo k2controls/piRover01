@@ -22,6 +22,7 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
   - Adding a *for* loop using *range()* function
 
 - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}
+    - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
 
 <!-- - Smart Traffic Light - demo/class coding 
 optional -->
