@@ -23,7 +23,7 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
 
 - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf){:target='_blank'}
     - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
-
+    - [Yahboom Expansion Board Manual](../../hardware_kit/expansionBoardManual.pdf){:target='_blank'}
 <!-- - Smart Traffic Light - demo/class coding 
 optional -->
 
