@@ -16,7 +16,7 @@ W07: Your goal for this week is to extend your understanding of GPIO and decisio
 - Additional Python resource?
   - [The Complete Python Course : Learn Python by Doing in 2025](https://www.udemy.com/course/the-complete-python-course/?utm_source=email-sendgrid&utm_medium=970600&utm_campaign=2023-10-09&utm_term=766460&utm_content=promo&couponCode=BIRTHDAY_SALE_23){:target='_blank'}
 
-- [Traffic Light Project](../../lessons/25/traffic_light.pdf) (review from last week, refactor solution){:target='_blank'}
+- [Traffic Light Project](../../lessons/25/traffic_light.pdf){:target='_blank'} (review from last week, refactor solution)
   - Use of constants
   - Decision structure
   - Adding a *for* loop using *range()* function
