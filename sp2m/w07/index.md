@@ -7,10 +7,14 @@ layout: default
 W07: Your goal for this week is to extend your understanding of GPIO and decisions. You will configure the GPIO pin connected to the controller board's start switch as an input and use the button's state to determine the flow of code.
 
 **Session 1**
-- P01 Review
+- P01 Review - see this week's traffic light solution
 - Grading - Sprint 1 complete
+  - See Grades link
+  - Use Arrange By option
+  - See course syllabus for percent to point grade (4.0, 3.5, etc.)
+
 - Additional Python resource?
-  - [The Complete Python Course | Learn Python by Doing in 2025](https://www.udemy.com/course/the-complete-python-course/?utm_source=email-sendgrid&utm_medium=970600&utm_campaign=2023-10-09&utm_term=766460&utm_content=promo&couponCode=BIRTHDAY_SALE_23){:target='_blank'}
+  - [The Complete Python Course : Learn Python by Doing in 2025](https://www.udemy.com/course/the-complete-python-course/?utm_source=email-sendgrid&utm_medium=970600&utm_campaign=2023-10-09&utm_term=766460&utm_content=promo&couponCode=BIRTHDAY_SALE_23){:target='_blank'}
 
 - [Traffic Light Project](../../lessons/25/traffic_light.pdf) (review from last week, refactor solution){:target='_blank'}
   - Use of constants
