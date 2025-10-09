@@ -30,14 +30,13 @@ optional -->
 
 **Session 2**
 
-<!-- - [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf) (continued)
+- [Pushbutton Input using GPIO](../../lessons/26/piRoverPushButton.pdf) (continued)
   - [pushbutton_toggle.py](../../lessons/26/pushbutton_toggle.py)
   - [pushbutton_cycle.py](../../lessons/26/pushbutton_cycle.py)
   - [Pushbutton Activity](../../lessons/26/PushButtonActivity.docx)
-- Smart traffic light
-- Infrared input - demo (jumper required)
-- Motor controller introduction
-  - test_drive.py -->
+
+- Motor controller introduction (as time permits)
+  - test_drive.py
   
 ---
 
@@ -48,4 +47,4 @@ optional -->
     - **pushbutton_toggle.py**
     - **pushbutton_cycle.py**
     - **Pushbutton Activity** (.docx or .pdf) 
-    - **test_drive.py**
+    - ~~**test_drive.py**~~
