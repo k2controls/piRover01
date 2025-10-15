@@ -13,14 +13,15 @@ layout: default
 
 **Session 2**
 
-<!-- - NMC Critical Thinking assessment
+- NMC Critical Thinking assessment
 - In class and on your own
 - Submit to course site using the link provided
 
 - **Line Follower Preparation**
   - This is an NMC Gen Ed Critial Thinking activity
   - Download the following Word document, fill in table data as specified, and submit by the in-class deadline using the link provided.
-  - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'} -->
+  - [Line Follower Preparation](../../lessons/27/LineFollowerPrepActivity.docx){:target='_blank'}
+  - Use this resource: [Yahboom Expansion Board Manual](../../hardware_kit/expansionBoardManual.pdf){:target='_blank'}
 
 
 ---
@@ -28,4 +29,4 @@ layout: default
 ### Assignments
 - **W08** Assignments 
   - None
-  <!-- - Note: Line Follower Preparation critical thinking activity is submitted in class during Session 2. -->
+  - *Note*: Line Follower Preparation critical thinking activity is submitted in class during Session 2.
