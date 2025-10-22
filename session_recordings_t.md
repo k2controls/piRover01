@@ -17,13 +17,15 @@
 - more...[10/02/2025](https://nmc.zoom.us/rec/share/kRcOg4aby_2OsrkBqW45PU0gIlUlQVnKQm5eN2Jm_2iigyFh8gdkJL6go4_8e4it.ev1CJwmOSeSCn-IX)
 - [10/07/2025](https://nmc.zoom.us/rec/share/bb_8ofSh-eSD_J57-LyIWcS6zgO-_lSyBCRxm5SBgXu1cVnAFStS6KNhqcpTgH4c.3KrVefOSrQqaak5W)
 - [10/09/2025](https://nmc.zoom.us/rec/share/nPvQUh83I0KjCXxo3jd30Yf-lcQPDIxPfU93yoCOfeWsBLJfg6n2dn3CGarSIxAG.c9rpJWXj_sO4MBnI)
+- [10/14/2025]()
+- [10/16/2025]()
+- [10/21/2025](https://nmc.zoom.us/rec/share/HQZFYNiR2jnPPD1Fvszl68YL4dCLKCdgUZvhDmwGNqF-Uvr1aE43Cm5u5rol9KYO.5BCzFmZ3myrWkLsQ)
+
 
 <!--
 
 
-- [10/14/2025]()
-- [10/16/2025]()
-- [10/21/2025]()
+
 - [10/23/2025]()
 - [10/28/2025]()
 - [10/30/2025]()
