@@ -16,14 +16,16 @@ W09: Here you'll review line follower inputs from the prior week. piRover drive 
     - Motor Control - version 1
   - Session 2 
     - Motor Controller - version 2
-  - Week 10  
-    - Introduction to PWM
-    - Revised Drive code
+  - Week 10
+    - Session 1  
+      - Introduction to PWM
+      - P02 End of Sprint Assessment assigned
+    - Session 2 - ***No Zoom class***
+      - **Submit P02 by end of the week 10**
+      - **Debt and Retrospective**
   - Week 11 
-    - Session 1 - P02 end of sprint project assigned.
-    - Session 2 - *No Zoom class*
-    - Submit P02 by end of the week 11
-    - Debt and Retrospective
+    - Sprint 3 start
+
 
 - [LineFollowerInput](../../lessons/28/LineFollowerInput.pdf){:target='_blank'}
   - Instructor will code solution
