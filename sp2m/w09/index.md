@@ -45,7 +45,14 @@ wget https://k2controls.github.io/piRover01/lessons/29/motor_control_intro.py
 
 **Session 2**
 
+- Motor Control Introduction - continued
+  - Add GPIO coding to motor_control_intro.py
+  - Adjust logic enabling forward, backward, left turn, right turn, and stop
+  - Testing including turns
+  - **Lab check video required this week. See link on main course page.**
 
+- motor_control_v2.py - the class will refactor the intro solution to remove delay parameters.
+  - How does this change the main routine that calls motor functions?
 
 ---
 
