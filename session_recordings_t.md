@@ -20,13 +20,13 @@
 - [10/14/2025]()
 - [10/16/2025]()
 - [10/21/2025](https://nmc.zoom.us/rec/share/HQZFYNiR2jnPPD1Fvszl68YL4dCLKCdgUZvhDmwGNqF-Uvr1aE43Cm5u5rol9KYO.5BCzFmZ3myrWkLsQ)
+- [10/23/2025](https://nmc.zoom.us/rec/share/IDTFqYNCiCQaplGUE0pJdYotztNvYTiDiQvaMz7LSUJ9Gs3PauzqanVr4xWRjzCk.fAxvOZ7NGgzqEIPU)
+
 
 
 <!--
 
 
-
-- [10/23/2025]()
 - [10/28/2025]()
 - [10/30/2025]()
 - [11/04/2025]()
