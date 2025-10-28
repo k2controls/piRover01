@@ -19,16 +19,11 @@
 - [10/15/2025]()
 - [10/20/2025](https://nmc.zoom.us/rec/share/0oq8EMPdGXsZTseclytnnh9u_mPCVYvUZAG43Kz4iJG5zrTyAb-dEiHlMrMA1BAM.5NZX7-6zJAMirE5H)
 - [10/22/2025](https://nmc.zoom.us/rec/share/WDIWs2LOj8cUFj_Cf1qQl92nOuqQpH-ZqhEeiqkSdp9EfLHnIEs6455lQxIns7Be.SmGlR6g8SK7lPWLk)
-
+- [10/27/2025](https://nmc.zoom.us/rec/share/Tuoci7hle0OM31B3CQhdBElJVvkvticWgh-IFR6M3dnUYMZlBv0SSnAhkkP9ZiAm.LUkTK8vVkir-dee_)
 
 
 <!--
 
-
-
-
-
-- [10/27/2025]()
 - [10/29/2025]()
 - [11/03/2025]()
 - [11/05/2025]()
