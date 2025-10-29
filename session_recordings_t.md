@@ -27,18 +27,25 @@
 <!--
 
 
-- [10/30/2025]()
-- [11/04/2025]()
-- [11/06/2025]()
-- [11/11/2025]()
-- [11/13/2025]()
-- [11/18/2025]()
-- [11/20/2025]()
-- [11/25/2025]()
-- [11/27/2025]()
-- [12/02/2025]()
-- [12/04/2025]()
-- [12/09/2025]()
-- [12/11/2025]()
-- [12/16/2025]()
+- [10/30/2025]()    p02 testing
+
+w11
+- [11/04/2025]()    p02 review, pwm, speed demo
+- [11/06/2025]()    keyboard design
+
+w12
+- [11/11/2025]()    Fakes - buzzer, drive, led,s servo
+- [11/13/2025]()    Fake testing, implement drive
+
+- [11/18/2025]()    buzzer and toggle
+- [11/20/2025]()    servo, switch, arming
+
+- [11/25/2025]()    p02 part 1 - No class
+
+- [12/02/2025]()        - Bluetooth module and messaging
+- [12/04/2025]()        - piRover_phone_app.py - analog messaging
+
+- [12/09/2025]()    No class - P03 part 2 working or     - piRover_phone_app.py  testing and extensions
+- [12/11/2025]()    No class - P03 due
+
  -->
