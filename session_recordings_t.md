@@ -22,15 +22,12 @@
 - [10/21/2025](https://nmc.zoom.us/rec/share/HQZFYNiR2jnPPD1Fvszl68YL4dCLKCdgUZvhDmwGNqF-Uvr1aE43Cm5u5rol9KYO.5BCzFmZ3myrWkLsQ)
 - [10/23/2025](https://nmc.zoom.us/rec/share/IDTFqYNCiCQaplGUE0pJdYotztNvYTiDiQvaMz7LSUJ9Gs3PauzqanVr4xWRjzCk.fAxvOZ7NGgzqEIPU)
 - [10/28/2025](https://nmc.zoom.us/rec/share/Xty1xmP7IecXfILBEeTkH652gYDTxDATrSFn0aXUSDNKMWHOJigdZkNfrgEPWld9.QLKmZu6WVdin0Gtx)
-
+- [10/30/2025]()
+- [11/04/2025](https://nmc.zoom.us/rec/share/_LF59QJa01GZpV1uIncJA62e64ED28GzJkERbAJoBvmmE9jk-LasdmyBztzY7pzn.G0hZz5-WexfmbUG1) 
 
 <!--
-
-
-- [10/30/2025]()    p02 testing
-
 w11
-- [11/04/2025]()    p02 review, pwm, speed demo
+   p02 review, pwm, speed demo
 - [11/06/2025]()    keyboard design
 
 w12
