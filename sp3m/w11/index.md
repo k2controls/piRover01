@@ -39,7 +39,7 @@ wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
   
 **Session 2**
 
-<!-- - [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'}  (solution/review during session 2)
+- [Project 02 - User Move](../../projects/P02/P02UserMove.pdf){:target='_blank'} 
     ![alt text](p02_requirements.png)
 
 - Review your Keyboard Interface Design (.docx or .pdf) from Session 1.
@@ -54,7 +54,7 @@ wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
   
 - Create/connect piRover_drive_fake.py
   - test fake implementation 
-  - add speed functionality as time permits. -->
+  - add speed functionality as time permits.
 
 
 ---
