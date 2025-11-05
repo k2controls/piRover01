@@ -52,9 +52,9 @@ wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
   - extend to include all actions specified in the table above. Use key values that you specified in your Keyboard Interface Design document.
   - Add key inputs for slider controls but don't be concerned with the additional analog slider value that will eventually be required. We'll work on this next week.
   
-- Create/connect piRover_drive_fake.py
-  - test fake implementation 
-  - add speed functionality as time permits.
+- ~~Create/connect piRover_drive_fake.py~~
+  - ~~test fake implementation~~ 
+  - ~~add speed functionality as time permits.~~
 
 
 ---
@@ -63,4 +63,4 @@ wget https://k2controls.github.io/piRover01/lessons/30/pwm_intro.py
 - **W11** Assignments - Zip assignment files specified in the following activities and submit to the link below
     - **Keyboard interface document**
     - **piRover_keyboard.py**
-    - **piRover_drive_fake.py**
+    - ~~**piRover_drive_fake.py**~~
