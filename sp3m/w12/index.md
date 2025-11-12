@@ -69,25 +69,28 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
 |buzzer_fake    | Done    |   |
 |drive_fake     | Done    | speed func added    |
 |led_fake       | Done    | red,green,blue with dim |
-|servo_fake     | Done    |                     |
+|servo_fake     | TODO    |                     |
 |buzzer         | TODO    | implement GPIO      |
 |drive          | TODO    | implement GPIO      |
 |led            | TODO    | implement GPIO      |
 |servo          | TODO    | implement GPIO      |
 |switch         | Opt     | Optional            |
 
+- servo_fake
+  - right, center, left, set_position
+
 - GPIO implementations
   - piRover_buzzer.py
   - piRover_drive.py
 
-- GPIO implementations - Drive
-  - drive_init()
-  - add left, right, speed
-  - test
-- GPIO implementations - Buzzer
-    - buzzer_init()
-    - beep - use pwm for continuous beeping
-    - add buzzer_beeps(beep_count):
+  - GPIO implementations - Drive
+    - drive_init()
+    - add left, right, speed
+    - test
+  - GPIO implementations - Buzzer
+      - buzzer_init()
+      - beep - use pwm for continuous beeping
+
 - GPIO implementations - Servo as time permits
   
 ---
