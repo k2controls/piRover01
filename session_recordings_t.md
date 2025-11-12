@@ -25,11 +25,11 @@
 - [10/30/2025]()
 - [11/04/2025](https://nmc.zoom.us/rec/share/_LF59QJa01GZpV1uIncJA62e64ED28GzJkERbAJoBvmmE9jk-LasdmyBztzY7pzn.G0hZz5-WexfmbUG1) 
 - [11/06/2025](https://nmc.zoom.us/rec/share/VGepcjheYVK55OamUfVQnUY33BdHnSPEOoDCwqDms25Q0UMtoJKcwfJn4EFdEgve.YwdAV8btY5HZQ5-8)
-
+- [11/11/2025](https://nmc.zoom.us/rec/share/7Xh_NR_oRCEIfA6FF3NDzJ9txQfs0iJqvXnu-iBgun9dS7wc9SGERx31VCcuhnKd.11YqRKXBK3gDf7SK) 
 
 <!--
 w12
-- [11/11/2025]()    Fakes - buzzer, drive, led,s servo
+   Fakes - buzzer, drive, led,s servo
 - [11/13/2025]()    Fake testing, implement drive
 
 - [11/18/2025]()    buzzer and toggle
