@@ -28,8 +28,7 @@
 - [11/11/2025](https://nmc.zoom.us/rec/share/7Xh_NR_oRCEIfA6FF3NDzJ9txQfs0iJqvXnu-iBgun9dS7wc9SGERx31VCcuhnKd.11YqRKXBK3gDf7SK) 
 
 <!--
-w12
-   Fakes - buzzer, drive, led,s servo
+
 - [11/13/2025]()    Fake testing, implement drive
 
 - [11/18/2025]()    buzzer and toggle
@@ -41,6 +40,5 @@ w12
 - [12/04/2025]()        - piRover_phone_app.py - analog messaging
 
 - [12/09/2025]()    No class - P03 part 2 working or     - piRover_phone_app.py  testing and extensions
-- [12/11/2025]()    No class - P03 due
 
  -->
