@@ -60,7 +60,7 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
     
 **Session 2**
 
-<!-- - weekP03 status
+- weekP03 status
 
 | Requirement   | Status  | Comment             |
 |---------------|-------- |---------------------|
@@ -69,7 +69,7 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
 |buzzer_fake    | Done    |   |
 |drive_fake     | Done    | speed func added    |
 |led_fake       | Done    | red,green,blue with dim |
-|servo_fake     | Done    |                     |
+|servo_fake     | TODO    |                     |
 |buzzer         | TODO    | implement GPIO      |
 |drive          | TODO    | implement GPIO      |
 |led            | TODO    | implement GPIO      |
@@ -84,12 +84,12 @@ W12: You'll review and extend the main keyboard interface using fakes. You'll th
   - drive_init()
   - add left, right, speed
   - test
+
 - GPIO implementations - Buzzer
     - buzzer_init()
     - beep - use pwm for continuous beeping
     - add buzzer_beeps(beep_count):
-- GPIO implementations - Servo as time permits
-   -->
+  
    
 ---
 
