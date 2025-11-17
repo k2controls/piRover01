@@ -65,8 +65,9 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
     - [P03.Servo.pdf](P03.Servo.pdf){:target='_blank'}
   - piRover_switch.py 
   - test_arm_rover.py.py
-  - piRover_keyboard testing - all functional except LED
-  - [P03 Part 1 assessment](P03.piRoverKeyboard.docx)
+
+  <!-- - piRover_keyboard testing - all functional except LED
+  - [P03 Part 1 assessment](P03.piRoverKeyboard.docx) -->
     
 **Session 2**
 
