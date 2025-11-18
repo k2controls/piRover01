@@ -7,21 +7,23 @@ layout: default
 
 W13:  We'll continue with GPIO implmentation producing servo and switch code. 
 
-**Schedule**
+**Schedule (Revised)**
 
 - Week 13
   - Session 1
     - piRover_Buzzer - review
     - piRover_Servo
+    - piRover_switch.py 
   - Session 2
     - piRover_keyboard.py - review and extensions
-    - piRover_switch.py 
-    - test_piRover_armed.py
+    - P03 Part 1 assigned
 - Week 14
   - Session 1
-    - P03 Part 1 due - piRover_keyboard
+    - *No Zoom class session*
+    - P03 Part 1 - work on your own.
+    - **P03 Part 1 Due** - end of the day on Wednesday, Nov 16
   - Session 2
-    - No class - Holiday break
+    - *No class - Holiday break*
 - Week 15
   - Session 1
     - Bluetooth module, messaging, and integration
@@ -36,8 +38,8 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
       - start up
       - Enabling at Startup
   - Session 2
-    - No class session
-    - **P03 Part 2 due**
+    - *No Zoom class session*
+    - **P03 Part 2 Due** - end of the day on Wednesday, Dec 10
     - Debt
     - Retro
 
@@ -66,8 +68,6 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
   - piRover_switch.py 
   - test_arm_rover.py.py
   
-<!-- - piRover_keyboard testing - all functional except LED
-  - [P03 Part 1 assessment](P03.piRoverKeyboard.docx) -->
     
 **Session 2**
 
