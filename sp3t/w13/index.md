@@ -65,6 +65,9 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
 
   - piRover_servo.py
     - [P03.Servo.pdf](P03.Servo.pdf){:target='_blank'}
+
+  - [Expansion Board Manual](https://k2controls.github.io/piRover01/hardware_kit/expansionBoardManual.pdf){:target='_blank'}
+
   - piRover_switch.py 
   - test_arm_rover.py.py
 
