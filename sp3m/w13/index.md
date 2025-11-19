@@ -93,8 +93,6 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
     - Submit to the course link by the deadline below. No late work is accepted
       - ***Due Date:*** P03 Part 1 - Wednesday, Nov 26 end of the day
 
-
-
 ---
 
 ### Assignments
