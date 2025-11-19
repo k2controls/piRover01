@@ -21,7 +21,7 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
   - Session 1
     - *No Zoom class session*
     - P03 Part 1 - work on your own.
-    - **P03 Part 1 Due** - end of the day on Wednesday, Nov 16
+    - **P03 Part 1 Due** - end of the day on Wednesday, Nov 26
   - Session 2
     - *No class - Holiday break*
 - Week 15
@@ -71,19 +71,28 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
     
 **Session 2**
 
-<!-- - test_arm_rover.py.py
-  - piRover_keyboard testing - all functional except LED
-  - [P03 Part 1 assessment](P03.piRoverKeyboard.docx) -->
+- piRover_keyboard testing 
+  - all functional except LED
 
+- Assigned: [P03 Part 1](P03.piRoverKeyboard.docx)
+  - Requirements - Table 1
+    - Table 1 defines required actions
+    - Table 1 identifies your keyboard interface design
+    - Table 1 indicates test results for fakes
+    - Table 1 indicates test results for finals
+  - Review and test Buzzer, Drive, and Servo
+    - Verify and identify any issues
+  - LED functionality
+    - Extend piRover_led_fake as required
+    - Implement piRover_led as required
+    - Test, verify, and identify any issues
+  - Assessment
+    - Review the grading rubric on the final page
+    - Zip your final weekP03 code and add your completed P03.piRoverKeyboard document as either a .docx or .pdf file
+    - Verify you zip file contains all required files
+    - Submit to the course link by the deadline below. No late work is accepted
+      - ***Due Date:*** P03 Part 1 - Wednesday, Nov 26 end of the day
 
-<!--   
-- No class today. 
-  - Working session for P03 Part1. 
-  - KEK will be on Zoom at start of class for any questions.
-  - piRover_led.py (on your own)
-  - Submit functional piRover_keyboard solution
-  - Include completed P03.piRoverKeyboard document. Key map (table 1) must match your solution file.
-  - Be sure to double-check your zip file to be sure all is included. See list in Assignment section below. -->
 
 
 ---
