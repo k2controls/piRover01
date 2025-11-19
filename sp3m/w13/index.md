@@ -59,8 +59,8 @@ W13:  We'll continue with GPIO implmentation producing servo and switch code.
 |buzzer         | Done    | done including PWM  |
 |drive          | Done    | done - turn, speed  |
 |led            | **TODO**    | implement GPIO      |
-|servo          | IP      | in progress      |
-|switch         | TODO    | used for 'arm'      |
+|servo          | Done     | in progress      |
+|switch         | Done    | used for 'arm'      |
 
 
   - piRover_servo.py
