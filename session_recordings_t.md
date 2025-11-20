@@ -28,13 +28,10 @@
 - [11/11/2025](https://nmc.zoom.us/rec/share/7Xh_NR_oRCEIfA6FF3NDzJ9txQfs0iJqvXnu-iBgun9dS7wc9SGERx31VCcuhnKd.11YqRKXBK3gDf7SK) 
 - [11/13/2025](https://nmc.zoom.us/rec/share/kc7HD-k52TTu7dvbnxrBZuLp-gAKBM8iprDUQEg-DU6-1UxekHSuUpM5BRFs3Fx4.byHVYb-lkWFWlMHx) 
 - [11/18/2025](https://nmc.zoom.us/rec/share/cNJTrDMQct7kH8HCNDzgHE0kLfPMBoGeIYaeGlbGA0pCtYGvCSRFLF96bNqHasJj.x7IRihE5MeXlIHRs)
+- [11/20/2025](https://nmc.zoom.us/rec/share/UB66m1oFweu18HaksVdy7HJbtdlPbddK-3S-tsYXsXCl6undz-OlugpJO4NJZQV_.kLNIj_a42pDnM32K) 
 
 
 <!--
-
-    buzzer and toggle
-- [11/20/2025]()    servo, switch, arming
-
 - [11/25/2025]()    p02 part 1 - No class
 
 - [12/02/2025]()        - Bluetooth module and messaging
