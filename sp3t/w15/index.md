@@ -41,7 +41,7 @@ W15: You will complete P03 Part 2 this week by adding a Bluetooth service that e
 
 ```console
 
-wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
+wget https://k2controls.github.io/piRover01/sp3t/w15/piRover_bluetooth.py
 
 ```
 

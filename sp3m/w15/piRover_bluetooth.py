@@ -77,6 +77,8 @@ def _decode_led_message(message:str):
     command_list.append([command_id,command_value])
 
 def get_command() -> tuple:
+    command_id = None
+    command_value = None
     if command_list:
         next_command = command_list.pop()
         command_id = next_command[0]
