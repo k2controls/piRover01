@@ -46,7 +46,7 @@ wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
 ```
 
 - test_bluetooth.py (instructor demo)
-
+- add piRover_phone.py
     
 **Session 2**
 
