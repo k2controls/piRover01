@@ -29,12 +29,11 @@
 - [11/13/2025](https://nmc.zoom.us/rec/share/kc7HD-k52TTu7dvbnxrBZuLp-gAKBM8iprDUQEg-DU6-1UxekHSuUpM5BRFs3Fx4.byHVYb-lkWFWlMHx) 
 - [11/18/2025](https://nmc.zoom.us/rec/share/cNJTrDMQct7kH8HCNDzgHE0kLfPMBoGeIYaeGlbGA0pCtYGvCSRFLF96bNqHasJj.x7IRihE5MeXlIHRs)
 - [11/20/2025](https://nmc.zoom.us/rec/share/UB66m1oFweu18HaksVdy7HJbtdlPbddK-3S-tsYXsXCl6undz-OlugpJO4NJZQV_.kLNIj_a42pDnM32K) 
-
+- [11/25/2025]()
+- [12/02/2025](https://nmc.zoom.us/rec/share/mR3KfH07KaRqmbN_luzkb5cmyOipLJtQvtAqPTGiQU88u2Y4yEIenFwpshGLcxa2.bcoQ19TKwCIIVqRY)
 
 <!--
-- [11/25/2025]()    p02 part 1 - No class
-
-- [12/02/2025]()        - Bluetooth module and messaging
+        - Bluetooth module and messaging
 - [12/04/2025]()        - piRover_phone_app.py - analog messaging
 
 - [12/09/2025]()    No class - P03 part 2 working or     - piRover_phone_app.py  testing and extensions
