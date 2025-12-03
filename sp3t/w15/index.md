@@ -75,5 +75,5 @@ wget https://k2controls.github.io/piRover01/sp3t/w15/piRover_bluetooth.py
 ---
 
 ### Assignments
-- Final P03 Part 2 in progress
+- Final [P03 Part 2](P03.piRoverPhone_part2.pdf){:target='_blank'} in progress
   - Submit Zoom video link to course link by Thursday deadline
