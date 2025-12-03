@@ -13,10 +13,10 @@ W15: You will complete P03 Part 2 this week by adding a Bluetooth service that e
     - Bluetooth module, messaging, and integration
   - Session 2
     - Analog inputs and operations
-    - piRover_phone_app.py
+    - piRover_phone.py
 - Week 16
   - Session 1
-    - piRover_phone_app.py
+    - piRover_phone.py
       - testing and extensions
       - shut down
       - start up
