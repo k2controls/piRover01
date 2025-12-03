@@ -50,18 +50,30 @@ wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
     
 **Session 2**
 
-<!-- - Short class session allowing work for P03 Parts 1 and 2. 
-  - P03 Part 1 due this week
-  - P03 Part 2 due Wednesday, Dec 11
+- P03 Part 2 due Wednesday, Dec 10
+  - Zoom video demonstrating smartphone functionality
+  - [P03 Part 2](P03.piRoverPhone_part2.pdf) requirements
 - Bluetooth module and messaging
   - piRover_bluetooth.py module added in session 1
   - piRover_phone.py introduction
     - follow in class example
     - refer to keyboard solution
     - complete on your own.
-  - analog inputs -->
+  - analog inputs 
+    - speed - constrain to 0 to 100
+    - dim - contrain to 0 to 100
+    - dim - see note on issue with toggle after dim
+- Enable multiple key presses
+  - add last_command_id
+  - Exit app with two successive LED_ON presses (L)
+  - Enable "latched" forward, backward, left, right
+    - sink "STOP" when basic motion is last command
+    - Keep stop on key up for alt moves
+- Arm Rover using controller board start button
+- Indicate disarm (done) using long beep
 
 ---
 
 ### Assignments
-- None - Final P03 Part 2 in progress 
+- Final P03 Part 2 in progress
+  - Submit Zoom video link to course link by Wednesday deadline
