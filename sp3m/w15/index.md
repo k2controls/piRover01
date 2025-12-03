@@ -52,7 +52,7 @@ wget https://k2controls.github.io/piRover01/sp3m/w15/piRover_bluetooth.py
 
 - P03 Part 2 due Wednesday, Dec 10
   - Zoom video demonstrating smartphone functionality
-  - [P03 Part 2](P03.piRoverPhone_part2.pdf) requirements
+  - [P03 Part 2](P03.piRoverPhone_part2.pdf){:target='_blank'} requirements
 - Bluetooth module and messaging
   - piRover_bluetooth.py module added in session 1
   - piRover_phone.py introduction
