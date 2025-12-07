@@ -8,17 +8,9 @@ layout: default
 W16: This is the final week.
 
 **Session 1**
-- P03 Part 1 review
-    - piRover_led.py with dimming
-- Bluetooth module, messaging, and integration
-- P03 piRover_phone.py solution is due
-    - Requirement review - see main course page
-    - analog input - review
-    - start up
-    - two-button input
-      - stop button required
-      - shut down - LED_ON followed by LED_OFF
-- [Enabling Phone App at Startup](EnablingPhoneSolutionAtStartup.pdf){:target='_blank'}
+- Optional session. Instructor will add the following but autostart is not required for P03 Part 2
+  - [Enabling Phone App at Startup](EnablingPhoneSolutionAtStartup.pdf){:target='_blank'}
+  - Open issues or questions?
 
 **Session 2**
 - **P03 part 2 due - video of your smartphone app in use**
